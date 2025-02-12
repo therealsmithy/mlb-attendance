@@ -2,27 +2,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 
-years = range(1957, 2025)
-
-# Baseball reference for W/L
-for year in years:
-    if year == 2020:
-        continue
-    else:
-        url = f'https://www.baseball-reference.com/leagues/majors/{year}.shtml'
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        response = requests.get(url, headers=headers)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        table = soup.find_all('table', {'id': 'expanded_standings_overall'})
-        headers = [th.text.strip() for th in table.find('thead').find_all('th')]
-        rows = []
-        for tr in table.find('tbody').find_all('tr'):
-            cells = [td.text.strip() for td in tr.find_all(['th', 'td'])]
-            rows.append(cells)
-        df = pd.DataFrame(rows, columns=headers)
-        df.to_csv(f'mlb_standings_{year}.csv', index=False)
-
 # Baseball cube for attendance
+years = range(1957, 2025)
 for year in years:
     if year == 2020:
         continue
@@ -41,3 +22,34 @@ for year in years:
             rows.append(cells)
         df = pd.DataFrame(rows, columns=header)
         df.to_csv(f'mlb_attendance_{year}.csv', index=False)
+
+# Baseball reference for W/L
+years = range(1957, 1969)
+for year in years:
+    url = f'https://www.baseball-reference.com/leagues/majors/{year}.shtml'
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    table = soup.find_all('table', {'id': 'expanded_standings_overall'})
+    headers = [th.text.strip() for th in table.find('thead').find_all('th')]
+    rows = []
+    for tr in table.find('tbody').find_all('tr'):
+        cells = [td.text.strip() for td in tr.find_all(['th', 'td'])]
+        rows.append(cells)
+    df = pd.DataFrame(rows, columns=headers)
+    df.to_csv(f'mlb_standings_{year}.csv', index=False)
+
+years = range(1969, 2025)
+for year in years:
+    url = f'https://www.baseball-reference.com/leagues/majors/{year}-standings.shtml'
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    table = soup.find('table', {'id': 'expanded_standings_overall'})
+    headers = [th.text.strip() for th in table.find('thead').find_all('th')]
+    rows = []
+    for tr in table.find('tbody').find_all('tr'):
+        cells = [td.text.strip() for td in tr.find_all(['th', 'td'])]
+        rows.append(cells)
+    df = pd.DataFrame(rows, columns=headers)
+    df.to_csv(f'mlb_standings_{year}.csv', index=False)
