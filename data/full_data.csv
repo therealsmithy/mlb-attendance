@@ -177,52 +177,36 @@ year,Tm,Attendance,Attend/G,W,L
 1913,Brooklyn Dodgers,"347,000","4,506",65.0,84.0
 1914,New York Yankees,"359,477","4,609",70.0,84.0
 1914,New York Giants,"364,313","4,554",84.0,70.0
-1914,Kansas City Packers,,,67.0,84.0
-1914,Indianapolis Hoosiers,,,88.0,65.0
 1914,Detroit Tigers,"416,225","5,336",80.0,73.0
 1914,Cleveland Naps,"185,997","2,354",51.0,102.0
 1914,Cincinnati Reds,"100,791","1,309",60.0,94.0
 1914,Washington Nationals,"243,888","3,167",81.0,73.0
 1914,Chicago White Sox,"469,290","5,794",70.0,84.0
-1914,Pittsburgh Rebels,,,64.0,86.0
 1914,Philadelphia Athletics,"346,641","4,444",99.0,53.0
 1914,Philadelphia Phillies,"138,474","1,775",74.0,80.0
 1914,Pittsburgh Pirates,"139,620","1,813",69.0,85.0
 1914,St. Louis Browns,"244,714","3,021",71.0,82.0
-1914,St. Louis Terriers,,,62.0,89.0
 1914,St. Louis Cardinals,"256,099","3,242",81.0,72.0
-1914,Baltimore Terrapins,,,84.0,70.0
 1914,Boston Red Sox,"481,359","6,093",91.0,62.0
 1914,Brooklyn Dodgers,"122,671","1,553",75.0,79.0
 1914,Boston Braves,"382,913","4,847",94.0,59.0
-1914,Brooklyn Tip-Tops,,,77.0,77.0
-1914,Buffalo Buffeds,,,80.0,71.0
 1914,Chicago Cubs,"202,516","2,665",78.0,76.0
-1914,Chicago Chi-Feds,,,87.0,67.0
-1915,Chicago Whales,,,86.0,66.0
 1915,Chicago Cubs,"217,058","2,819",73.0,80.0
-1915,Buffalo Blues,,,74.0,78.0
-1915,Brooklyn Tip-Tops,,,70.0,82.0
 1915,Boston Braves,"376,283","4,824",83.0,69.0
 1915,Brooklyn Dodgers,"297,766","3,818",80.0,72.0
 1915,Boston Red Sox,"539,885","7,104",101.0,50.0
 1915,Chicago White Sox,"539,461","6,829",93.0,61.0
-1915,Baltimore Terrapins,,,47.0,107.0
 1915,St. Louis Cardinals,"252,666","3,119",72.0,81.0
-1915,St. Louis Terriers,,,87.0,67.0
 1915,St. Louis Browns,"150,358","1,978",63.0,91.0
 1915,Pittsburgh Pirates,"225,743","2,858",73.0,81.0
 1915,Philadelphia Phillies,"449,898","5,920",90.0,62.0
 1915,Philadelphia Athletics,"146,223","1,976",43.0,109.0
-1915,Pittsburgh Rebels,,,86.0,67.0
 1915,Washington Nationals,"167,332","2,092",85.0,68.0
 1915,New York Yankees,"256,035","3,122",69.0,83.0
-1915,Newark Pepper,,,80.0,72.0
 1915,New York Giants,"391,850","5,156",69.0,83.0
 1915,Detroit Tigers,"476,105","6,183",100.0,54.0
 1915,Cleveland Indians,"159,285","2,069",57.0,95.0
 1915,Cincinnati Reds,"218,878","2,771",71.0,83.0
-1915,Kansas City Packers,,,81.0,72.0
 1916,Brooklyn Robins,"447,747","5,740",94.0,60.0
 1916,St. Louis Browns,"335,740","4,250",79.0,75.0
 1916,Philadelphia Phillies,"515,365","6,524",91.0,62.0
@@ -290,230 +274,125 @@ year,Tm,Attendance,Attend/G,W,L
 1920,Boston Red Sox,"402,445","5,295",72.0,81.0
 1920,Brooklyn Robins,"808,722","10,368",93.0,61.0
 1920,Boston Braves,"162,483","2,196",62.0,90.0
-1920,Chicago American Giants,,,43.0,17.0
 1920,Chicago Cubs,"480,783","6,244",75.0,79.0
 1920,Chicago White Sox,"833,492","10,825",96.0,58.0
 1920,Cincinnati Reds,"568,107","7,378",82.0,71.0
-1920,Indianapolis ABCs,,,44.0,38.0
 1920,New York Yankees,"1,289,422","16,746",95.0,59.0
-1920,Chicago Giants,,,5.0,31.0
 1920,Detroit Tigers,"579,650","7,431",61.0,93.0
-1920,Cuban Stars West,,,35.0,34.0
-1920,Detroit Stars,,,37.0,27.0
-1920,Kansas City Monarchs,,,44.0,33.0
 1920,New York Giants,"929,609","11,620",86.0,68.0
-1920,Dayton Marcos,,,16.0,36.0
 1920,St. Louis Browns,"419,311","5,376",76.0,77.0
 1920,Philadelphia Athletics,"287,888","3,739",48.0,106.0
 1920,Pittsburgh Pirates,"429,037","5,500",79.0,75.0
 1920,Philadelphia Phillies,"330,998","4,299",62.0,91.0
 1920,St. Louis Cardinals,"326,836","4,300",75.0,79.0
-1920,St. Louis Giants,,,32.0,40.0
 1920,Washington Nationals,"359,260","4,727",68.0,84.0
 1920,Cleveland Indians,"912,832","11,703",98.0,56.0
 1921,New York Yankees,"1,230,696","15,778",98.0,55.0
 1921,New York Giants,"973,477","12,322",94.0,59.0
-1921,Kansas City Monarchs,,,54.0,41.0
-1921,Detroit Stars,,,30.0,33.0
 1921,Detroit Tigers,"661,527","8,591",71.0,82.0
-1921,Cincinnati Cuban Stars,,,29.0,40.0
-1921,Chicago Giants,,,10.0,35.0
-1921,Columbus Buckeyes,,,30.0,38.0
 1921,St. Louis Browns,"355,978","4,623",81.0,73.0
 1921,Philadelphia Athletics,"344,430","4,473",53.0,100.0
 1921,Pittsburgh Pirates,"701,567","9,231",90.0,63.0
 1921,Philadelphia Phillies,"273,961","3,605",51.0,103.0
 1921,St. Louis Cardinals,"384,773","4,933",87.0,66.0
-1921,St. Louis Giants,,,43.0,31.0
 1921,Washington Nationals,"456,069","6,001",80.0,73.0
-1921,Indianapolis ABCs,,,37.0,37.0
 1921,Cleveland Indians,"748,705","9,723",94.0,60.0
 1921,Cincinnati Reds,"311,227","4,095",70.0,83.0
 1921,Chicago White Sox,"543,650","7,060",62.0,92.0
 1921,Chicago Cubs,"410,107","5,396",64.0,89.0
-1921,Chicago American Giants,,,44.0,22.0
 1921,Boston Braves,"318,627","4,306",79.0,74.0
 1921,Brooklyn Robins,"613,245","7,862",77.0,75.0
 1921,Boston Red Sox,"279,273","3,627",75.0,79.0
 1922,Washington Nationals,"458,552","5,804",69.0,85.0
 1922,St. Louis Cardinals,"536,998","6,974",85.0,69.0
-1922,St. Louis Stars,,,26.0,36.0
 1922,St. Louis Browns,"712,918","9,259",93.0,61.0
 1922,Pittsburgh Pirates,"523,675","6,714",85.0,69.0
-1922,Pittsburgh Keystones,,,14.0,24.0
 1922,Philadelphia Phillies,"232,471","3,019",57.0,96.0
 1922,Cleveland Indians,"528,145","6,602",78.0,76.0
 1922,Boston Red Sox,"259,184","3,550",61.0,93.0
 1922,Brooklyn Robins,"498,865","6,396",76.0,78.0
 1922,Boston Braves,"167,965","2,210",53.0,100.0
-1922,Chicago American Giants,,,37.0,24.0
 1922,Chicago Cubs,"542,283","7,135",80.0,74.0
 1922,Chicago White Sox,"602,860","7,829",77.0,77.0
 1922,Cincinnati Reds,"493,754","6,250",86.0,68.0
-1922,Indianapolis ABCs,,,50.0,34.0
-1922,Detroit Stars,,,42.0,31.0
 1922,New York Yankees,"1,026,134","13,326",94.0,60.0
 1922,New York Giants,"945,809","11,972",93.0,61.0
-1922,Kansas City Monarchs,,,47.0,31.0
-1922,Cleveland Tate Stars,,,15.0,26.0
 1922,Detroit Tigers,"861,206","11,184",79.0,75.0
-1922,Cuban Stars West,,,18.0,43.0
 1922,Philadelphia Athletics,"425,356","5,453",65.0,89.0
 1923,Washington Nationals,"357,406","4,524",75.0,78.0
-1923,Toledo Tigers,,,10.0,17.0
 1923,St. Louis Cardinals,"338,551","4,340",79.0,74.0
-1923,St. Louis Stars,,,29.0,43.0
 1923,St. Louis Browns,"430,296","5,517",74.0,78.0
 1923,Pittsburgh Pirates,"611,082","7,936",87.0,67.0
 1923,Philadelphia Phillies,"228,168","3,042",50.0,104.0
-1923,Detroit Stars,,,39.0,27.0
 1923,Detroit Tigers,"911,377","11,836",83.0,71.0
-1923,Cleveland Tate Stars,,,,
-1923,Cuban Stars West,,,24.0,33.0
-1923,Cuban Stars East,,,22.0,16.0
 1923,Cleveland Indians,"558,856","7,165",82.0,71.0
 1923,Cincinnati Reds,"575,063","7,373",91.0,63.0
 1923,Chicago White Sox,"573,778","7,650",69.0,85.0
 1923,Chicago Cubs,"703,705","9,139",83.0,71.0
-1923,Chicago American Giants,,,39.0,24.0
 1923,Boston Braves,"227,802","2,958",54.0,100.0
 1923,Brooklyn Robins,"564,666","7,239",76.0,78.0
-1923,Brooklyn Royal Giants,,,16.0,16.0
 1923,Boston Red Sox,"229,688","2,945",61.0,91.0
-1923,Baltimore Black Sox,,,19.0,33.0
-1923,Birmingham Black Barons,,,,
-1923,Atlantic City Bacharach Giants,,,23.0,25.0
 1923,New York Yankees,"1,007,066","13,251",98.0,54.0
 1923,New York Giants,"820,780","10,659",95.0,58.0
-1923,New York Lincoln Giants,,,17.0,23.0
-1923,Memphis Red Sox,,,,
-1923,Milwaukee Bears,,,11.0,42.0
-1923,Kansas City Monarchs,,,54.0,32.0
-1923,Hilldale Club,,,37.0,21.0
 1923,Philadelphia Athletics,"534,122","7,122",69.0,83.0
-1923,Indianapolis ABCs,,,44.0,32.0
-1924,Washington Potomacs,,,21.0,38.0
-1924,St. Louis Stars,,,43.0,41.0
 1924,St. Louis Cardinals,"272,885","3,544",65.0,89.0
 1924,Pittsburgh Pirates,"736,883","9,570",90.0,63.0
 1924,Philadelphia Phillies,"299,818","3,945",55.0,96.0
 1924,Philadelphia Athletics,"531,992","7,093",71.0,81.0
 1924,St. Louis Browns,"533,349","6,838",74.0,78.0
-1924,Cuban Stars West,,,18.0,35.0
-1924,Cuban Stars East,,,15.0,33.0
 1924,Cleveland Indians,"481,905","6,425",67.0,86.0
 1924,Cincinnati Reds,"473,707","6,233",83.0,70.0
 1924,Chicago White Sox,"606,658","7,879",66.0,87.0
 1924,Chicago Cubs,"716,922","9,191",81.0,72.0
-1924,Cleveland Browns,,,15.0,32.0
-1924,Chicago American Giants,,,52.0,27.0
 1924,Boston Braves,"177,478","2,335",53.0,100.0
 1924,Brooklyn Robins,"818,883","10,635",92.0,62.0
-1924,Brooklyn Royal Giants,,,15.0,25.0
 1924,Boston Red Sox,"448,556","5,825",67.0,87.0
-1924,Baltimore Black Sox,,,38.0,23.0
-1924,Birmingham Black Barons,,,37.0,44.0
-1924,Atlantic City Bacharach Giants,,,35.0,32.0
-1924,Indianapolis ABCs,,,5.0,21.0
 1924,Detroit Tigers,"1,015,136","13,015",86.0,68.0
-1924,Detroit Stars,,,35.0,28.0
-1924,Harrisburg Giants,,,30.0,31.0
-1924,Hilldale Club,,,47.0,26.0
-1924,Kansas City Monarchs,,,57.0,22.0
-1924,Memphis Red Sox,,,24.0,36.0
-1924,New York Lincoln Giants,,,35.0,28.0
 1924,New York Giants,"844,068","10,962",93.0,60.0
 1924,New York Yankees,"1,053,533","13,507",89.0,63.0
 1924,Washington Nationals,"584,310","7,396",92.0,62.0
 1925,Chicago Cubs,"622,610","8,086",68.0,86.0
-1925,Chicago American Giants,,,57.0,41.0
-1925,Cuban Stars East,,,18.0,26.0
 1925,Cleveland Indians,"419,005","5,442",70.0,84.0
-1925,Cuban Stars West,,,20.0,30.0
 1925,Chicago White Sox,"832,231","10,808",79.0,75.0
-1925,Indianapolis ABCs,,,17.0,53.0
-1925,Atlantic City Bacharach Giants,,,36.0,38.0
-1925,Birmingham Black Barons,,,27.0,59.0
-1925,Baltimore Black Sox,,,33.0,31.0
-1925,Brooklyn Royal Giants,,,14.0,20.0
 1925,Boston Red Sox,"267,782","3,570",47.0,105.0
 1925,Brooklyn Robins,"659,435","8,564",68.0,85.0
 1925,Boston Braves,"313,528","4,125",70.0,83.0
 1925,Cincinnati Reds,"464,920","6,117",80.0,73.0
-1925,Wilmington Potomacs,,,10.0,21.0
-1925,St. Louis Stars,,,59.0,30.0
 1925,St. Louis Cardinals,"404,959","5,328",77.0,76.0
 1925,Pittsburgh Pirates,"804,354","10,446",95.0,58.0
 1925,Philadelphia Phillies,"304,905","3,960",68.0,85.0
 1925,Philadelphia Athletics,"869,703","11,295",88.0,64.0
 1925,St. Louis Browns,"462,898","5,935",82.0,71.0
 1925,Washington Nationals,"817,199","10,753",96.0,55.0
-1925,New York Lincoln Giants,,,7.0,41.0
-1925,Memphis Red Sox,,,34.0,49.0
-1925,Kansas City Monarchs,,,59.0,23.0
-1925,Hilldale Club,,,53.0,18.0
-1925,Harrisburg Giants,,,48.0,24.0
-1925,Detroit Stars,,,56.0,44.0
 1925,New York Yankees,"697,267","8,826",69.0,85.0
 1925,New York Giants,"778,993","10,250",86.0,66.0
 1925,Detroit Tigers,"820,766","10,659",81.0,73.0
 1926,St. Louis Browns,"283,986","3,595",62.0,92.0
-1926,St. Louis Stars,,,61.0,35.0
 1926,Philadelphia Phillies,"240,600","3,166",58.0,93.0
 1926,Philadelphia Athletics,"714,508","10,063",83.0,67.0
 1926,New York Yankees,"1,027,675","13,702",91.0,63.0
 1926,Pittsburgh Pirates,"798,542","10,108",84.0,69.0
 1926,St. Louis Cardinals,"668,428","8,461",89.0,65.0
-1926,Cuban Stars West,,,19.0,49.0
 1926,Cleveland Indians,"627,426","7,843",88.0,66.0
-1926,Cuban Stars East,,,29.0,22.0
 1926,Chicago White Sox,"710,339","8,992",81.0,72.0
 1926,Chicago Cubs,"885,063","11,347",82.0,72.0
-1926,Cleveland Elites,,,8.0,40.0
 1926,Cincinnati Reds,"672,987","8,740",87.0,67.0
-1926,Chicago American Giants,,,57.0,24.0
 1926,Boston Braves,"303,598","3,943",66.0,86.0
-1926,Brooklyn Royal Giants,,,11.0,24.0
 1926,Brooklyn Robins,"650,819","8,563",71.0,82.0
 1926,Boston Red Sox,"285,155","3,703",46.0,107.0
-1926,Baltimore Black Sox,,,22.0,38.0
-1926,Atlantic City Bacharach Giants,,,43.0,28.0
-1926,Indianapolis ABCs,,,40.0,50.0
 1926,Detroit Tigers,"711,914","8,789",79.0,75.0
-1926,Dayton Marcos,,,6.0,36.0
-1926,Detroit Stars,,,52.0,47.0
-1926,Harrisburg Giants,,,27.0,22.0
-1926,Hilldale Club,,,53.0,33.0
-1926,Kansas City Monarchs,,,60.0,22.0
-1926,New York Lincoln Giants,,,22.0,31.0
-1926,Newark Stars,,,1.0,10.0
 1926,New York Giants,"700,362","9,215",74.0,77.0
 1926,Washington Nationals,"551,580","7,454",81.0,69.0
-1927,Cleveland Hornets,,,13.0,36.0
 1927,Chicago Cubs,"1,159,168","14,861",85.0,68.0
-1927,Cuban Stars East,,,31.0,29.0
 1927,Cleveland Indians,"373,138","4,846",66.0,87.0
-1927,Cuban Stars West,,,23.0,46.0
 1927,Chicago White Sox,"614,423","8,192",70.0,83.0
-1927,Atlantic City Bacharach Giants,,,55.0,35.0
-1927,Birmingham Black Barons,,,53.0,44.0
-1927,Baltimore Black Sox,,,34.0,36.0
 1927,Boston Red Sox,"305,275","3,914",51.0,103.0
 1927,Brooklyn Robins,"637,230","8,611",65.0,88.0
-1927,Brooklyn Royal Giants,,,11.0,23.0
 1927,Boston Braves,"288,685","3,901",60.0,94.0
-1927,Chicago American Giants,,,61.0,32.0
 1927,Cincinnati Reds,"442,164","5,527",75.0,78.0
 1927,Detroit Tigers,"773,716","9,919",82.0,71.0
-1927,Harrisburg Giants,,,38.0,31.0
-1927,Detroit Stars,,,52.0,47.0
-1927,Kansas City Monarchs,,,55.0,33.0
-1927,Memphis Red Sox,,,25.0,69.0
-1927,New York Lincoln Giants,,,10.0,15.0
-1927,Hilldale Club,,,38.0,48.0
 1927,Washington Nationals,"528,976","6,696",85.0,69.0
 1927,St. Louis Cardinals,"749,340","9,367",92.0,61.0
-1927,St. Louis Stars,,,62.0,37.0
 1927,St. Louis Browns,"247,879","3,178",59.0,94.0
 1927,Pittsburgh Pirates,"869,720","11,009",94.0,60.0
 1927,Philadelphia Phillies,"305,420","3,916",51.0,103.0
@@ -521,147 +400,83 @@ year,Tm,Attendance,Attend/G,W,L
 1927,New York Yankees,"1,164,015","15,117",110.0,44.0
 1927,New York Giants,"858,190","11,597",92.0,62.0
 1928,St. Louis Cardinals,"761,574","9,891",95.0,59.0
-1928,St. Louis Stars,,,63.0,26.0
 1928,St. Louis Browns,"339,497","4,409",82.0,72.0
-1928,Philadelphia Tigers,,,2.0,7.0
 1928,Washington Nationals,"378,501","4,731",75.0,79.0
 1928,Philadelphia Athletics,"689,756","8,958",98.0,55.0
 1928,Philadelphia Phillies,"182,168","2,429",43.0,109.0
-1928,Homestead Grays,,,,
-1928,Kansas City Monarchs,,,50.0,29.0
-1928,Memphis Red Sox,,,33.0,51.0
-1928,New York Lincoln Giants,,,9.0,7.0
 1928,New York Giants,"916,191","11,899",93.0,61.0
 1928,New York Yankees,"1,072,132","13,924",101.0,53.0
 1928,Pittsburgh Pirates,"495,070","6,429",85.0,67.0
 1928,Chicago Cubs,"1,143,740","14,854",91.0,63.0
-1928,Atlantic City Bacharach Giants,,,18.0,12.0
-1928,Cuban Stars West,,,13.0,41.0
 1928,Cincinnati Reds,"490,490","6,288",78.0,74.0
-1928,Cuban Stars East,,,6.0,13.0
 1928,Cleveland Indians,"375,907","4,882",62.0,92.0
 1928,Detroit Tigers,"474,323","6,160",68.0,86.0
-1928,Cleveland Tigers,,,20.0,59.0
-1928,Detroit Stars,,,53.0,36.0
-1928,Birmingham Black Barons,,,46.0,53.0
-1928,Baltimore Black Sox,,,19.0,15.0
 1928,Boston Red Sox,"396,920","5,364",57.0,96.0
-1928,Brooklyn Royal Giants,,,,
 1928,Brooklyn Robins,"664,863","8,635",77.0,76.0
 1928,Boston Braves,"227,001","2,987",50.0,103.0
-1928,Chicago American Giants,,,55.0,38.0
 1928,Chicago White Sox,"494,152","6,335",72.0,82.0
-1929,Atlantic City Bacharach Giants,,,21.0,50.0
-1929,Memphis Red Sox,,,21.0,54.0
 1929,New York Yankees,"960,148","12,469",88.0,66.0
 1929,New York Giants,"868,806","11,283",84.0,67.0
-1929,New York Lincoln Giants,,,40.0,26.0
 1929,Philadelphia Phillies,"281,200","3,700",71.0,82.0
 1929,Pittsburgh Pirates,"491,377","6,465",88.0,65.0
 1929,St. Louis Browns,"280,697","3,645",79.0,73.0
-1929,St. Louis Stars,,,56.0,34.0
 1929,Washington Nationals,"355,506","4,558",71.0,81.0
 1929,St. Louis Cardinals,"399,887","5,193",78.0,74.0
 1929,Philadelphia Athletics,"839,176","11,340",104.0,46.0
-1929,Chicago American Giants,,,51.0,40.0
 1929,Chicago Cubs,"1,485,166","19,041",98.0,54.0
 1929,Chicago White Sox,"426,795","5,616",59.0,93.0
 1929,Cincinnati Reds,"295,040","3,783",66.0,88.0
-1929,Birmingham Black Barons,,,33.0,56.0
-1929,Detroit Stars,,,39.0,42.0
-1929,Kansas City Monarchs,,,63.0,17.0
-1929,Hilldale Club,,,43.0,35.0
-1929,Homestead Grays,,,32.0,29.0
-1929,Cuban Stars West,,,17.0,37.0
 1929,Detroit Tigers,"869,318","11,290",70.0,84.0
-1929,Cuban Stars East,,,15.0,41.0
-1929,Baltimore Black Sox,,,55.0,25.0
 1929,Boston Red Sox,"394,620","5,059",58.0,96.0
 1929,Brooklyn Robins,"731,886","9,505",70.0,83.0
 1929,Boston Braves,"372,351","4,836",56.0,98.0
 1929,Cleveland Indians,"536,210","7,055",81.0,71.0
-1930,Chicago American Giants,,,53.0,49.0
-1930,Birmingham Black Barons,,,46.0,48.0
 1930,Boston Braves,"464,835","6,037",70.0,84.0
 1930,Boston Red Sox,"444,045","5,843",52.0,102.0
 1930,St. Louis Browns,"152,088","1,950",64.0,90.0
 1930,Washington Nationals,"614,474","7,980",94.0,60.0
-1930,St. Louis Stars,,,69.0,25.0
 1930,St. Louis Cardinals,"508,501","6,604",92.0,62.0
-1930,Nashville Elite Giants,,,26.0,55.0
 1930,New York Giants,"868,714","11,282",87.0,67.0
-1930,Memphis Red Sox,,,30.0,51.0
 1930,Chicago Cubs,"1,463,624","18,527",90.0,64.0
 1930,Chicago White Sox,"406,123","5,207",62.0,92.0
 1930,Cincinnati Reds,"386,727","5,022",59.0,95.0
 1930,Cleveland Indians,"528,657","6,866",81.0,73.0
-1930,Cuban Stars West,,,25.0,41.0
 1930,Detroit Tigers,"649,450","8,326",75.0,79.0
-1930,Detroit Stars,,,52.0,37.0
-1930,Kansas City Monarchs,,,40.0,23.0
 1930,Brooklyn Robins,"1,097,329","14,251",86.0,68.0
 1930,New York Yankees,"1,169,230","15,385",86.0,68.0
 1930,Pittsburgh Pirates,"357,795","4,647",80.0,74.0
 1930,Philadelphia Phillies,"299,007","3,883",52.0,102.0
 1930,Philadelphia Athletics,"721,663","9,496",102.0,52.0
-1930,Louisville Black Caps,,,16.0,28.0
-1931,Kansas City Monarchs,,,,
 1931,Boston Braves,"515,005","6,603",64.0,90.0
 1931,Brooklyn Robins,"753,133","9,910",79.0,73.0
-1931,Indianapolis ABCs,,,30.0,30.0
 1931,New York Yankees,"912,437","11,850",94.0,59.0
 1931,New York Giants,"812,163","10,412",87.0,65.0
-1931,Louisville White Sox,,,24.0,33.0
 1931,Boston Red Sox,"350,975","4,387",62.0,90.0
-1931,Detroit Stars,,,25.0,33.0
 1931,Detroit Tigers,"434,056","5,637",61.0,93.0
-1931,Chicago Columbia Giants,,,6.0,17.0
-1931,Cleveland Cubs,,,23.0,22.0
 1931,Chicago Cubs,"1,086,422","14,109",84.0,70.0
 1931,Chicago White Sox,"403,550","5,241",56.0,97.0
 1931,Cincinnati Reds,"263,316","3,420",58.0,96.0
 1931,Philadelphia Phillies,"284,849","3,748",66.0,88.0
 1931,Pittsburgh Pirates,"260,392","3,338",75.0,79.0
 1931,St. Louis Browns,"179,126","2,326",63.0,91.0
-1931,St. Louis Stars,,,37.0,10.0
 1931,Washington Nationals,"492,657","6,236",92.0,62.0
 1931,St. Louis Cardinals,"608,535","7,802",101.0,53.0
 1931,Philadelphia Athletics,"627,464","8,366",107.0,45.0
 1931,Cleveland Indians,"483,027","6,356",78.0,76.0
-1932,Detroit Wolves,,,26.0,5.0
 1932,Detroit Tigers,"397,157","5,092",76.0,75.0
-1932,Pollock's Cuban Stars,,,10.0,12.0
-1932,Homestead Grays,,,24.0,16.0
-1932,Columbus Turf Club,,,3.0,5.0
-1932,Cleveland Stars,,,5.0,11.0
 1932,Cleveland Indians,"468,953","6,090",87.0,65.0
 1932,Cincinnati Reds,"356,950","4,636",60.0,94.0
 1932,Chicago White Sox,"233,198","3,029",49.0,102.0
 1932,Chicago Cubs,"974,688","12,658",90.0,64.0
-1932,Chicago American Giants,,,34.0,12.0
 1932,Boston Braves,"507,606","6,592",77.0,77.0
 1932,Brooklyn Dodgers,"681,827","8,741",81.0,73.0
-1932,Little Rock Grays,,,5.0,12.0
-1932,Hilldale Club,,,11.0,18.0
-1932,Birmingham Black Barons,,,10.0,9.0
 1932,Boston Red Sox,"182,150","2,366",43.0,111.0
-1932,Indianapolis ABCs,,,18.0,21.0
-1932,Atlanta Black Crackers,,,6.0,17.0
-1932,Baltimore Black Sox,,,29.0,26.0
-1932,Cleveland Cubs,,,,
 1932,Philadelphia Athletics,"405,500","5,266",94.0,60.0
 1932,New York Giants,"484,868","6,297",72.0,82.0
 1932,New York Yankees,"962,320","12,498",107.0,47.0
-1932,Nashville Elite Giants,,,24.0,23.0
-1932,Memphis Red Sox,,,23.0,27.0
-1932,Monroe Monarchs,,,34.0,14.0
-1932,Newark Browns,,,0.0,4.0
-1932,Louisville Black Caps,,,12.0,27.0
-1932,Montgomery Grey Sox,,,23.0,25.0
 1932,St. Louis Browns,"112,558","1,501",63.0,91.0
 1932,Philadelphia Phillies,"268,914","3,492",78.0,76.0
 1932,St. Louis Cardinals,"279,219","3,534",72.0,82.0
-1932,Washington Pilots,,,17.0,30.0
 1932,Washington Nationals,"371,396","4,823",93.0,61.0
 1932,Pittsburgh Pirates,"287,262","3,780",86.0,68.0
 1933,Washington Nationals,"437,533","5,757",99.0,53.0
@@ -670,33 +485,21 @@ year,Tm,Attendance,Attend/G,W,L
 1933,St. Louis Cardinals,"256,171","3,327",82.0,71.0
 1933,Philadelphia Athletics,"297,138","3,910",79.0,72.0
 1933,Philadelphia Phillies,"156,421","2,173",60.0,92.0
-1933,Pittsburgh Crawfords,,,41.0,21.0
-1933,Baltimore Sox,,,13.0,18.0
 1933,Boston Red Sox,"268,715","3,732",63.0,86.0
-1933,Akron Grays,,,3.0,7.0
-1933,Nashville Elite Giants,,,19.0,22.0
 1933,New York Giants,"604,471","7,850",91.0,61.0
-1933,Homestead Grays,,,14.0,14.0
 1933,Detroit Tigers,"320,972","4,115",75.0,79.0
 1933,Cleveland Indians,"387,936","5,038",75.0,76.0
-1933,Indianapolis ABCs/Detroit Stars,,,17.0,31.0
 1933,Pittsburgh Pirates,"288,747","3,750",87.0,67.0
 1933,Cincinnati Reds,"218,281","2,763",58.0,94.0
 1933,Boston Braves,"517,803","6,725",83.0,71.0
-1933,Chicago American Giants,,,41.0,22.0
-1933,Columbus Blue Birds,,,15.0,27.0
-1933,Cleveland Giants,,,0.0,1.0
 1933,Chicago Cubs,"594,112","7,520",86.0,68.0
 1933,Chicago White Sox,"397,789","5,166",67.0,83.0
 1933,Brooklyn Dodgers,"526,815","6,585",65.0,88.0
 1934,Washington Nationals,"330,074","4,343",66.0,86.0
 1934,Philadelphia Phillies,"169,885","2,393",56.0,93.0
 1934,Pittsburgh Pirates,"322,622","4,136",74.0,76.0
-1934,Philadelphia Stars,,,39.0,18.0
 1934,St. Louis Browns,"115,305","1,517",67.0,85.0
 1934,St. Louis Cardinals,"325,056","4,222",95.0,58.0
-1934,Pittsburgh Crawfords,,,47.0,27.0
-1934,Philadelphia Bacharach Giants,,,5.0,20.0
 1934,Philadelphia Athletics,"305,847","4,024",68.0,82.0
 1934,Boston Braves,"303,205","4,043",78.0,73.0
 1934,Boston Red Sox,"610,640","7,930",76.0,76.0
@@ -704,31 +507,19 @@ year,Tm,Attendance,Attend/G,W,L
 1934,Chicago White Sox,"236,559","3,154",53.0,99.0
 1934,Cincinnati Reds,"206,773","2,651",52.0,99.0
 1934,Brooklyn Dodgers,"434,188","5,639",71.0,81.0
-1934,Baltimore Black Sox,,,3.0,8.0
 1934,New York Yankees,"854,682","11,100",94.0,60.0
 1934,New York Giants,"730,851","9,745",93.0,60.0
-1934,Nashville Elite Giants,,,18.0,28.0
-1934,Newark Dodgers,,,17.0,17.0
 1934,Detroit Tigers,"919,161","11,490",101.0,53.0
-1934,Cleveland Red Sox,,,3.0,22.0
-1934,Chicago American Giants,,,28.0,20.0
 1934,Cleveland Indians,"391,338","5,017",85.0,69.0
 1935,Chicago Cubs,"692,604","8,995",100.0,54.0
-1935,Columbus Elite Giants,,,29.0,24.0
-1935,Chicago American Giants,,,24.0,31.0
 1935,Boston Braves,"232,754","3,103",38.0,115.0
 1935,Brooklyn Dodgers,"470,517","6,111",70.0,83.0
 1935,Boston Red Sox,"558,568","7,070",78.0,75.0
-1935,Brooklyn Eagles,,,32.0,31.0
 1935,St. Louis Cardinals,"506,084","6,573",96.0,58.0
 1935,St. Louis Browns,"80,922","1,065",65.0,87.0
-1935,Philadelphia Stars,,,37.0,31.0
 1935,Pittsburgh Pirates,"352,885","4,583",86.0,67.0
 1935,Washington Nationals,"255,011","3,312",67.0,86.0
 1935,New York Giants,"748,748","9,478",91.0,62.0
-1935,New York Cubans,,,31.0,25.0
-1935,Homestead Grays,,,26.0,36.0
-1935,Newark Dodgers,,,18.0,43.0
 1935,Cincinnati Reds,"448,247","5,898",68.0,85.0
 1935,Chicago White Sox,"470,281","6,108",74.0,78.0
 1935,Detroit Tigers,"1,034,929","13,100",93.0,58.0
@@ -736,204 +527,115 @@ year,Tm,Attendance,Attend/G,W,L
 1935,Philadelphia Athletics,"233,173","3,239",58.0,91.0
 1935,Philadelphia Phillies,"205,470","2,601",64.0,89.0
 1935,New York Yankees,"657,508","8,885",89.0,60.0
-1935,Pittsburgh Crawfords,,,51.0,27.0
 1936,Cleveland Indians,"500,391","6,178",80.0,74.0
 1936,Cincinnati Reds,"466,345","6,136",74.0,80.0
 1936,Chicago Cubs,"699,370","9,083",87.0,67.0
 1936,Chicago White Sox,"440,810","5,877",81.0,70.0
-1936,New York Black Yankees,,,21.0,16.0
-1936,Homestead Grays,,,27.0,24.0
 1936,Detroit Tigers,"875,948","11,376",83.0,71.0
-1936,Newark Eagles,,,27.0,31.0
-1936,Pittsburgh Crawfords,,,48.0,33.0
 1936,New York Yankees,"976,913","12,687",102.0,51.0
-1936,New York Cubans,,,22.0,26.0
 1936,New York Giants,"837,952","10,743",92.0,62.0
 1936,Boston Bees,"340,585","4,311",71.0,83.0
 1936,Brooklyn Dodgers,"489,618","6,198",67.0,87.0
 1936,Boston Red Sox,"626,895","8,141",74.0,80.0
 1936,Washington Nationals,"379,525","4,929",82.0,71.0
-1936,Philadelphia Stars,,,32.0,42.0
 1936,Philadelphia Athletics,"285,173","3,704",53.0,100.0
 1936,Philadelphia Phillies,"249,219","3,195",54.0,100.0
 1936,Pittsburgh Pirates,"372,524","4,902",84.0,70.0
 1936,St. Louis Cardinals,"448,078","5,819",87.0,67.0
 1936,St. Louis Browns,"93,267","1,211",57.0,95.0
-1936,Washington Elite Giants,,,29.0,34.0
-1937,Memphis Red Sox,,,15.0,29.0
-1937,Birmingham Black Barons,,,17.0,24.0
 1937,Boston Red Sox,"559,659","7,563",80.0,72.0
 1937,Brooklyn Dodgers,"482,481","6,348",62.0,91.0
 1937,Boston Bees,"385,339","5,070",79.0,73.0
 1937,Chicago Cubs,"895,020","11,475",93.0,61.0
-1937,Chicago American Giants,,,36.0,24.0
 1937,Chicago White Sox,"589,245","7,653",86.0,68.0
 1937,Pittsburgh Pirates,"459,679","5,893",86.0,68.0
 1937,Philadelphia Phillies,"212,790","2,876",61.0,92.0
 1937,Philadelphia Athletics,"430,738","5,452",54.0,97.0
-1937,Pittsburgh Crawfords,,,18.0,36.0
 1937,New York Yankees,"998,148","12,635",102.0,52.0
 1937,New York Giants,"926,887","12,358",95.0,57.0
-1937,Newark Eagles,,,36.0,21.0
-1937,New York Black Yankees,,,22.0,30.0
 1937,Cincinnati Reds,"411,221","5,140",56.0,98.0
-1937,Kansas City Monarchs,,,52.0,19.0
-1937,Indianapolis Athletics,,,17.0,21.0
-1937,Homestead Grays,,,45.0,18.0
-1937,Detroit Stars,,,15.0,24.0
 1937,Detroit Tigers,"1,072,276","13,926",89.0,65.0
-1937,Cincinnati Tigers,,,35.0,19.0
 1937,Cleveland Indians,"564,849","7,242",83.0,71.0
 1937,Washington Nationals,"397,799","4,972",73.0,80.0
 1937,St. Louis Browns,"123,121","1,578",46.0,108.0
 1937,St. Louis Cardinals,"430,811","5,385",81.0,73.0
-1937,St. Louis Stars,,,5.0,32.0
-1937,Philadelphia Stars,,,29.0,32.0
-1937,Washington Elite Giants,,,23.0,36.0
 1938,New York Giants,"799,633","10,954",83.0,67.0
-1938,Newark Eagles,,,23.0,30.0
-1938,New York Black Yankees,,,11.0,28.0
-1938,Birmingham Black Barons,,,13.0,46.0
-1938,Atlanta Black Crackers,,,32.0,31.0
-1938,Baltimore Elite Giants,,,26.0,23.0
 1938,Boston Red Sox,"646,459","8,619",88.0,61.0
 1938,Brooklyn Dodgers,"663,087","8,961",69.0,80.0
 1938,Boston Bees,"341,149","4,549",77.0,75.0
-1938,Indianapolis ABCs,,,17.0,20.0
-1938,Philadelphia Stars,,,41.0,32.0
 1938,Pittsburgh Pirates,"641,033","8,218",86.0,64.0
 1938,Philadelphia Phillies,"166,111","2,215",45.0,105.0
 1938,Philadelphia Athletics,"385,357","5,070",53.0,99.0
-1938,Pittsburgh Crawfords,,,28.0,26.0
 1938,New York Yankees,"970,916","12,290",99.0,53.0
-1938,Chicago American Giants,,,41.0,37.0
 1938,Chicago Cubs,"951,640","12,359",89.0,63.0
 1938,Chicago White Sox,"338,278","4,634",65.0,83.0
-1938,Memphis Red Sox,,,39.0,24.0
-1938,Kansas City Monarchs,,,45.0,27.0
-1938,Jacksonville Red Caps,,,14.0,16.0
-1938,Homestead Grays,,,41.0,13.0
 1938,Detroit Tigers,"799,557","10,121",84.0,70.0
 1938,Cleveland Indians,"652,006","8,579",86.0,66.0
 1938,Cincinnati Reds,"706,756","9,179",82.0,68.0
 1938,St. Louis Cardinals,"291,418","3,598",71.0,80.0
 1938,Washington Nationals,"522,694","6,701",75.0,76.0
-1938,Washington Black Senators,,,2.0,20.0
 1938,St. Louis Browns,"130,417","1,694",55.0,97.0
 1939,New York Giants,"702,457","9,493",77.0,74.0
-1939,New York Black Yankees,,,19.0,18.0
-1939,Memphis Red Sox,,,19.0,34.0
-1939,Philadelphia Stars,,,24.0,29.0
 1939,Pittsburgh Pirates,"376,734","4,893",68.0,85.0
 1939,Brooklyn Dodgers,"955,668","12,252",84.0,69.0
 1939,Boston Red Sox,"573,070","7,641",89.0,62.0
 1939,Boston Bees,"285,994","3,918",63.0,88.0
-1939,Baltimore Elite Giants,,,21.0,23.0
 1939,Chicago White Sox,"594,104","7,716",85.0,69.0
 1939,Cincinnati Reds,"981,443","12,117",97.0,57.0
 1939,Cleveland Indians,"563,926","7,324",87.0,67.0
 1939,Detroit Tigers,"836,279","10,722",81.0,73.0
-1939,Cleveland Bears,,,20.0,21.0
-1939,Newark Eagles,,,32.0,23.0
 1939,New York Yankees,"859,785","11,166",106.0,45.0
-1939,Toledo Crawfords,,,4.0,6.0
-1939,Toledo Crawfords,,,9.0,11.0
 1939,Chicago Cubs,"726,663","9,083",84.0,70.0
 1939,Washington Nationals,"339,257","4,406",65.0,87.0
-1939,Homestead Grays,,,36.0,19.0
-1939,Chicago American Giants,,,40.0,34.0
 1939,St. Louis Cardinals,"400,245","5,066",92.0,61.0
-1939,Toledo Crawfords,,,4.0,6.0
-1939,Toledo Crawfords,,,9.0,11.0
-1939,St. Louis Stars,,,15.0,20.0
 1939,St. Louis Browns,"109,159","1,399",43.0,111.0
 1939,Philadelphia Athletics,"395,022","5,198",55.0,97.0
 1939,Philadelphia Phillies,"277,973","3,756",45.0,106.0
-1939,Indianapolis ABCs/Atlanta Black Crackers,,,6.0,10.0
-1939,New York Cubans,,,7.0,25.0
-1939,Kansas City Monarchs,,,46.0,25.0
-1940,New York Cubans,,,13.0,26.0
-1940,Philadelphia Stars,,,24.0,37.0
 1940,Philadelphia Phillies,"207,177","2,622",50.0,103.0
-1940,St. Louis-New Orleans Stars,,,25.0,29.0
 1940,St. Louis Cardinals,"324,078","4,209",84.0,69.0
-1940,Toledo/Indianapolis Crawfords,,,6.0,18.0
 1940,Pittsburgh Pirates,"507,934","6,772",78.0,76.0
-1940,Homestead Grays,,,36.0,20.0
 1940,Detroit Tigers,"1,112,693","14,085",90.0,64.0
 1940,Cleveland Indians,"902,576","11,007",89.0,65.0
 1940,Cincinnati Reds,"850,180","11,041",100.0,53.0
 1940,Chicago White Sox,"660,336","8,466",82.0,72.0
 1940,Chicago Cubs,"534,878","6,946",75.0,79.0
-1940,Kansas City Monarchs,,,36.0,11.0
 1940,St. Louis Browns,"239,591","3,112",67.0,87.0
 1940,Washington Nationals,"381,241","4,951",64.0,90.0
 1940,Brooklyn Dodgers,"975,978","12,049",88.0,65.0
 1940,Boston Red Sox,"716,234","9,066",82.0,72.0
-1940,Birmingham Black Barons,,,17.0,30.0
 1940,Boston Bees,"241,616","3,222",65.0,87.0
-1940,Baltimore Elite Giants,,,32.0,23.0
-1940,Cleveland Bears,,,21.0,18.0
-1940,Chicago American Giants,,,22.0,31.0
 1940,New York Giants,"747,852","9,840",72.0,80.0
-1940,Memphis Red Sox,,,36.0,26.0
-1940,New York Black Yankees,,,19.0,24.0
-1940,Newark Eagles,,,28.0,22.0
 1940,Philadelphia Athletics,"432,145","6,087",54.0,100.0
 1940,New York Yankees,"988,975","13,013",88.0,66.0
-1941,Birmingham Black Barons,,,28.0,17.0
 1941,New York Yankees,"964,722","12,368",101.0,53.0
 1941,Washington Nationals,"415,663","5,329",70.0,84.0
 1941,Philadelphia Athletics,"528,894","6,869",64.0,90.0
 1941,Philadelphia Phillies,"231,401","3,045",43.0,111.0
 1941,Pittsburgh Pirates,"482,241","6,183",81.0,73.0
-1941,Philadelphia Stars,,,15.0,46.0
 1941,St. Louis Browns,"176,240","2,231",70.0,84.0
-1941,St. Louis-New Orleans Stars,,,18.0,23.0
 1941,St. Louis Cardinals,"633,645","8,021",97.0,56.0
 1941,Cincinnati Reds,"643,513","8,146",88.0,66.0
 1941,Cleveland Indians,"745,948","9,688",75.0,79.0
 1941,Detroit Tigers,"684,915","8,895",75.0,79.0
-1941,Homestead Grays,,,50.0,25.0
-1941,Jacksonville Red Caps,,,13.0,21.0
-1941,Kansas City Monarchs,,,31.0,16.0
-1941,Memphis Red Sox,,,23.0,23.0
-1941,New York Black Yankees,,,15.0,20.0
-1941,Newark Eagles,,,30.0,28.0
-1941,Baltimore Elite Giants,,,44.0,24.0
 1941,Boston Red Sox,"718,497","9,331",84.0,70.0
 1941,Brooklyn Dodgers,"1,214,910","15,379",100.0,54.0
 1941,Boston Braves,"263,680","3,469",62.0,92.0
-1941,Chicago American Giants,,,16.0,29.0
 1941,Chicago Cubs,"545,159","7,080",70.0,84.0
 1941,Chicago White Sox,"677,077","8,571",77.0,77.0
-1941,New York Cubans,,,21.0,32.0
 1941,New York Giants,"763,098","9,783",74.0,79.0
-1942,Chicago American Giants,,,7.0,29.0
-1942,Cincinnati-Cleveland Buckeyes,,,39.0,21.0
 1942,Chicago Cubs,"590,972","7,577",68.0,86.0
 1942,Chicago White Sox,"425,734","6,082",66.0,82.0
-1942,Birmingham Black Barons,,,27.0,22.0
 1942,Boston Red Sox,"730,340","9,485",93.0,59.0
-1942,Baltimore Elite Giants,,,36.0,26.0
 1942,Boston Braves,"285,332","4,019",59.0,89.0
 1942,Brooklyn Dodgers,"1,037,765","13,136",104.0,50.0
 1942,New York Yankees,"922,011","11,974",103.0,51.0
-1942,New York Cubans,,,9.0,27.0
 1942,New York Giants,"779,621","9,869",85.0,67.0
-1942,New York Black Yankees,,,10.0,25.0
-1942,Memphis Red Sox,,,21.0,22.0
-1942,Kansas City Monarchs,,,27.0,12.0
-1942,Newark Eagles,,,28.0,30.0
-1942,Jacksonville Red Caps,,,7.0,22.0
 1942,Washington Nationals,"403,493","5,240",62.0,89.0
 1942,St. Louis Cardinals,"553,552","7,097",106.0,48.0
 1942,St. Louis Browns,"255,617","3,320",82.0,69.0
 1942,Cincinnati Reds,"427,031","5,546",76.0,76.0
 1942,Cleveland Indians,"459,447","5,743",75.0,79.0
 1942,Detroit Tigers,"580,087","7,534",73.0,81.0
-1942,Homestead Grays,,,47.0,19.0
-1942,Philadelphia Stars,,,26.0,30.0
 1942,Pittsburgh Pirates,"448,897","5,830",66.0,81.0
 1942,Philadelphia Phils,"230,183","3,111",42.0,109.0
 1942,Philadelphia Athletics,"423,487","5,572",55.0,99.0
@@ -942,16 +644,6 @@ year,Tm,Attendance,Attend/G,W,L
 1943,Cleveland Indians,"438,894","5,700",82.0,71.0
 1943,Detroit Tigers,"606,287","7,773",78.0,76.0
 1943,Chicago Cubs,"508,247","6,777",74.0,79.0
-1943,Cleveland Buckeyes,,,39.0,25.0
-1943,Cincinnati Clowns,,,31.0,59.0
-1943,Birmingham Black Barons,,,45.0,35.0
-1943,Harrisburg Stars,,,8.0,8.0
-1943,Homestead Grays,,,53.0,14.0
-1943,Kansas City Monarchs,,,44.0,27.0
-1943,Memphis Red Sox,,,34.0,51.0
-1943,New York Black Yankees,,,4.0,24.0
-1943,Newark Eagles,,,26.0,32.0
-1943,New York Cubans,,,19.0,14.0
 1943,New York Giants,"466,095","6,053",55.0,98.0
 1943,Pittsburgh Pirates,"498,740","6,394",80.0,74.0
 1943,Philadelphia Phillies,"466,975","5,987",64.0,90.0
@@ -960,60 +652,33 @@ year,Tm,Attendance,Attend/G,W,L
 1943,Washington Nationals,"574,694","7,562",84.0,69.0
 1943,St. Louis Cardinals,"517,135","6,384",105.0,49.0
 1943,St. Louis Browns,"214,392","2,784",72.0,80.0
-1943,Philadelphia Stars,,,21.0,31.0
 1943,Boston Braves,"271,289","3,523",68.0,85.0
 1943,Brooklyn Dodgers,"661,739","8,594",81.0,72.0
 1943,Boston Red Sox,"358,275","4,653",68.0,84.0
-1943,Baltimore Elite Giants,,,18.0,26.0
-1943,Chicago American Giants,,,37.0,33.0
 1944,New York Giants,"674,483","8,993",67.0,87.0
-1944,Newark Eagles,,,27.0,36.0
-1944,New York Cubans,,,31.0,21.0
 1944,Washington Nationals,"525,235","6,821",64.0,90.0
 1944,St. Louis Cardinals,"461,968","6,000",105.0,49.0
 1944,St. Louis Browns,"508,644","6,606",89.0,65.0
-1944,Philadelphia Stars,,,31.0,27.0
 1944,New York Yankees,"789,995","10,128",83.0,71.0
 1944,Philadelphia Athletics,"505,322","6,649",72.0,82.0
 1944,Philadelphia Phillies,"369,586","4,678",61.0,92.0
 1944,Pittsburgh Pirates,"604,278","7,460",90.0,63.0
-1944,New York Black Yankees,,,7.0,32.0
-1944,Baltimore Elite Giants,,,34.0,38.0
 1944,Boston Red Sox,"506,975","6,500",77.0,77.0
 1944,Brooklyn Dodgers,"605,905","7,869",63.0,91.0
 1944,Chicago Cubs,"640,110","8,207",75.0,79.0
 1944,Chicago White Sox,"563,539","7,319",71.0,83.0
 1944,Cincinnati Reds,"409,567","5,251",89.0,65.0
 1944,Cleveland Indians,"475,272","6,093",72.0,82.0
-1944,Memphis Red Sox,,,49.0,65.0
-1944,Kansas City Monarchs,,,39.0,48.0
-1944,Homestead Grays,,,48.0,24.0
 1944,Detroit Tigers,"923,176","11,836",88.0,66.0
 1944,Boston Braves,"208,691","2,676",65.0,89.0
-1944,Chicago American Giants,,,33.0,54.0
-1944,Cleveland Buckeyes,,,46.0,33.0
-1944,Cincinnati-Indianapolis Clowns,,,49.0,41.0
-1944,Birmingham Black Barons,,,47.0,22.0
 1945,Cincinnati Reds,"290,070","3,767",61.0,93.0
 1945,Chicago White Sox,"657,981","8,892",71.0,78.0
 1945,Chicago Cubs,"1,036,386","13,637",98.0,56.0
-1945,Cincinnati-Indianapolis Clowns,,,39.0,56.0
-1945,Cleveland Buckeyes,,,63.0,17.0
-1945,Chicago American Giants,,,46.0,54.0
 1945,Boston Braves,"374,178","4,989",67.0,85.0
 1945,Brooklyn Dodgers,"1,059,220","13,580",87.0,67.0
 1945,Boston Red Sox,"603,794","7,741",71.0,83.0
-1945,Baltimore Elite Giants,,,36.0,32.0
-1945,Birmingham Black Barons,,,47.0,33.0
-1945,Memphis Red Sox,,,20.0,66.0
-1945,Kansas City Monarchs,,,52.0,41.0
-1945,Homestead Grays,,,41.0,21.0
 1945,Detroit Tigers,"1,280,341","16,847",88.0,65.0
 1945,Cleveland Indians,"558,182","7,249",73.0,72.0
-1945,New York Black Yankees,,,11.0,28.0
-1945,New York Cubans,,,15.0,27.0
-1945,Newark Eagles,,,27.0,22.0
-1945,Philadelphia Stars,,,25.0,25.0
 1945,St. Louis Browns,"482,986","6,355",81.0,70.0
 1945,St. Louis Cardinals,"594,630","7,623",95.0,59.0
 1945,New York Giants,"1,016,468","13,032",78.0,74.0
@@ -1023,80 +688,46 @@ year,Tm,Attendance,Attend/G,W,L
 1945,Pittsburgh Pirates,"604,694","7,654",82.0,72.0
 1945,Washington Nationals,"652,660","8,367",87.0,67.0
 1946,Boston Red Sox,"1,416,944","18,166",104.0,50.0
-1946,Baltimore Elite Giants,,,38.0,34.0
-1946,Birmingham Black Barons,,,46.0,37.0
 1946,Brooklyn Dodgers,"1,796,824","22,745",96.0,60.0
 1946,Boston Braves,"969,673","12,593",81.0,72.0
-1946,Chicago American Giants,,,39.0,64.0
-1946,Cleveland Buckeyes,,,40.0,38.0
 1946,Chicago Cubs,"1,342,970","17,441",82.0,71.0
 1946,Chicago White Sox,"983,403","12,448",74.0,80.0
 1946,Cincinnati Reds,"715,751","9,295",67.0,87.0
 1946,Cleveland Indians,"1,057,289","13,731",68.0,86.0
 1946,Detroit Tigers,"1,722,590","21,805",92.0,62.0
-1946,Homestead Grays,,,39.0,35.0
-1946,Cincinnati-Indianapolis Clowns,,,35.0,48.0
-1946,Kansas City Monarchs,,,60.0,19.0
-1946,Memphis Red Sox,,,44.0,58.0
-1946,New York Black Yankees,,,11.0,48.0
-1946,Newark Eagles,,,50.0,22.0
-1946,New York Cubans,,,37.0,31.0
 1946,New York Giants,"1,219,873","15,843",61.0,93.0
 1946,New York Yankees,"2,265,512","29,422",87.0,67.0
 1946,Philadelphia Athletics,"621,793","7,972",49.0,105.0
 1946,Philadelphia Phillies,"1,045,247","13,401",69.0,85.0
 1946,Pittsburgh Pirates,"749,962","9,615",63.0,91.0
-1946,Philadelphia Stars,,,31.0,36.0
 1946,St. Louis Browns,"526,435","6,837",66.0,88.0
 1946,St. Louis Cardinals,"1,061,807","13,613",98.0,58.0
 1946,Washington Nationals,"1,027,216","13,516",76.0,78.0
-1947,Birmingham Black Barons,,,50.0,42.0
-1947,Baltimore Elite Giants,,,41.0,40.0
 1947,Boston Red Sox,"1,427,315","17,621",83.0,71.0
 1947,Brooklyn Dodgers,"1,807,526","23,173",94.0,60.0
 1947,Boston Braves,"1,277,361","16,589",86.0,68.0
-1947,Chicago American Giants,,,29.0,58.0
-1947,Cleveland Buckeyes,,,57.0,19.0
 1947,Chicago Cubs,"1,364,039","17,266",69.0,85.0
 1947,Chicago White Sox,"876,948","11,693",70.0,84.0
 1947,Cincinnati Reds,"899,975","11,688",73.0,81.0
 1947,Cleveland Indians,"1,521,978","19,513",80.0,74.0
 1947,Detroit Tigers,"1,398,093","17,476",85.0,69.0
-1947,Homestead Grays,,,35.0,35.0
-1947,Cincinnati-Indianapolis Clowns,,,36.0,68.0
-1947,Kansas City Monarchs,,,62.0,36.0
-1947,Memphis Red Sox,,,44.0,55.0
-1947,New York Black Yankees,,,12.0,43.0
-1947,Newark Eagles,,,51.0,40.0
-1947,New York Cubans,,,47.0,20.0
 1947,New York Giants,"1,600,793","21,063",81.0,73.0
 1947,New York Yankees,"2,178,937","28,298",97.0,57.0
 1947,Philadelphia Athletics,"911,566","11,687",78.0,76.0
 1947,Philadelphia Phillies,"907,332","11,784",62.0,92.0
 1947,Pittsburgh Pirates,"1,283,531","16,247",62.0,92.0
-1947,Philadelphia Stars,,,28.0,36.0
 1947,St. Louis Browns,"320,474","4,162",59.0,95.0
 1947,St. Louis Cardinals,"1,247,913","16,207",89.0,65.0
 1947,Washington Nationals,"850,758","11,049",64.0,90.0
-1948,Memphis Red Sox,,,43.0,65.0
-1948,Kansas City Monarchs,,,67.0,34.0
-1948,Indianapolis Clowns,,,40.0,61.0
-1948,Homestead Grays,,,42.0,24.0
 1948,Washington Nationals,"795,254","10,196",56.0,97.0
 1948,St. Louis Cardinals,"1,111,440","14,434",85.0,69.0
 1948,St. Louis Browns,"335,564","4,415",59.0,94.0
-1948,Philadelphia Stars,,,30.0,31.0
 1948,Pittsburgh Pirates,"1,517,021","18,963",83.0,71.0
 1948,Philadelphia Phillies,"767,429","10,098",66.0,88.0
 1948,Philadelphia Athletics,"945,076","12,274",84.0,70.0
 1948,New York Yankees,"2,373,901","30,830",94.0,60.0
 1948,New York Giants,"1,459,269","18,952",78.0,76.0
-1948,New York Cubans,,,19.0,29.0
-1948,Newark Eagles,,,31.0,29.0
-1948,New York Black Yankees,,,9.0,38.0
 1948,Chicago Cubs,"1,237,792","15,869",64.0,90.0
-1948,Cleveland Buckeyes,,,48.0,54.0
-1948,Chicago American Giants,,,38.0,57.0
 1948,Boston Braves,"1,455,439","19,151",91.0,62.0
 1948,Detroit Tigers,"1,743,035","22,637",78.0,76.0
 1948,Cleveland Indians,"2,620,627","33,172",97.0,58.0
@@ -1104,8 +735,6 @@ year,Tm,Attendance,Attend/G,W,L
 1948,Chicago White Sox,"777,844","10,235",51.0,101.0
 1948,Brooklyn Dodgers,"1,398,967","17,935",84.0,70.0
 1948,Boston Red Sox,"1,558,798","19,985",96.0,59.0
-1948,Baltimore Elite Giants,,,49.0,29.0
-1948,Birmingham Black Barons,,,63.0,28.0
 1949,Chicago Cubs,"1,143,139","14,846",61.0,93.0
 1949,Boston Braves,"1,081,795","14,049",75.0,79.0
 1949,Brooklyn Dodgers,"1,633,747","20,945",97.0,57.0

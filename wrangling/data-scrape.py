@@ -45,7 +45,6 @@ for year in years:
         df.to_csv(f'data/mlb_attendance_{year}.csv', index=False)
         time.sleep(np.random.uniform(1, 20, 1)[0])
 
-
 # Baseball reference for W/L
 years = range(1903, 1969)
 for year in years:
@@ -227,5 +226,3 @@ for year in years:
         df = pd.concat([df_al_east, df_al_central, df_al_west, df_nl_east, df_nl_central, df_nl_west], axis=0)
         df.to_csv(f'data/mlb_standings_{year}.csv', index=False)
         time.sleep(np.random.uniform(1, 20, 1)[0])
-
-year = 1981
