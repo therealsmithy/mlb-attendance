@@ -1,0 +1,2970 @@
+year,Tm,Attendance,Attend/G,W,L
+1903,Boston Americans,"379,338","5,419",91.0,47.0
+1903,Washington Senators,"128,878","1,815",43.0,94.0
+1903,St. Louis Browns,"380,405","5,434",65.0,74.0
+1903,St. Louis Cardinals,"226,538","3,283",43.0,94.0
+1903,Philadelphia Phillies,"151,729","2,487",49.0,86.0
+1903,Philadelphia Athletics,"422,473","6,306",75.0,60.0
+1903,New York Highlanders,"211,808","3,161",72.0,62.0
+1903,Pittsburgh Pirates,"326,855","4,669",91.0,49.0
+1903,New York Giants,"579,530","8,279",84.0,55.0
+1903,Detroit Tigers,"224,523","3,454",65.0,71.0
+1903,Cincinnati Reds,"351,680","4,627",74.0,65.0
+1903,Cleveland Napoleons,"311,280","4,206",77.0,63.0
+1903,Chicago White Sox,"286,183","4,088",60.0,77.0
+1903,Chicago,"386,205","5,290",82.0,56.0
+1903,Boston Nationals,"143,155","2,105",58.0,80.0
+1903,Brooklyn Superbas,"224,670","3,078",70.0,66.0
+1904,Chicago Cubs,"439,100","5,629",93.0,60.0
+1904,Detroit Tigers,"177,796","2,251",62.0,90.0
+1904,Pittsburgh Pirates,"340,615","4,367",87.0,66.0
+1904,St. Louis Cardinals,"386,750","5,089",75.0,79.0
+1904,Philadelphia Athletics,"512,294","6,485",81.0,70.0
+1904,New York Highlanders,"438,919","5,852",92.0,59.0
+1904,New York Giants,"609,826","7,260",106.0,47.0
+1904,St. Louis Browns,"318,108","4,078",65.0,87.0
+1904,Brooklyn Superbas,"214,600","2,824",56.0,97.0
+1904,Cleveland Napoleons,"264,749","3,394",86.0,65.0
+1904,Chicago White Sox,"557,123","7,143",89.0,65.0
+1904,Cincinnati Reds,"391,915","4,961",88.0,65.0
+1904,Boston Americans,"623,295","7,695",95.0,59.0
+1904,Boston Nationals,"140,694","1,781",55.0,98.0
+1904,Philadelphia Phillies,"140,771","1,928",52.0,100.0
+1904,Washington Senators,"131,744","1,689",38.0,113.0
+1905,Chicago Cubs,"509,900","6,295",92.0,61.0
+1905,Detroit Tigers,"193,384","2,545",79.0,74.0
+1905,Pittsburgh Pirates,"369,124","4,732",96.0,57.0
+1905,St. Louis Cardinals,"292,800","3,803",58.0,96.0
+1905,Philadelphia Athletics,"554,576","7,494",92.0,56.0
+1905,New York Highlanders,"309,100","4,121",71.0,78.0
+1905,New York Giants,"552,700","7,272",105.0,48.0
+1905,St. Louis Browns,"339,112","4,293",54.0,99.0
+1905,Brooklyn Superbas,"227,924","2,960",48.0,104.0
+1905,Cleveland Napoleons,"316,306","4,108",76.0,78.0
+1905,Chicago White Sox,"687,419","8,383",92.0,60.0
+1905,Cincinnati Reds,"313,927","3,974",79.0,74.0
+1905,Washington Nationals,"252,027","3,273",64.0,87.0
+1905,Boston Nationals,"150,003","1,974",51.0,103.0
+1905,Philadelphia Phillies,"317,932","4,183",83.0,69.0
+1905,Boston Americans,"468,828","6,089",78.0,74.0
+1906,Chicago Cubs,"654,300","8,282",116.0,36.0
+1906,Washington Nationals,"129,903","1,732",55.0,95.0
+1906,Pittsburgh Pirates,"394,877","5,128",93.0,60.0
+1906,St. Louis Cardinals,"283,770","3,685",52.0,98.0
+1906,Philadelphia Athletics,"489,129","6,700",78.0,67.0
+1906,New York Highlanders,"434,700","5,720",90.0,61.0
+1906,New York Giants,"402,850","5,371",96.0,56.0
+1906,St. Louis Browns,"389,157","5,120",76.0,73.0
+1906,Brooklyn Superbas,"277,400","3,650",66.0,86.0
+1906,Cleveland Naps,"325,733","4,123",89.0,64.0
+1906,Chicago White Sox,"585,202","7,408",93.0,58.0
+1906,Cincinnati Reds,"330,056","4,231",64.0,87.0
+1906,Boston Americans,"410,209","5,327",49.0,105.0
+1906,Boston Nationals,"143,280","1,885",49.0,102.0
+1906,Philadelphia Phillies,"294,680","3,827",71.0,82.0
+1906,Detroit Tigers,"174,043","2,231",71.0,78.0
+1907,Chicago Cubs,"422,550","5,560",107.0,45.0
+1907,Detroit Tigers,"297,079","3,760",92.0,58.0
+1907,Pittsburgh Pirates,"319,506","4,149",91.0,63.0
+1907,St. Louis Cardinals,"185,377","2,347",52.0,101.0
+1907,Philadelphia Athletics,"625,581","8,570",88.0,57.0
+1907,New York Highlanders,"350,020","4,667",70.0,78.0
+1907,New York Giants,"538,350","6,992",82.0,71.0
+1907,St. Louis Browns,"419,025","5,513",69.0,83.0
+1907,Brooklyn Superbas,"312,500","4,058",65.0,83.0
+1907,Cleveland Naps,"382,046","4,659",85.0,67.0
+1907,Chicago White Sox,"666,307","8,434",87.0,64.0
+1907,Cincinnati Reds,"317,500","3,920",66.0,87.0
+1907,Washington Nationals,"221,929","2,959",49.0,102.0
+1907,Boston Doves,"203,221","2,746",58.0,90.0
+1907,Philadelphia Phillies,"341,216","4,550",83.0,64.0
+1907,Boston Americans,"436,777","5,600",59.0,90.0
+1908,Chicago Cubs,"665,325","8,530",99.0,55.0
+1908,Detroit Tigers,"436,199","5,592",90.0,63.0
+1908,Pittsburgh Pirates,"382,444","4,967",98.0,56.0
+1908,St. Louis Cardinals,"205,129","2,664",49.0,105.0
+1908,Philadelphia Athletics,"455,062","5,834",68.0,85.0
+1908,New York Highlanders,"305,500","3,968",51.0,103.0
+1908,New York Giants,"910,000","11,375",98.0,56.0
+1908,St. Louis Browns,"618,947","7,935",83.0,69.0
+1908,Brooklyn Superbas,"275,600","3,579",53.0,101.0
+1908,Cleveland Naps,"422,262","5,414",90.0,64.0
+1908,Chicago White Sox,"636,096","8,155",88.0,64.0
+1908,Cincinnati Reds,"399,200","5,184",73.0,81.0
+1908,Boston Red Sox,"473,048","6,143",75.0,79.0
+1908,Boston Doves,"253,750","3,253",63.0,91.0
+1908,Washington Nationals,"264,252","3,388",67.0,85.0
+1908,Philadelphia Phillies,"420,660","5,393",83.0,71.0
+1909,Chicago Cubs,"633,480","8,227",104.0,49.0
+1909,Detroit Tigers,"490,490","6,288",98.0,54.0
+1909,Pittsburgh Pirates,"534,950","6,772",110.0,42.0
+1909,St. Louis Cardinals,"299,982","3,947",54.0,98.0
+1909,Philadelphia Athletics,"674,915","8,880",95.0,58.0
+1909,New York Highlanders,"501,000","6,506",74.0,77.0
+1909,New York Giants,"783,700","10,178",92.0,61.0
+1909,St. Louis Browns,"366,274","4,636",61.0,89.0
+1909,Brooklyn Superbas,"321,300","4,067",55.0,98.0
+1909,Cleveland Naps,"354,627","4,606",71.0,82.0
+1909,Chicago White Sox,"478,400","5,906",78.0,74.0
+1909,Cincinnati Reds,"424,643","5,308",77.0,76.0
+1909,Washington Nationals,"205,199","2,665",42.0,110.0
+1909,Boston Doves,"195,188","2,568",45.0,108.0
+1909,Philadelphia Phillies,"303,177","3,937",74.0,79.0
+1909,Boston Red Sox,"668,965","8,920",88.0,63.0
+1910,Chicago Cubs,"526,152","6,833",104.0,50.0
+1910,Washington Nationals,"254,591","3,306",66.0,85.0
+1910,Pittsburgh Pirates,"436,586","5,745",86.0,67.0
+1910,St. Louis Cardinals,"355,668","4,680",63.0,90.0
+1910,Philadelphia Athletics,"588,905","7,550",102.0,48.0
+1910,New York Highlanders,"355,857","4,622",88.0,63.0
+1910,New York Giants,"511,785","6,478",91.0,63.0
+1910,St. Louis Browns,"249,889","3,163",47.0,107.0
+1910,Brooklyn Superbas,"279,321","3,492",64.0,90.0
+1910,Cleveland Naps,"293,456","3,668",71.0,81.0
+1910,Chicago White Sox,"552,084","6,988",68.0,85.0
+1910,Cincinnati Reds,"380,622","4,943",75.0,79.0
+1910,Boston Red Sox,"584,619","7,308",81.0,72.0
+1910,Boston Doves,"149,027","1,911",53.0,100.0
+1910,Philadelphia Phillies,"296,597","3,803",78.0,75.0
+1910,Detroit Tigers,"391,288","5,017",86.0,68.0
+1911,Boston Red Sox,"503,961","6,631",78.0,75.0
+1911,Philadelphia Phillies,"416,000","5,474",79.0,73.0
+1911,Boston,"116,000","1,547",44.0,107.0
+1911,Washington Nationals,"244,884","3,180",64.0,90.0
+1911,Cincinnati Reds,"300,000","3,659",70.0,83.0
+1911,Chicago White Sox,"583,208","7,477",77.0,74.0
+1911,Cleveland Naps,"406,296","5,277",80.0,73.0
+1911,Brooklyn Dodgers,"269,000","3,635",64.0,86.0
+1911,St. Louis Browns,"207,984","2,666",45.0,107.0
+1911,New York Giants,"675,000","9,000",99.0,54.0
+1911,New York Highlanders,"302,444","3,928",76.0,76.0
+1911,Philadelphia Athletics,"605,749","8,077",101.0,50.0
+1911,St. Louis Cardinals,"447,768","5,668",75.0,74.0
+1911,Pittsburgh Pirates,"432,000","5,538",85.0,69.0
+1911,Detroit Tigers,"484,988","6,381",89.0,65.0
+1911,Chicago Cubs,"576,000","6,857",92.0,62.0
+1912,Washington Nationals,"350,663","4,496",91.0,61.0
+1912,Detroit Tigers,"402,870","5,301",69.0,84.0
+1912,Cincinnati Reds,"344,000","4,468",75.0,78.0
+1912,Boston Red Sox,"597,096","7,655",105.0,47.0
+1912,Boston Braves,"121,000","1,532",52.0,101.0
+1912,Chicago Cubs,"514,000","6,590",91.0,59.0
+1912,Brooklyn Dodgers,"243,000","3,197",58.0,95.0
+1912,Cleveland Naps,"336,844","4,375",75.0,78.0
+1912,Philadelphia Phillies,"250,000","3,333",73.0,79.0
+1912,St. Louis Cardinals,"241,759","3,140",63.0,90.0
+1912,St. Louis Browns,"214,070","2,710",53.0,101.0
+1912,Pittsburgh Pirates,"384,000","5,120",93.0,58.0
+1912,New York Highlanders,"242,194","3,187",50.0,102.0
+1912,Philadelphia Athletics,"517,653","6,723",90.0,62.0
+1912,New York Giants,"638,000","8,395",103.0,48.0
+1912,Chicago White Sox,"602,241","7,721",78.0,76.0
+1913,Boston Red Sox,"437,194","5,829",79.0,71.0
+1913,Pittsburgh Pirates,"296,000","3,747",78.0,71.0
+1913,Philadelphia Phillies,"470,000","6,026",88.0,63.0
+1913,New York Yankees,"357,551","4,767",57.0,94.0
+1913,St. Louis Cardinals,"203,531","2,750",51.0,99.0
+1913,St. Louis Browns,"250,330","3,251",57.0,96.0
+1913,Washington Nationals,"325,831","4,177",90.0,64.0
+1913,Philadelphia Athletics,"571,896","7,525",96.0,57.0
+1913,New York Giants,"630,000","7,778",101.0,51.0
+1913,Detroit Tigers,"398,502","5,243",66.0,87.0
+1913,Cleveland Naps,"541,000","6,763",86.0,66.0
+1913,Cincinnati Reds,"258,000","3,308",64.0,89.0
+1913,Chicago White Sox,"644,501","8,370",78.0,74.0
+1913,Chicago Cubs,"419,000","5,513",88.0,65.0
+1913,Boston Braves,"208,000","2,701",69.0,82.0
+1913,Brooklyn Dodgers,"347,000","4,506",65.0,84.0
+1914,New York Yankees,"359,477","4,609",70.0,84.0
+1914,New York Giants,"364,313","4,554",84.0,70.0
+1914,Kansas City Packers,,,67.0,84.0
+1914,Indianapolis Hoosiers,,,88.0,65.0
+1914,Detroit Tigers,"416,225","5,336",80.0,73.0
+1914,Cleveland Naps,"185,997","2,354",51.0,102.0
+1914,Cincinnati Reds,"100,791","1,309",60.0,94.0
+1914,Washington Nationals,"243,888","3,167",81.0,73.0
+1914,Chicago White Sox,"469,290","5,794",70.0,84.0
+1914,Pittsburgh Rebels,,,64.0,86.0
+1914,Philadelphia Athletics,"346,641","4,444",99.0,53.0
+1914,Philadelphia Phillies,"138,474","1,775",74.0,80.0
+1914,Pittsburgh Pirates,"139,620","1,813",69.0,85.0
+1914,St. Louis Browns,"244,714","3,021",71.0,82.0
+1914,St. Louis Terriers,,,62.0,89.0
+1914,St. Louis Cardinals,"256,099","3,242",81.0,72.0
+1914,Baltimore Terrapins,,,84.0,70.0
+1914,Boston Red Sox,"481,359","6,093",91.0,62.0
+1914,Brooklyn Dodgers,"122,671","1,553",75.0,79.0
+1914,Boston Braves,"382,913","4,847",94.0,59.0
+1914,Brooklyn Tip-Tops,,,77.0,77.0
+1914,Buffalo Buffeds,,,80.0,71.0
+1914,Chicago Cubs,"202,516","2,665",78.0,76.0
+1914,Chicago Chi-Feds,,,87.0,67.0
+1915,Chicago Whales,,,86.0,66.0
+1915,Chicago Cubs,"217,058","2,819",73.0,80.0
+1915,Buffalo Blues,,,74.0,78.0
+1915,Brooklyn Tip-Tops,,,70.0,82.0
+1915,Boston Braves,"376,283","4,824",83.0,69.0
+1915,Brooklyn Dodgers,"297,766","3,818",80.0,72.0
+1915,Boston Red Sox,"539,885","7,104",101.0,50.0
+1915,Chicago White Sox,"539,461","6,829",93.0,61.0
+1915,Baltimore Terrapins,,,47.0,107.0
+1915,St. Louis Cardinals,"252,666","3,119",72.0,81.0
+1915,St. Louis Terriers,,,87.0,67.0
+1915,St. Louis Browns,"150,358","1,978",63.0,91.0
+1915,Pittsburgh Pirates,"225,743","2,858",73.0,81.0
+1915,Philadelphia Phillies,"449,898","5,920",90.0,62.0
+1915,Philadelphia Athletics,"146,223","1,976",43.0,109.0
+1915,Pittsburgh Rebels,,,86.0,67.0
+1915,Washington Nationals,"167,332","2,092",85.0,68.0
+1915,New York Yankees,"256,035","3,122",69.0,83.0
+1915,Newark Pepper,,,80.0,72.0
+1915,New York Giants,"391,850","5,156",69.0,83.0
+1915,Detroit Tigers,"476,105","6,183",100.0,54.0
+1915,Cleveland Indians,"159,285","2,069",57.0,95.0
+1915,Cincinnati Reds,"218,878","2,771",71.0,83.0
+1915,Kansas City Packers,,,81.0,72.0
+1916,Brooklyn Robins,"447,747","5,740",94.0,60.0
+1916,St. Louis Browns,"335,740","4,250",79.0,75.0
+1916,Philadelphia Phillies,"515,365","6,524",91.0,62.0
+1916,New York Yankees,"469,211","5,939",80.0,74.0
+1916,Washington Nationals,"177,265","2,188",76.0,77.0
+1916,St. Louis Cardinals,"224,308","2,951",60.0,93.0
+1916,Pittsburgh Pirates,"289,132","3,707",65.0,89.0
+1916,Philadelphia Athletics,"184,471","2,427",36.0,117.0
+1916,Boston Red Sox,"496,397","6,364",91.0,63.0
+1916,Boston Braves,"313,495","4,019",89.0,63.0
+1916,Chicago Cubs,"453,685","5,743",67.0,86.0
+1916,Chicago White Sox,"679,923","8,830",89.0,65.0
+1916,Cincinnati Reds,"255,846","3,366",60.0,93.0
+1916,Cleveland Indians,"492,106","6,309",77.0,77.0
+1916,Detroit Tigers,"616,772","8,010",87.0,67.0
+1916,New York Giants,"552,056","7,078",86.0,66.0
+1917,Washington Nationals,"89,682","1,121",74.0,79.0
+1917,St. Louis Cardinals,"288,491","3,699",82.0,70.0
+1917,St. Louis Browns,"210,486","2,699",57.0,97.0
+1917,Pittsburgh Pirates,"192,807","2,441",51.0,103.0
+1917,Philadelphia Phillies,"354,428","4,664",87.0,65.0
+1917,Philadelphia Athletics,"221,432","2,914",55.0,98.0
+1917,New York Yankees,"330,294","4,404",71.0,82.0
+1917,New York Giants,"500,264","6,253",98.0,56.0
+1917,Detroit Tigers,"457,289","6,017",78.0,75.0
+1917,Cleveland Indians,"477,298","6,119",88.0,66.0
+1917,Cincinnati Reds,"269,056","3,363",78.0,76.0
+1917,Chicago White Sox,"684,521","8,665",100.0,54.0
+1917,Chicago Cubs,"360,218","4,678",74.0,80.0
+1917,Boston Braves,"174,253","2,263",72.0,81.0
+1917,Brooklyn Robins,"221,619","2,841",70.0,81.0
+1917,Boston Red Sox,"387,856","4,848",90.0,62.0
+1918,New York Giants,"256,618","4,582",71.0,53.0
+1918,New York Yankees,"282,047","4,210",60.0,63.0
+1918,Philadelphia Athletics,"177,926","2,617",52.0,76.0
+1918,Philadelphia Phillies,"122,266","2,145",55.0,68.0
+1918,Pittsburgh Pirates,"213,610","3,009",65.0,60.0
+1918,St. Louis Browns,"122,076","2,303",58.0,64.0
+1918,St. Louis Cardinals,"110,599","1,515",51.0,78.0
+1918,Washington Nationals,"182,122","2,461",72.0,56.0
+1918,Detroit Tigers,"203,719","3,512",55.0,71.0
+1918,Cleveland Indians,"295,515","4,766",73.0,54.0
+1918,Cincinnati Reds,"163,009","2,296",68.0,60.0
+1918,Chicago White Sox,"195,081","3,484",57.0,67.0
+1918,Chicago Cubs,"337,256","4,558",84.0,45.0
+1918,Boston Braves,"84,938","1,633",53.0,71.0
+1918,Brooklyn Robins,"83,831","1,552",57.0,69.0
+1918,Boston Red Sox,"249,513","3,564",75.0,51.0
+1919,Washington Nationals,"234,096","3,251",56.0,84.0
+1919,St. Louis Cardinals,"167,059","2,421",54.0,83.0
+1919,St. Louis Browns,"349,350","4,991",67.0,72.0
+1919,Pittsburgh Pirates,"276,810","3,954",71.0,68.0
+1919,Philadelphia Phillies,"240,424","3,386",47.0,90.0
+1919,Philadelphia Athletics,"225,209","3,217",36.0,104.0
+1919,New York Yankees,"619,164","8,482",80.0,59.0
+1919,New York Giants,"708,857","10,273",87.0,53.0
+1919,Boston Red Sox,"417,291","6,323",66.0,71.0
+1919,Brooklyn Robins,"360,721","5,153",69.0,71.0
+1919,Boston Braves,"167,401","2,462",57.0,82.0
+1919,Chicago Cubs,"424,430","5,978",75.0,65.0
+1919,Chicago White Sox,"627,186","8,960",88.0,52.0
+1919,Cincinnati Reds,"532,501","7,607",96.0,44.0
+1919,Cleveland Indians,"538,135","7,799",84.0,55.0
+1919,Detroit Tigers,"643,805","9,197",80.0,60.0
+1920,Boston Red Sox,"402,445","5,295",72.0,81.0
+1920,Brooklyn Robins,"808,722","10,368",93.0,61.0
+1920,Boston Braves,"162,483","2,196",62.0,90.0
+1920,Chicago American Giants,,,43.0,17.0
+1920,Chicago Cubs,"480,783","6,244",75.0,79.0
+1920,Chicago White Sox,"833,492","10,825",96.0,58.0
+1920,Cincinnati Reds,"568,107","7,378",82.0,71.0
+1920,Indianapolis ABCs,,,44.0,38.0
+1920,New York Yankees,"1,289,422","16,746",95.0,59.0
+1920,Chicago Giants,,,5.0,31.0
+1920,Detroit Tigers,"579,650","7,431",61.0,93.0
+1920,Cuban Stars West,,,35.0,34.0
+1920,Detroit Stars,,,37.0,27.0
+1920,Kansas City Monarchs,,,44.0,33.0
+1920,New York Giants,"929,609","11,620",86.0,68.0
+1920,Dayton Marcos,,,16.0,36.0
+1920,St. Louis Browns,"419,311","5,376",76.0,77.0
+1920,Philadelphia Athletics,"287,888","3,739",48.0,106.0
+1920,Pittsburgh Pirates,"429,037","5,500",79.0,75.0
+1920,Philadelphia Phillies,"330,998","4,299",62.0,91.0
+1920,St. Louis Cardinals,"326,836","4,300",75.0,79.0
+1920,St. Louis Giants,,,32.0,40.0
+1920,Washington Nationals,"359,260","4,727",68.0,84.0
+1920,Cleveland Indians,"912,832","11,703",98.0,56.0
+1921,New York Yankees,"1,230,696","15,778",98.0,55.0
+1921,New York Giants,"973,477","12,322",94.0,59.0
+1921,Kansas City Monarchs,,,54.0,41.0
+1921,Detroit Stars,,,30.0,33.0
+1921,Detroit Tigers,"661,527","8,591",71.0,82.0
+1921,Cincinnati Cuban Stars,,,29.0,40.0
+1921,Chicago Giants,,,10.0,35.0
+1921,Columbus Buckeyes,,,30.0,38.0
+1921,St. Louis Browns,"355,978","4,623",81.0,73.0
+1921,Philadelphia Athletics,"344,430","4,473",53.0,100.0
+1921,Pittsburgh Pirates,"701,567","9,231",90.0,63.0
+1921,Philadelphia Phillies,"273,961","3,605",51.0,103.0
+1921,St. Louis Cardinals,"384,773","4,933",87.0,66.0
+1921,St. Louis Giants,,,43.0,31.0
+1921,Washington Nationals,"456,069","6,001",80.0,73.0
+1921,Indianapolis ABCs,,,37.0,37.0
+1921,Cleveland Indians,"748,705","9,723",94.0,60.0
+1921,Cincinnati Reds,"311,227","4,095",70.0,83.0
+1921,Chicago White Sox,"543,650","7,060",62.0,92.0
+1921,Chicago Cubs,"410,107","5,396",64.0,89.0
+1921,Chicago American Giants,,,44.0,22.0
+1921,Boston Braves,"318,627","4,306",79.0,74.0
+1921,Brooklyn Robins,"613,245","7,862",77.0,75.0
+1921,Boston Red Sox,"279,273","3,627",75.0,79.0
+1922,Washington Nationals,"458,552","5,804",69.0,85.0
+1922,St. Louis Cardinals,"536,998","6,974",85.0,69.0
+1922,St. Louis Stars,,,26.0,36.0
+1922,St. Louis Browns,"712,918","9,259",93.0,61.0
+1922,Pittsburgh Pirates,"523,675","6,714",85.0,69.0
+1922,Pittsburgh Keystones,,,14.0,24.0
+1922,Philadelphia Phillies,"232,471","3,019",57.0,96.0
+1922,Cleveland Indians,"528,145","6,602",78.0,76.0
+1922,Boston Red Sox,"259,184","3,550",61.0,93.0
+1922,Brooklyn Robins,"498,865","6,396",76.0,78.0
+1922,Boston Braves,"167,965","2,210",53.0,100.0
+1922,Chicago American Giants,,,37.0,24.0
+1922,Chicago Cubs,"542,283","7,135",80.0,74.0
+1922,Chicago White Sox,"602,860","7,829",77.0,77.0
+1922,Cincinnati Reds,"493,754","6,250",86.0,68.0
+1922,Indianapolis ABCs,,,50.0,34.0
+1922,Detroit Stars,,,42.0,31.0
+1922,New York Yankees,"1,026,134","13,326",94.0,60.0
+1922,New York Giants,"945,809","11,972",93.0,61.0
+1922,Kansas City Monarchs,,,47.0,31.0
+1922,Cleveland Tate Stars,,,15.0,26.0
+1922,Detroit Tigers,"861,206","11,184",79.0,75.0
+1922,Cuban Stars West,,,18.0,43.0
+1922,Philadelphia Athletics,"425,356","5,453",65.0,89.0
+1923,Washington Nationals,"357,406","4,524",75.0,78.0
+1923,Toledo Tigers,,,10.0,17.0
+1923,St. Louis Cardinals,"338,551","4,340",79.0,74.0
+1923,St. Louis Stars,,,29.0,43.0
+1923,St. Louis Browns,"430,296","5,517",74.0,78.0
+1923,Pittsburgh Pirates,"611,082","7,936",87.0,67.0
+1923,Philadelphia Phillies,"228,168","3,042",50.0,104.0
+1923,Detroit Stars,,,39.0,27.0
+1923,Detroit Tigers,"911,377","11,836",83.0,71.0
+1923,Cleveland Tate Stars,,,,
+1923,Cuban Stars West,,,24.0,33.0
+1923,Cuban Stars East,,,22.0,16.0
+1923,Cleveland Indians,"558,856","7,165",82.0,71.0
+1923,Cincinnati Reds,"575,063","7,373",91.0,63.0
+1923,Chicago White Sox,"573,778","7,650",69.0,85.0
+1923,Chicago Cubs,"703,705","9,139",83.0,71.0
+1923,Chicago American Giants,,,39.0,24.0
+1923,Boston Braves,"227,802","2,958",54.0,100.0
+1923,Brooklyn Robins,"564,666","7,239",76.0,78.0
+1923,Brooklyn Royal Giants,,,16.0,16.0
+1923,Boston Red Sox,"229,688","2,945",61.0,91.0
+1923,Baltimore Black Sox,,,19.0,33.0
+1923,Birmingham Black Barons,,,,
+1923,Atlantic City Bacharach Giants,,,23.0,25.0
+1923,New York Yankees,"1,007,066","13,251",98.0,54.0
+1923,New York Giants,"820,780","10,659",95.0,58.0
+1923,New York Lincoln Giants,,,17.0,23.0
+1923,Memphis Red Sox,,,,
+1923,Milwaukee Bears,,,11.0,42.0
+1923,Kansas City Monarchs,,,54.0,32.0
+1923,Hilldale Club,,,37.0,21.0
+1923,Philadelphia Athletics,"534,122","7,122",69.0,83.0
+1923,Indianapolis ABCs,,,44.0,32.0
+1924,Washington Potomacs,,,21.0,38.0
+1924,St. Louis Stars,,,43.0,41.0
+1924,St. Louis Cardinals,"272,885","3,544",65.0,89.0
+1924,Pittsburgh Pirates,"736,883","9,570",90.0,63.0
+1924,Philadelphia Phillies,"299,818","3,945",55.0,96.0
+1924,Philadelphia Athletics,"531,992","7,093",71.0,81.0
+1924,St. Louis Browns,"533,349","6,838",74.0,78.0
+1924,Cuban Stars West,,,18.0,35.0
+1924,Cuban Stars East,,,15.0,33.0
+1924,Cleveland Indians,"481,905","6,425",67.0,86.0
+1924,Cincinnati Reds,"473,707","6,233",83.0,70.0
+1924,Chicago White Sox,"606,658","7,879",66.0,87.0
+1924,Chicago Cubs,"716,922","9,191",81.0,72.0
+1924,Cleveland Browns,,,15.0,32.0
+1924,Chicago American Giants,,,52.0,27.0
+1924,Boston Braves,"177,478","2,335",53.0,100.0
+1924,Brooklyn Robins,"818,883","10,635",92.0,62.0
+1924,Brooklyn Royal Giants,,,15.0,25.0
+1924,Boston Red Sox,"448,556","5,825",67.0,87.0
+1924,Baltimore Black Sox,,,38.0,23.0
+1924,Birmingham Black Barons,,,37.0,44.0
+1924,Atlantic City Bacharach Giants,,,35.0,32.0
+1924,Indianapolis ABCs,,,5.0,21.0
+1924,Detroit Tigers,"1,015,136","13,015",86.0,68.0
+1924,Detroit Stars,,,35.0,28.0
+1924,Harrisburg Giants,,,30.0,31.0
+1924,Hilldale Club,,,47.0,26.0
+1924,Kansas City Monarchs,,,57.0,22.0
+1924,Memphis Red Sox,,,24.0,36.0
+1924,New York Lincoln Giants,,,35.0,28.0
+1924,New York Giants,"844,068","10,962",93.0,60.0
+1924,New York Yankees,"1,053,533","13,507",89.0,63.0
+1924,Washington Nationals,"584,310","7,396",92.0,62.0
+1925,Chicago Cubs,"622,610","8,086",68.0,86.0
+1925,Chicago American Giants,,,57.0,41.0
+1925,Cuban Stars East,,,18.0,26.0
+1925,Cleveland Indians,"419,005","5,442",70.0,84.0
+1925,Cuban Stars West,,,20.0,30.0
+1925,Chicago White Sox,"832,231","10,808",79.0,75.0
+1925,Indianapolis ABCs,,,17.0,53.0
+1925,Atlantic City Bacharach Giants,,,36.0,38.0
+1925,Birmingham Black Barons,,,27.0,59.0
+1925,Baltimore Black Sox,,,33.0,31.0
+1925,Brooklyn Royal Giants,,,14.0,20.0
+1925,Boston Red Sox,"267,782","3,570",47.0,105.0
+1925,Brooklyn Robins,"659,435","8,564",68.0,85.0
+1925,Boston Braves,"313,528","4,125",70.0,83.0
+1925,Cincinnati Reds,"464,920","6,117",80.0,73.0
+1925,Wilmington Potomacs,,,10.0,21.0
+1925,St. Louis Stars,,,59.0,30.0
+1925,St. Louis Cardinals,"404,959","5,328",77.0,76.0
+1925,Pittsburgh Pirates,"804,354","10,446",95.0,58.0
+1925,Philadelphia Phillies,"304,905","3,960",68.0,85.0
+1925,Philadelphia Athletics,"869,703","11,295",88.0,64.0
+1925,St. Louis Browns,"462,898","5,935",82.0,71.0
+1925,Washington Nationals,"817,199","10,753",96.0,55.0
+1925,New York Lincoln Giants,,,7.0,41.0
+1925,Memphis Red Sox,,,34.0,49.0
+1925,Kansas City Monarchs,,,59.0,23.0
+1925,Hilldale Club,,,53.0,18.0
+1925,Harrisburg Giants,,,48.0,24.0
+1925,Detroit Stars,,,56.0,44.0
+1925,New York Yankees,"697,267","8,826",69.0,85.0
+1925,New York Giants,"778,993","10,250",86.0,66.0
+1925,Detroit Tigers,"820,766","10,659",81.0,73.0
+1926,St. Louis Browns,"283,986","3,595",62.0,92.0
+1926,St. Louis Stars,,,61.0,35.0
+1926,Philadelphia Phillies,"240,600","3,166",58.0,93.0
+1926,Philadelphia Athletics,"714,508","10,063",83.0,67.0
+1926,New York Yankees,"1,027,675","13,702",91.0,63.0
+1926,Pittsburgh Pirates,"798,542","10,108",84.0,69.0
+1926,St. Louis Cardinals,"668,428","8,461",89.0,65.0
+1926,Cuban Stars West,,,19.0,49.0
+1926,Cleveland Indians,"627,426","7,843",88.0,66.0
+1926,Cuban Stars East,,,29.0,22.0
+1926,Chicago White Sox,"710,339","8,992",81.0,72.0
+1926,Chicago Cubs,"885,063","11,347",82.0,72.0
+1926,Cleveland Elites,,,8.0,40.0
+1926,Cincinnati Reds,"672,987","8,740",87.0,67.0
+1926,Chicago American Giants,,,57.0,24.0
+1926,Boston Braves,"303,598","3,943",66.0,86.0
+1926,Brooklyn Royal Giants,,,11.0,24.0
+1926,Brooklyn Robins,"650,819","8,563",71.0,82.0
+1926,Boston Red Sox,"285,155","3,703",46.0,107.0
+1926,Baltimore Black Sox,,,22.0,38.0
+1926,Atlantic City Bacharach Giants,,,43.0,28.0
+1926,Indianapolis ABCs,,,40.0,50.0
+1926,Detroit Tigers,"711,914","8,789",79.0,75.0
+1926,Dayton Marcos,,,6.0,36.0
+1926,Detroit Stars,,,52.0,47.0
+1926,Harrisburg Giants,,,27.0,22.0
+1926,Hilldale Club,,,53.0,33.0
+1926,Kansas City Monarchs,,,60.0,22.0
+1926,New York Lincoln Giants,,,22.0,31.0
+1926,Newark Stars,,,1.0,10.0
+1926,New York Giants,"700,362","9,215",74.0,77.0
+1926,Washington Nationals,"551,580","7,454",81.0,69.0
+1927,Cleveland Hornets,,,13.0,36.0
+1927,Chicago Cubs,"1,159,168","14,861",85.0,68.0
+1927,Cuban Stars East,,,31.0,29.0
+1927,Cleveland Indians,"373,138","4,846",66.0,87.0
+1927,Cuban Stars West,,,23.0,46.0
+1927,Chicago White Sox,"614,423","8,192",70.0,83.0
+1927,Atlantic City Bacharach Giants,,,55.0,35.0
+1927,Birmingham Black Barons,,,53.0,44.0
+1927,Baltimore Black Sox,,,34.0,36.0
+1927,Boston Red Sox,"305,275","3,914",51.0,103.0
+1927,Brooklyn Robins,"637,230","8,611",65.0,88.0
+1927,Brooklyn Royal Giants,,,11.0,23.0
+1927,Boston Braves,"288,685","3,901",60.0,94.0
+1927,Chicago American Giants,,,61.0,32.0
+1927,Cincinnati Reds,"442,164","5,527",75.0,78.0
+1927,Detroit Tigers,"773,716","9,919",82.0,71.0
+1927,Harrisburg Giants,,,38.0,31.0
+1927,Detroit Stars,,,52.0,47.0
+1927,Kansas City Monarchs,,,55.0,33.0
+1927,Memphis Red Sox,,,25.0,69.0
+1927,New York Lincoln Giants,,,10.0,15.0
+1927,Hilldale Club,,,38.0,48.0
+1927,Washington Nationals,"528,976","6,696",85.0,69.0
+1927,St. Louis Cardinals,"749,340","9,367",92.0,61.0
+1927,St. Louis Stars,,,62.0,37.0
+1927,St. Louis Browns,"247,879","3,178",59.0,94.0
+1927,Pittsburgh Pirates,"869,720","11,009",94.0,60.0
+1927,Philadelphia Phillies,"305,420","3,916",51.0,103.0
+1927,Philadelphia Athletics,"605,529","7,864",91.0,63.0
+1927,New York Yankees,"1,164,015","15,117",110.0,44.0
+1927,New York Giants,"858,190","11,597",92.0,62.0
+1928,St. Louis Cardinals,"761,574","9,891",95.0,59.0
+1928,St. Louis Stars,,,63.0,26.0
+1928,St. Louis Browns,"339,497","4,409",82.0,72.0
+1928,Philadelphia Tigers,,,2.0,7.0
+1928,Washington Nationals,"378,501","4,731",75.0,79.0
+1928,Philadelphia Athletics,"689,756","8,958",98.0,55.0
+1928,Philadelphia Phillies,"182,168","2,429",43.0,109.0
+1928,Homestead Grays,,,,
+1928,Kansas City Monarchs,,,50.0,29.0
+1928,Memphis Red Sox,,,33.0,51.0
+1928,New York Lincoln Giants,,,9.0,7.0
+1928,New York Giants,"916,191","11,899",93.0,61.0
+1928,New York Yankees,"1,072,132","13,924",101.0,53.0
+1928,Pittsburgh Pirates,"495,070","6,429",85.0,67.0
+1928,Chicago Cubs,"1,143,740","14,854",91.0,63.0
+1928,Atlantic City Bacharach Giants,,,18.0,12.0
+1928,Cuban Stars West,,,13.0,41.0
+1928,Cincinnati Reds,"490,490","6,288",78.0,74.0
+1928,Cuban Stars East,,,6.0,13.0
+1928,Cleveland Indians,"375,907","4,882",62.0,92.0
+1928,Detroit Tigers,"474,323","6,160",68.0,86.0
+1928,Cleveland Tigers,,,20.0,59.0
+1928,Detroit Stars,,,53.0,36.0
+1928,Birmingham Black Barons,,,46.0,53.0
+1928,Baltimore Black Sox,,,19.0,15.0
+1928,Boston Red Sox,"396,920","5,364",57.0,96.0
+1928,Brooklyn Royal Giants,,,,
+1928,Brooklyn Robins,"664,863","8,635",77.0,76.0
+1928,Boston Braves,"227,001","2,987",50.0,103.0
+1928,Chicago American Giants,,,55.0,38.0
+1928,Chicago White Sox,"494,152","6,335",72.0,82.0
+1929,Atlantic City Bacharach Giants,,,21.0,50.0
+1929,Memphis Red Sox,,,21.0,54.0
+1929,New York Yankees,"960,148","12,469",88.0,66.0
+1929,New York Giants,"868,806","11,283",84.0,67.0
+1929,New York Lincoln Giants,,,40.0,26.0
+1929,Philadelphia Phillies,"281,200","3,700",71.0,82.0
+1929,Pittsburgh Pirates,"491,377","6,465",88.0,65.0
+1929,St. Louis Browns,"280,697","3,645",79.0,73.0
+1929,St. Louis Stars,,,56.0,34.0
+1929,Washington Nationals,"355,506","4,558",71.0,81.0
+1929,St. Louis Cardinals,"399,887","5,193",78.0,74.0
+1929,Philadelphia Athletics,"839,176","11,340",104.0,46.0
+1929,Chicago American Giants,,,51.0,40.0
+1929,Chicago Cubs,"1,485,166","19,041",98.0,54.0
+1929,Chicago White Sox,"426,795","5,616",59.0,93.0
+1929,Cincinnati Reds,"295,040","3,783",66.0,88.0
+1929,Birmingham Black Barons,,,33.0,56.0
+1929,Detroit Stars,,,39.0,42.0
+1929,Kansas City Monarchs,,,63.0,17.0
+1929,Hilldale Club,,,43.0,35.0
+1929,Homestead Grays,,,32.0,29.0
+1929,Cuban Stars West,,,17.0,37.0
+1929,Detroit Tigers,"869,318","11,290",70.0,84.0
+1929,Cuban Stars East,,,15.0,41.0
+1929,Baltimore Black Sox,,,55.0,25.0
+1929,Boston Red Sox,"394,620","5,059",58.0,96.0
+1929,Brooklyn Robins,"731,886","9,505",70.0,83.0
+1929,Boston Braves,"372,351","4,836",56.0,98.0
+1929,Cleveland Indians,"536,210","7,055",81.0,71.0
+1930,Chicago American Giants,,,53.0,49.0
+1930,Birmingham Black Barons,,,46.0,48.0
+1930,Boston Braves,"464,835","6,037",70.0,84.0
+1930,Boston Red Sox,"444,045","5,843",52.0,102.0
+1930,St. Louis Browns,"152,088","1,950",64.0,90.0
+1930,Washington Nationals,"614,474","7,980",94.0,60.0
+1930,St. Louis Stars,,,69.0,25.0
+1930,St. Louis Cardinals,"508,501","6,604",92.0,62.0
+1930,Nashville Elite Giants,,,26.0,55.0
+1930,New York Giants,"868,714","11,282",87.0,67.0
+1930,Memphis Red Sox,,,30.0,51.0
+1930,Chicago Cubs,"1,463,624","18,527",90.0,64.0
+1930,Chicago White Sox,"406,123","5,207",62.0,92.0
+1930,Cincinnati Reds,"386,727","5,022",59.0,95.0
+1930,Cleveland Indians,"528,657","6,866",81.0,73.0
+1930,Cuban Stars West,,,25.0,41.0
+1930,Detroit Tigers,"649,450","8,326",75.0,79.0
+1930,Detroit Stars,,,52.0,37.0
+1930,Kansas City Monarchs,,,40.0,23.0
+1930,Brooklyn Robins,"1,097,329","14,251",86.0,68.0
+1930,New York Yankees,"1,169,230","15,385",86.0,68.0
+1930,Pittsburgh Pirates,"357,795","4,647",80.0,74.0
+1930,Philadelphia Phillies,"299,007","3,883",52.0,102.0
+1930,Philadelphia Athletics,"721,663","9,496",102.0,52.0
+1930,Louisville Black Caps,,,16.0,28.0
+1931,Kansas City Monarchs,,,,
+1931,Boston Braves,"515,005","6,603",64.0,90.0
+1931,Brooklyn Robins,"753,133","9,910",79.0,73.0
+1931,Indianapolis ABCs,,,30.0,30.0
+1931,New York Yankees,"912,437","11,850",94.0,59.0
+1931,New York Giants,"812,163","10,412",87.0,65.0
+1931,Louisville White Sox,,,24.0,33.0
+1931,Boston Red Sox,"350,975","4,387",62.0,90.0
+1931,Detroit Stars,,,25.0,33.0
+1931,Detroit Tigers,"434,056","5,637",61.0,93.0
+1931,Chicago Columbia Giants,,,6.0,17.0
+1931,Cleveland Cubs,,,23.0,22.0
+1931,Chicago Cubs,"1,086,422","14,109",84.0,70.0
+1931,Chicago White Sox,"403,550","5,241",56.0,97.0
+1931,Cincinnati Reds,"263,316","3,420",58.0,96.0
+1931,Philadelphia Phillies,"284,849","3,748",66.0,88.0
+1931,Pittsburgh Pirates,"260,392","3,338",75.0,79.0
+1931,St. Louis Browns,"179,126","2,326",63.0,91.0
+1931,St. Louis Stars,,,37.0,10.0
+1931,Washington Nationals,"492,657","6,236",92.0,62.0
+1931,St. Louis Cardinals,"608,535","7,802",101.0,53.0
+1931,Philadelphia Athletics,"627,464","8,366",107.0,45.0
+1931,Cleveland Indians,"483,027","6,356",78.0,76.0
+1932,Detroit Wolves,,,26.0,5.0
+1932,Detroit Tigers,"397,157","5,092",76.0,75.0
+1932,Pollock's Cuban Stars,,,10.0,12.0
+1932,Homestead Grays,,,24.0,16.0
+1932,Columbus Turf Club,,,3.0,5.0
+1932,Cleveland Stars,,,5.0,11.0
+1932,Cleveland Indians,"468,953","6,090",87.0,65.0
+1932,Cincinnati Reds,"356,950","4,636",60.0,94.0
+1932,Chicago White Sox,"233,198","3,029",49.0,102.0
+1932,Chicago Cubs,"974,688","12,658",90.0,64.0
+1932,Chicago American Giants,,,34.0,12.0
+1932,Boston Braves,"507,606","6,592",77.0,77.0
+1932,Brooklyn Dodgers,"681,827","8,741",81.0,73.0
+1932,Little Rock Grays,,,5.0,12.0
+1932,Hilldale Club,,,11.0,18.0
+1932,Birmingham Black Barons,,,10.0,9.0
+1932,Boston Red Sox,"182,150","2,366",43.0,111.0
+1932,Indianapolis ABCs,,,18.0,21.0
+1932,Atlanta Black Crackers,,,6.0,17.0
+1932,Baltimore Black Sox,,,29.0,26.0
+1932,Cleveland Cubs,,,,
+1932,Philadelphia Athletics,"405,500","5,266",94.0,60.0
+1932,New York Giants,"484,868","6,297",72.0,82.0
+1932,New York Yankees,"962,320","12,498",107.0,47.0
+1932,Nashville Elite Giants,,,24.0,23.0
+1932,Memphis Red Sox,,,23.0,27.0
+1932,Monroe Monarchs,,,34.0,14.0
+1932,Newark Browns,,,0.0,4.0
+1932,Louisville Black Caps,,,12.0,27.0
+1932,Montgomery Grey Sox,,,23.0,25.0
+1932,St. Louis Browns,"112,558","1,501",63.0,91.0
+1932,Philadelphia Phillies,"268,914","3,492",78.0,76.0
+1932,St. Louis Cardinals,"279,219","3,534",72.0,82.0
+1932,Washington Pilots,,,17.0,30.0
+1932,Washington Nationals,"371,396","4,823",93.0,61.0
+1932,Pittsburgh Pirates,"287,262","3,780",86.0,68.0
+1933,Washington Nationals,"437,533","5,757",99.0,53.0
+1933,New York Yankees,"728,014","9,707",91.0,59.0
+1933,St. Louis Browns,"88,113","1,144",55.0,96.0
+1933,St. Louis Cardinals,"256,171","3,327",82.0,71.0
+1933,Philadelphia Athletics,"297,138","3,910",79.0,72.0
+1933,Philadelphia Phillies,"156,421","2,173",60.0,92.0
+1933,Pittsburgh Crawfords,,,41.0,21.0
+1933,Baltimore Sox,,,13.0,18.0
+1933,Boston Red Sox,"268,715","3,732",63.0,86.0
+1933,Akron Grays,,,3.0,7.0
+1933,Nashville Elite Giants,,,19.0,22.0
+1933,New York Giants,"604,471","7,850",91.0,61.0
+1933,Homestead Grays,,,14.0,14.0
+1933,Detroit Tigers,"320,972","4,115",75.0,79.0
+1933,Cleveland Indians,"387,936","5,038",75.0,76.0
+1933,Indianapolis ABCs/Detroit Stars,,,17.0,31.0
+1933,Pittsburgh Pirates,"288,747","3,750",87.0,67.0
+1933,Cincinnati Reds,"218,281","2,763",58.0,94.0
+1933,Boston Braves,"517,803","6,725",83.0,71.0
+1933,Chicago American Giants,,,41.0,22.0
+1933,Columbus Blue Birds,,,15.0,27.0
+1933,Cleveland Giants,,,0.0,1.0
+1933,Chicago Cubs,"594,112","7,520",86.0,68.0
+1933,Chicago White Sox,"397,789","5,166",67.0,83.0
+1933,Brooklyn Dodgers,"526,815","6,585",65.0,88.0
+1934,Washington Nationals,"330,074","4,343",66.0,86.0
+1934,Philadelphia Phillies,"169,885","2,393",56.0,93.0
+1934,Pittsburgh Pirates,"322,622","4,136",74.0,76.0
+1934,Philadelphia Stars,,,39.0,18.0
+1934,St. Louis Browns,"115,305","1,517",67.0,85.0
+1934,St. Louis Cardinals,"325,056","4,222",95.0,58.0
+1934,Pittsburgh Crawfords,,,47.0,27.0
+1934,Philadelphia Bacharach Giants,,,5.0,20.0
+1934,Philadelphia Athletics,"305,847","4,024",68.0,82.0
+1934,Boston Braves,"303,205","4,043",78.0,73.0
+1934,Boston Red Sox,"610,640","7,930",76.0,76.0
+1934,Chicago Cubs,"707,525","9,189",86.0,65.0
+1934,Chicago White Sox,"236,559","3,154",53.0,99.0
+1934,Cincinnati Reds,"206,773","2,651",52.0,99.0
+1934,Brooklyn Dodgers,"434,188","5,639",71.0,81.0
+1934,Baltimore Black Sox,,,3.0,8.0
+1934,New York Yankees,"854,682","11,100",94.0,60.0
+1934,New York Giants,"730,851","9,745",93.0,60.0
+1934,Nashville Elite Giants,,,18.0,28.0
+1934,Newark Dodgers,,,17.0,17.0
+1934,Detroit Tigers,"919,161","11,490",101.0,53.0
+1934,Cleveland Red Sox,,,3.0,22.0
+1934,Chicago American Giants,,,28.0,20.0
+1934,Cleveland Indians,"391,338","5,017",85.0,69.0
+1935,Chicago Cubs,"692,604","8,995",100.0,54.0
+1935,Columbus Elite Giants,,,29.0,24.0
+1935,Chicago American Giants,,,24.0,31.0
+1935,Boston Braves,"232,754","3,103",38.0,115.0
+1935,Brooklyn Dodgers,"470,517","6,111",70.0,83.0
+1935,Boston Red Sox,"558,568","7,070",78.0,75.0
+1935,Brooklyn Eagles,,,32.0,31.0
+1935,St. Louis Cardinals,"506,084","6,573",96.0,58.0
+1935,St. Louis Browns,"80,922","1,065",65.0,87.0
+1935,Philadelphia Stars,,,37.0,31.0
+1935,Pittsburgh Pirates,"352,885","4,583",86.0,67.0
+1935,Washington Nationals,"255,011","3,312",67.0,86.0
+1935,New York Giants,"748,748","9,478",91.0,62.0
+1935,New York Cubans,,,31.0,25.0
+1935,Homestead Grays,,,26.0,36.0
+1935,Newark Dodgers,,,18.0,43.0
+1935,Cincinnati Reds,"448,247","5,898",68.0,85.0
+1935,Chicago White Sox,"470,281","6,108",74.0,78.0
+1935,Detroit Tigers,"1,034,929","13,100",93.0,58.0
+1935,Cleveland Indians,"397,615","5,164",82.0,71.0
+1935,Philadelphia Athletics,"233,173","3,239",58.0,91.0
+1935,Philadelphia Phillies,"205,470","2,601",64.0,89.0
+1935,New York Yankees,"657,508","8,885",89.0,60.0
+1935,Pittsburgh Crawfords,,,51.0,27.0
+1936,Cleveland Indians,"500,391","6,178",80.0,74.0
+1936,Cincinnati Reds,"466,345","6,136",74.0,80.0
+1936,Chicago Cubs,"699,370","9,083",87.0,67.0
+1936,Chicago White Sox,"440,810","5,877",81.0,70.0
+1936,New York Black Yankees,,,21.0,16.0
+1936,Homestead Grays,,,27.0,24.0
+1936,Detroit Tigers,"875,948","11,376",83.0,71.0
+1936,Newark Eagles,,,27.0,31.0
+1936,Pittsburgh Crawfords,,,48.0,33.0
+1936,New York Yankees,"976,913","12,687",102.0,51.0
+1936,New York Cubans,,,22.0,26.0
+1936,New York Giants,"837,952","10,743",92.0,62.0
+1936,Boston Bees,"340,585","4,311",71.0,83.0
+1936,Brooklyn Dodgers,"489,618","6,198",67.0,87.0
+1936,Boston Red Sox,"626,895","8,141",74.0,80.0
+1936,Washington Nationals,"379,525","4,929",82.0,71.0
+1936,Philadelphia Stars,,,32.0,42.0
+1936,Philadelphia Athletics,"285,173","3,704",53.0,100.0
+1936,Philadelphia Phillies,"249,219","3,195",54.0,100.0
+1936,Pittsburgh Pirates,"372,524","4,902",84.0,70.0
+1936,St. Louis Cardinals,"448,078","5,819",87.0,67.0
+1936,St. Louis Browns,"93,267","1,211",57.0,95.0
+1936,Washington Elite Giants,,,29.0,34.0
+1937,Memphis Red Sox,,,15.0,29.0
+1937,Birmingham Black Barons,,,17.0,24.0
+1937,Boston Red Sox,"559,659","7,563",80.0,72.0
+1937,Brooklyn Dodgers,"482,481","6,348",62.0,91.0
+1937,Boston Bees,"385,339","5,070",79.0,73.0
+1937,Chicago Cubs,"895,020","11,475",93.0,61.0
+1937,Chicago American Giants,,,36.0,24.0
+1937,Chicago White Sox,"589,245","7,653",86.0,68.0
+1937,Pittsburgh Pirates,"459,679","5,893",86.0,68.0
+1937,Philadelphia Phillies,"212,790","2,876",61.0,92.0
+1937,Philadelphia Athletics,"430,738","5,452",54.0,97.0
+1937,Pittsburgh Crawfords,,,18.0,36.0
+1937,New York Yankees,"998,148","12,635",102.0,52.0
+1937,New York Giants,"926,887","12,358",95.0,57.0
+1937,Newark Eagles,,,36.0,21.0
+1937,New York Black Yankees,,,22.0,30.0
+1937,Cincinnati Reds,"411,221","5,140",56.0,98.0
+1937,Kansas City Monarchs,,,52.0,19.0
+1937,Indianapolis Athletics,,,17.0,21.0
+1937,Homestead Grays,,,45.0,18.0
+1937,Detroit Stars,,,15.0,24.0
+1937,Detroit Tigers,"1,072,276","13,926",89.0,65.0
+1937,Cincinnati Tigers,,,35.0,19.0
+1937,Cleveland Indians,"564,849","7,242",83.0,71.0
+1937,Washington Nationals,"397,799","4,972",73.0,80.0
+1937,St. Louis Browns,"123,121","1,578",46.0,108.0
+1937,St. Louis Cardinals,"430,811","5,385",81.0,73.0
+1937,St. Louis Stars,,,5.0,32.0
+1937,Philadelphia Stars,,,29.0,32.0
+1937,Washington Elite Giants,,,23.0,36.0
+1938,New York Giants,"799,633","10,954",83.0,67.0
+1938,Newark Eagles,,,23.0,30.0
+1938,New York Black Yankees,,,11.0,28.0
+1938,Birmingham Black Barons,,,13.0,46.0
+1938,Atlanta Black Crackers,,,32.0,31.0
+1938,Baltimore Elite Giants,,,26.0,23.0
+1938,Boston Red Sox,"646,459","8,619",88.0,61.0
+1938,Brooklyn Dodgers,"663,087","8,961",69.0,80.0
+1938,Boston Bees,"341,149","4,549",77.0,75.0
+1938,Indianapolis ABCs,,,17.0,20.0
+1938,Philadelphia Stars,,,41.0,32.0
+1938,Pittsburgh Pirates,"641,033","8,218",86.0,64.0
+1938,Philadelphia Phillies,"166,111","2,215",45.0,105.0
+1938,Philadelphia Athletics,"385,357","5,070",53.0,99.0
+1938,Pittsburgh Crawfords,,,28.0,26.0
+1938,New York Yankees,"970,916","12,290",99.0,53.0
+1938,Chicago American Giants,,,41.0,37.0
+1938,Chicago Cubs,"951,640","12,359",89.0,63.0
+1938,Chicago White Sox,"338,278","4,634",65.0,83.0
+1938,Memphis Red Sox,,,39.0,24.0
+1938,Kansas City Monarchs,,,45.0,27.0
+1938,Jacksonville Red Caps,,,14.0,16.0
+1938,Homestead Grays,,,41.0,13.0
+1938,Detroit Tigers,"799,557","10,121",84.0,70.0
+1938,Cleveland Indians,"652,006","8,579",86.0,66.0
+1938,Cincinnati Reds,"706,756","9,179",82.0,68.0
+1938,St. Louis Cardinals,"291,418","3,598",71.0,80.0
+1938,Washington Nationals,"522,694","6,701",75.0,76.0
+1938,Washington Black Senators,,,2.0,20.0
+1938,St. Louis Browns,"130,417","1,694",55.0,97.0
+1939,New York Giants,"702,457","9,493",77.0,74.0
+1939,New York Black Yankees,,,19.0,18.0
+1939,Memphis Red Sox,,,19.0,34.0
+1939,Philadelphia Stars,,,24.0,29.0
+1939,Pittsburgh Pirates,"376,734","4,893",68.0,85.0
+1939,Brooklyn Dodgers,"955,668","12,252",84.0,69.0
+1939,Boston Red Sox,"573,070","7,641",89.0,62.0
+1939,Boston Bees,"285,994","3,918",63.0,88.0
+1939,Baltimore Elite Giants,,,21.0,23.0
+1939,Chicago White Sox,"594,104","7,716",85.0,69.0
+1939,Cincinnati Reds,"981,443","12,117",97.0,57.0
+1939,Cleveland Indians,"563,926","7,324",87.0,67.0
+1939,Detroit Tigers,"836,279","10,722",81.0,73.0
+1939,Cleveland Bears,,,20.0,21.0
+1939,Newark Eagles,,,32.0,23.0
+1939,New York Yankees,"859,785","11,166",106.0,45.0
+1939,Toledo Crawfords,,,4.0,6.0
+1939,Toledo Crawfords,,,9.0,11.0
+1939,Chicago Cubs,"726,663","9,083",84.0,70.0
+1939,Washington Nationals,"339,257","4,406",65.0,87.0
+1939,Homestead Grays,,,36.0,19.0
+1939,Chicago American Giants,,,40.0,34.0
+1939,St. Louis Cardinals,"400,245","5,066",92.0,61.0
+1939,Toledo Crawfords,,,4.0,6.0
+1939,Toledo Crawfords,,,9.0,11.0
+1939,St. Louis Stars,,,15.0,20.0
+1939,St. Louis Browns,"109,159","1,399",43.0,111.0
+1939,Philadelphia Athletics,"395,022","5,198",55.0,97.0
+1939,Philadelphia Phillies,"277,973","3,756",45.0,106.0
+1939,Indianapolis ABCs/Atlanta Black Crackers,,,6.0,10.0
+1939,New York Cubans,,,7.0,25.0
+1939,Kansas City Monarchs,,,46.0,25.0
+1940,New York Cubans,,,13.0,26.0
+1940,Philadelphia Stars,,,24.0,37.0
+1940,Philadelphia Phillies,"207,177","2,622",50.0,103.0
+1940,St. Louis-New Orleans Stars,,,25.0,29.0
+1940,St. Louis Cardinals,"324,078","4,209",84.0,69.0
+1940,Toledo/Indianapolis Crawfords,,,6.0,18.0
+1940,Pittsburgh Pirates,"507,934","6,772",78.0,76.0
+1940,Homestead Grays,,,36.0,20.0
+1940,Detroit Tigers,"1,112,693","14,085",90.0,64.0
+1940,Cleveland Indians,"902,576","11,007",89.0,65.0
+1940,Cincinnati Reds,"850,180","11,041",100.0,53.0
+1940,Chicago White Sox,"660,336","8,466",82.0,72.0
+1940,Chicago Cubs,"534,878","6,946",75.0,79.0
+1940,Kansas City Monarchs,,,36.0,11.0
+1940,St. Louis Browns,"239,591","3,112",67.0,87.0
+1940,Washington Nationals,"381,241","4,951",64.0,90.0
+1940,Brooklyn Dodgers,"975,978","12,049",88.0,65.0
+1940,Boston Red Sox,"716,234","9,066",82.0,72.0
+1940,Birmingham Black Barons,,,17.0,30.0
+1940,Boston Bees,"241,616","3,222",65.0,87.0
+1940,Baltimore Elite Giants,,,32.0,23.0
+1940,Cleveland Bears,,,21.0,18.0
+1940,Chicago American Giants,,,22.0,31.0
+1940,New York Giants,"747,852","9,840",72.0,80.0
+1940,Memphis Red Sox,,,36.0,26.0
+1940,New York Black Yankees,,,19.0,24.0
+1940,Newark Eagles,,,28.0,22.0
+1940,Philadelphia Athletics,"432,145","6,087",54.0,100.0
+1940,New York Yankees,"988,975","13,013",88.0,66.0
+1941,Birmingham Black Barons,,,28.0,17.0
+1941,New York Yankees,"964,722","12,368",101.0,53.0
+1941,Washington Nationals,"415,663","5,329",70.0,84.0
+1941,Philadelphia Athletics,"528,894","6,869",64.0,90.0
+1941,Philadelphia Phillies,"231,401","3,045",43.0,111.0
+1941,Pittsburgh Pirates,"482,241","6,183",81.0,73.0
+1941,Philadelphia Stars,,,15.0,46.0
+1941,St. Louis Browns,"176,240","2,231",70.0,84.0
+1941,St. Louis-New Orleans Stars,,,18.0,23.0
+1941,St. Louis Cardinals,"633,645","8,021",97.0,56.0
+1941,Cincinnati Reds,"643,513","8,146",88.0,66.0
+1941,Cleveland Indians,"745,948","9,688",75.0,79.0
+1941,Detroit Tigers,"684,915","8,895",75.0,79.0
+1941,Homestead Grays,,,50.0,25.0
+1941,Jacksonville Red Caps,,,13.0,21.0
+1941,Kansas City Monarchs,,,31.0,16.0
+1941,Memphis Red Sox,,,23.0,23.0
+1941,New York Black Yankees,,,15.0,20.0
+1941,Newark Eagles,,,30.0,28.0
+1941,Baltimore Elite Giants,,,44.0,24.0
+1941,Boston Red Sox,"718,497","9,331",84.0,70.0
+1941,Brooklyn Dodgers,"1,214,910","15,379",100.0,54.0
+1941,Boston Braves,"263,680","3,469",62.0,92.0
+1941,Chicago American Giants,,,16.0,29.0
+1941,Chicago Cubs,"545,159","7,080",70.0,84.0
+1941,Chicago White Sox,"677,077","8,571",77.0,77.0
+1941,New York Cubans,,,21.0,32.0
+1941,New York Giants,"763,098","9,783",74.0,79.0
+1942,Chicago American Giants,,,7.0,29.0
+1942,Cincinnati-Cleveland Buckeyes,,,39.0,21.0
+1942,Chicago Cubs,"590,972","7,577",68.0,86.0
+1942,Chicago White Sox,"425,734","6,082",66.0,82.0
+1942,Birmingham Black Barons,,,27.0,22.0
+1942,Boston Red Sox,"730,340","9,485",93.0,59.0
+1942,Baltimore Elite Giants,,,36.0,26.0
+1942,Boston Braves,"285,332","4,019",59.0,89.0
+1942,Brooklyn Dodgers,"1,037,765","13,136",104.0,50.0
+1942,New York Yankees,"922,011","11,974",103.0,51.0
+1942,New York Cubans,,,9.0,27.0
+1942,New York Giants,"779,621","9,869",85.0,67.0
+1942,New York Black Yankees,,,10.0,25.0
+1942,Memphis Red Sox,,,21.0,22.0
+1942,Kansas City Monarchs,,,27.0,12.0
+1942,Newark Eagles,,,28.0,30.0
+1942,Jacksonville Red Caps,,,7.0,22.0
+1942,Washington Nationals,"403,493","5,240",62.0,89.0
+1942,St. Louis Cardinals,"553,552","7,097",106.0,48.0
+1942,St. Louis Browns,"255,617","3,320",82.0,69.0
+1942,Cincinnati Reds,"427,031","5,546",76.0,76.0
+1942,Cleveland Indians,"459,447","5,743",75.0,79.0
+1942,Detroit Tigers,"580,087","7,534",73.0,81.0
+1942,Homestead Grays,,,47.0,19.0
+1942,Philadelphia Stars,,,26.0,30.0
+1942,Pittsburgh Pirates,"448,897","5,830",66.0,81.0
+1942,Philadelphia Phils,"230,183","3,111",42.0,109.0
+1942,Philadelphia Athletics,"423,487","5,572",55.0,99.0
+1943,Chicago White Sox,"508,962","6,697",82.0,72.0
+1943,Cincinnati Reds,"379,122","4,861",87.0,67.0
+1943,Cleveland Indians,"438,894","5,700",82.0,71.0
+1943,Detroit Tigers,"606,287","7,773",78.0,76.0
+1943,Chicago Cubs,"508,247","6,777",74.0,79.0
+1943,Cleveland Buckeyes,,,39.0,25.0
+1943,Cincinnati Clowns,,,31.0,59.0
+1943,Birmingham Black Barons,,,45.0,35.0
+1943,Harrisburg Stars,,,8.0,8.0
+1943,Homestead Grays,,,53.0,14.0
+1943,Kansas City Monarchs,,,44.0,27.0
+1943,Memphis Red Sox,,,34.0,51.0
+1943,New York Black Yankees,,,4.0,24.0
+1943,Newark Eagles,,,26.0,32.0
+1943,New York Cubans,,,19.0,14.0
+1943,New York Giants,"466,095","6,053",55.0,98.0
+1943,Pittsburgh Pirates,"498,740","6,394",80.0,74.0
+1943,Philadelphia Phillies,"466,975","5,987",64.0,90.0
+1943,Philadelphia Athletics,"376,735","4,769",49.0,105.0
+1943,New York Yankees,"618,330","8,030",98.0,56.0
+1943,Washington Nationals,"574,694","7,562",84.0,69.0
+1943,St. Louis Cardinals,"517,135","6,384",105.0,49.0
+1943,St. Louis Browns,"214,392","2,784",72.0,80.0
+1943,Philadelphia Stars,,,21.0,31.0
+1943,Boston Braves,"271,289","3,523",68.0,85.0
+1943,Brooklyn Dodgers,"661,739","8,594",81.0,72.0
+1943,Boston Red Sox,"358,275","4,653",68.0,84.0
+1943,Baltimore Elite Giants,,,18.0,26.0
+1943,Chicago American Giants,,,37.0,33.0
+1944,New York Giants,"674,483","8,993",67.0,87.0
+1944,Newark Eagles,,,27.0,36.0
+1944,New York Cubans,,,31.0,21.0
+1944,Washington Nationals,"525,235","6,821",64.0,90.0
+1944,St. Louis Cardinals,"461,968","6,000",105.0,49.0
+1944,St. Louis Browns,"508,644","6,606",89.0,65.0
+1944,Philadelphia Stars,,,31.0,27.0
+1944,New York Yankees,"789,995","10,128",83.0,71.0
+1944,Philadelphia Athletics,"505,322","6,649",72.0,82.0
+1944,Philadelphia Phillies,"369,586","4,678",61.0,92.0
+1944,Pittsburgh Pirates,"604,278","7,460",90.0,63.0
+1944,New York Black Yankees,,,7.0,32.0
+1944,Baltimore Elite Giants,,,34.0,38.0
+1944,Boston Red Sox,"506,975","6,500",77.0,77.0
+1944,Brooklyn Dodgers,"605,905","7,869",63.0,91.0
+1944,Chicago Cubs,"640,110","8,207",75.0,79.0
+1944,Chicago White Sox,"563,539","7,319",71.0,83.0
+1944,Cincinnati Reds,"409,567","5,251",89.0,65.0
+1944,Cleveland Indians,"475,272","6,093",72.0,82.0
+1944,Memphis Red Sox,,,49.0,65.0
+1944,Kansas City Monarchs,,,39.0,48.0
+1944,Homestead Grays,,,48.0,24.0
+1944,Detroit Tigers,"923,176","11,836",88.0,66.0
+1944,Boston Braves,"208,691","2,676",65.0,89.0
+1944,Chicago American Giants,,,33.0,54.0
+1944,Cleveland Buckeyes,,,46.0,33.0
+1944,Cincinnati-Indianapolis Clowns,,,49.0,41.0
+1944,Birmingham Black Barons,,,47.0,22.0
+1945,Cincinnati Reds,"290,070","3,767",61.0,93.0
+1945,Chicago White Sox,"657,981","8,892",71.0,78.0
+1945,Chicago Cubs,"1,036,386","13,637",98.0,56.0
+1945,Cincinnati-Indianapolis Clowns,,,39.0,56.0
+1945,Cleveland Buckeyes,,,63.0,17.0
+1945,Chicago American Giants,,,46.0,54.0
+1945,Boston Braves,"374,178","4,989",67.0,85.0
+1945,Brooklyn Dodgers,"1,059,220","13,580",87.0,67.0
+1945,Boston Red Sox,"603,794","7,741",71.0,83.0
+1945,Baltimore Elite Giants,,,36.0,32.0
+1945,Birmingham Black Barons,,,47.0,33.0
+1945,Memphis Red Sox,,,20.0,66.0
+1945,Kansas City Monarchs,,,52.0,41.0
+1945,Homestead Grays,,,41.0,21.0
+1945,Detroit Tigers,"1,280,341","16,847",88.0,65.0
+1945,Cleveland Indians,"558,182","7,249",73.0,72.0
+1945,New York Black Yankees,,,11.0,28.0
+1945,New York Cubans,,,15.0,27.0
+1945,Newark Eagles,,,27.0,22.0
+1945,Philadelphia Stars,,,25.0,25.0
+1945,St. Louis Browns,"482,986","6,355",81.0,70.0
+1945,St. Louis Cardinals,"594,630","7,623",95.0,59.0
+1945,New York Giants,"1,016,468","13,032",78.0,74.0
+1945,New York Yankees,"881,845","11,603",81.0,71.0
+1945,Philadelphia Athletics,"462,631","6,008",52.0,98.0
+1945,Philadelphia Phillies,"285,057","3,702",46.0,108.0
+1945,Pittsburgh Pirates,"604,694","7,654",82.0,72.0
+1945,Washington Nationals,"652,660","8,367",87.0,67.0
+1946,Boston Red Sox,"1,416,944","18,166",104.0,50.0
+1946,Baltimore Elite Giants,,,38.0,34.0
+1946,Birmingham Black Barons,,,46.0,37.0
+1946,Brooklyn Dodgers,"1,796,824","22,745",96.0,60.0
+1946,Boston Braves,"969,673","12,593",81.0,72.0
+1946,Chicago American Giants,,,39.0,64.0
+1946,Cleveland Buckeyes,,,40.0,38.0
+1946,Chicago Cubs,"1,342,970","17,441",82.0,71.0
+1946,Chicago White Sox,"983,403","12,448",74.0,80.0
+1946,Cincinnati Reds,"715,751","9,295",67.0,87.0
+1946,Cleveland Indians,"1,057,289","13,731",68.0,86.0
+1946,Detroit Tigers,"1,722,590","21,805",92.0,62.0
+1946,Homestead Grays,,,39.0,35.0
+1946,Cincinnati-Indianapolis Clowns,,,35.0,48.0
+1946,Kansas City Monarchs,,,60.0,19.0
+1946,Memphis Red Sox,,,44.0,58.0
+1946,New York Black Yankees,,,11.0,48.0
+1946,Newark Eagles,,,50.0,22.0
+1946,New York Cubans,,,37.0,31.0
+1946,New York Giants,"1,219,873","15,843",61.0,93.0
+1946,New York Yankees,"2,265,512","29,422",87.0,67.0
+1946,Philadelphia Athletics,"621,793","7,972",49.0,105.0
+1946,Philadelphia Phillies,"1,045,247","13,401",69.0,85.0
+1946,Pittsburgh Pirates,"749,962","9,615",63.0,91.0
+1946,Philadelphia Stars,,,31.0,36.0
+1946,St. Louis Browns,"526,435","6,837",66.0,88.0
+1946,St. Louis Cardinals,"1,061,807","13,613",98.0,58.0
+1946,Washington Nationals,"1,027,216","13,516",76.0,78.0
+1947,Birmingham Black Barons,,,50.0,42.0
+1947,Baltimore Elite Giants,,,41.0,40.0
+1947,Boston Red Sox,"1,427,315","17,621",83.0,71.0
+1947,Brooklyn Dodgers,"1,807,526","23,173",94.0,60.0
+1947,Boston Braves,"1,277,361","16,589",86.0,68.0
+1947,Chicago American Giants,,,29.0,58.0
+1947,Cleveland Buckeyes,,,57.0,19.0
+1947,Chicago Cubs,"1,364,039","17,266",69.0,85.0
+1947,Chicago White Sox,"876,948","11,693",70.0,84.0
+1947,Cincinnati Reds,"899,975","11,688",73.0,81.0
+1947,Cleveland Indians,"1,521,978","19,513",80.0,74.0
+1947,Detroit Tigers,"1,398,093","17,476",85.0,69.0
+1947,Homestead Grays,,,35.0,35.0
+1947,Cincinnati-Indianapolis Clowns,,,36.0,68.0
+1947,Kansas City Monarchs,,,62.0,36.0
+1947,Memphis Red Sox,,,44.0,55.0
+1947,New York Black Yankees,,,12.0,43.0
+1947,Newark Eagles,,,51.0,40.0
+1947,New York Cubans,,,47.0,20.0
+1947,New York Giants,"1,600,793","21,063",81.0,73.0
+1947,New York Yankees,"2,178,937","28,298",97.0,57.0
+1947,Philadelphia Athletics,"911,566","11,687",78.0,76.0
+1947,Philadelphia Phillies,"907,332","11,784",62.0,92.0
+1947,Pittsburgh Pirates,"1,283,531","16,247",62.0,92.0
+1947,Philadelphia Stars,,,28.0,36.0
+1947,St. Louis Browns,"320,474","4,162",59.0,95.0
+1947,St. Louis Cardinals,"1,247,913","16,207",89.0,65.0
+1947,Washington Nationals,"850,758","11,049",64.0,90.0
+1948,Memphis Red Sox,,,43.0,65.0
+1948,Kansas City Monarchs,,,67.0,34.0
+1948,Indianapolis Clowns,,,40.0,61.0
+1948,Homestead Grays,,,42.0,24.0
+1948,Washington Nationals,"795,254","10,196",56.0,97.0
+1948,St. Louis Cardinals,"1,111,440","14,434",85.0,69.0
+1948,St. Louis Browns,"335,564","4,415",59.0,94.0
+1948,Philadelphia Stars,,,30.0,31.0
+1948,Pittsburgh Pirates,"1,517,021","18,963",83.0,71.0
+1948,Philadelphia Phillies,"767,429","10,098",66.0,88.0
+1948,Philadelphia Athletics,"945,076","12,274",84.0,70.0
+1948,New York Yankees,"2,373,901","30,830",94.0,60.0
+1948,New York Giants,"1,459,269","18,952",78.0,76.0
+1948,New York Cubans,,,19.0,29.0
+1948,Newark Eagles,,,31.0,29.0
+1948,New York Black Yankees,,,9.0,38.0
+1948,Chicago Cubs,"1,237,792","15,869",64.0,90.0
+1948,Cleveland Buckeyes,,,48.0,54.0
+1948,Chicago American Giants,,,38.0,57.0
+1948,Boston Braves,"1,455,439","19,151",91.0,62.0
+1948,Detroit Tigers,"1,743,035","22,637",78.0,76.0
+1948,Cleveland Indians,"2,620,627","33,172",97.0,58.0
+1948,Cincinnati Reds,"823,386","10,693",64.0,89.0
+1948,Chicago White Sox,"777,844","10,235",51.0,101.0
+1948,Brooklyn Dodgers,"1,398,967","17,935",84.0,70.0
+1948,Boston Red Sox,"1,558,798","19,985",96.0,59.0
+1948,Baltimore Elite Giants,,,49.0,29.0
+1948,Birmingham Black Barons,,,63.0,28.0
+1949,Chicago Cubs,"1,143,139","14,846",61.0,93.0
+1949,Boston Braves,"1,081,795","14,049",75.0,79.0
+1949,Brooklyn Dodgers,"1,633,747","20,945",97.0,57.0
+1949,Boston Red Sox,"1,596,650","20,736",96.0,58.0
+1949,Philadelphia Phillies,"819,698","10,645",81.0,73.0
+1949,Philadelphia Athletics,"816,514","10,604",81.0,73.0
+1949,New York Yankees,"2,283,676","29,278",97.0,57.0
+1949,New York Giants,"1,218,446","15,423",73.0,81.0
+1949,Washington Nationals,"770,745","10,010",50.0,104.0
+1949,St. Louis Cardinals,"1,430,676","18,110",96.0,58.0
+1949,St. Louis Browns,"270,936","3,519",53.0,101.0
+1949,Pittsburgh Pirates,"1,449,435","18,824",71.0,83.0
+1949,Detroit Tigers,"1,821,204","23,349",87.0,67.0
+1949,Cleveland Indians,"2,233,771","29,010",89.0,65.0
+1949,Cincinnati Reds,"707,782","9,074",62.0,92.0
+1949,Chicago White Sox,"937,151","12,171",63.0,91.0
+1950,Chicago Cubs,"1,165,944","14,948",64.0,89.0
+1950,Boston Braves,"944,391","11,954",83.0,71.0
+1950,Brooklyn Dodgers,"1,185,896","15,204",89.0,65.0
+1950,Boston Red Sox,"1,344,080","17,456",94.0,60.0
+1950,Philadelphia Phillies,"1,217,035","15,603",91.0,63.0
+1950,Philadelphia Athletics,"309,805","4,023",52.0,102.0
+1950,New York Yankees,"2,081,380","27,031",98.0,56.0
+1950,New York Giants,"1,008,878","13,275",86.0,68.0
+1950,Washington Nationals,"699,697","8,970",67.0,87.0
+1950,St. Louis Cardinals,"1,093,411","14,387",78.0,75.0
+1950,St. Louis Browns,"247,131","3,340",58.0,96.0
+1950,Pittsburgh Pirates,"1,166,267","15,146",57.0,96.0
+1950,Detroit Tigers,"1,951,474","24,092",95.0,59.0
+1950,Cleveland Indians,"1,727,464","22,435",92.0,62.0
+1950,Cincinnati Reds,"538,794","7,089",66.0,87.0
+1950,Chicago White Sox,"781,330","9,890",60.0,94.0
+1951,Chicago Cubs,"894,415","11,616",62.0,92.0
+1951,Boston Braves,"487,475","6,250",76.0,78.0
+1951,Brooklyn Dodgers,"1,282,628","16,444",97.0,60.0
+1951,Boston Red Sox,"1,312,282","17,497",87.0,67.0
+1951,Chicago White Sox,"1,328,234","17,029",81.0,73.0
+1951,Cincinnati Reds,"588,268","7,640",68.0,86.0
+1951,Cleveland Indians,"1,704,984","22,143",93.0,61.0
+1951,Detroit Tigers,"1,132,641","14,710",73.0,81.0
+1951,New York Giants,"1,059,539","13,584",98.0,59.0
+1951,New York Yankees,"1,950,107","25,001",98.0,56.0
+1951,Philadelphia Athletics,"465,469","5,892",70.0,84.0
+1951,Philadelphia Phillies,"937,658","12,177",73.0,81.0
+1951,Pittsburgh Pirates,"980,590","12,572",64.0,90.0
+1951,St. Louis Browns,"293,790","3,815",52.0,102.0
+1951,St. Louis Cardinals,"1,013,429","12,828",81.0,73.0
+1951,Washington Nationals,"695,167","9,147",62.0,92.0
+1952,Boston Red Sox,"1,115,750","14,490",76.0,78.0
+1952,Brooklyn Dodgers,"1,088,704","13,609",96.0,57.0
+1952,Boston Braves,"281,278","3,653",64.0,89.0
+1952,Chicago Cubs,"1,024,826","13,309",77.0,77.0
+1952,Chicago White Sox,"1,231,675","15,591",81.0,73.0
+1952,Cincinnati Reds,"604,197","7,847",69.0,85.0
+1952,Cleveland Indians,"1,444,607","18,761",93.0,61.0
+1952,Detroit Tigers,"1,026,846","13,336",50.0,104.0
+1952,New York Giants,"984,940","12,791",92.0,62.0
+1952,New York Yankees,"1,629,665","21,164",95.0,59.0
+1952,Philadelphia Athletics,"627,100","8,040",79.0,75.0
+1952,Philadelphia Phillies,"755,417","9,940",87.0,67.0
+1952,Pittsburgh Pirates,"686,673","8,918",42.0,112.0
+1952,St. Louis Browns,"518,796","6,651",64.0,90.0
+1952,St. Louis Cardinals,"913,113","11,859",88.0,66.0
+1952,Washington Nationals,"699,457","8,967",78.0,76.0
+1953,Boston Red Sox,"1,026,133","13,502",84.0,69.0
+1953,Brooklyn Dodgers,"1,163,419","14,916",105.0,49.0
+1953,Chicago Cubs,"763,658","9,918",65.0,89.0
+1953,Chicago White Sox,"1,191,353","15,274",89.0,65.0
+1953,Philadelphia Phillies,"853,644","10,944",83.0,71.0
+1953,Philadelphia Athletics,"362,113","4,642",59.0,95.0
+1953,New York Yankees,"1,537,811","19,972",99.0,52.0
+1953,New York Giants,"811,518","10,539",70.0,84.0
+1953,Washington Nationals,"595,594","7,941",76.0,76.0
+1953,St. Louis Cardinals,"880,242","11,285",83.0,71.0
+1953,St. Louis Browns,"297,238","3,860",54.0,100.0
+1953,Pittsburgh Pirates,"572,757","7,438",50.0,104.0
+1953,Milwaukee Braves,"1,826,397","23,119",92.0,62.0
+1953,Detroit Tigers,"884,658","11,198",60.0,94.0
+1953,Cleveland Indians,"1,069,176","13,707",92.0,62.0
+1953,Cincinnati Redlegs,"548,086","7,027",68.0,86.0
+1954,Washington Nationals,"503,542","6,456",66.0,88.0
+1954,St. Louis Cardinals,"1,039,698","13,503",72.0,82.0
+1954,Pittsburgh Pirates,"475,494","6,175",53.0,101.0
+1954,Philadelphia Phillies,"738,991","9,474",75.0,79.0
+1954,Detroit Tigers,"1,079,847","14,024",68.0,86.0
+1954,Cleveland Indians,"1,335,472","17,344",111.0,43.0
+1954,Cincinnati Redlegs,"704,167","9,145",74.0,80.0
+1954,Chicago White Sox,"1,231,629","15,790",94.0,60.0
+1954,Philadelphia Athletics,"304,666","3,957",51.0,103.0
+1954,New York Yankees,"1,475,171","18,912",103.0,51.0
+1954,New York Giants,"1,155,067","15,198",97.0,57.0
+1954,Milwaukee Braves,"2,131,388","27,680",89.0,65.0
+1954,Chicago Cubs,"748,183","9,717",64.0,90.0
+1954,Brooklyn Dodgers,"1,020,531","13,254",92.0,62.0
+1954,Boston Red Sox,"931,127","11,786",69.0,85.0
+1954,Baltimore Orioles,"1,060,910","13,778",54.0,100.0
+1955,Washington Nationals,"425,238","5,523",53.0,101.0
+1955,St. Louis Cardinals,"849,130","11,028",68.0,86.0
+1955,Pittsburgh Pirates,"469,397","6,259",60.0,94.0
+1955,Philadelphia Phillies,"922,886","11,986",77.0,77.0
+1955,Baltimore Orioles,"852,039","10,785",57.0,97.0
+1955,Boston Red Sox,"1,203,200","15,426",84.0,70.0
+1955,Brooklyn Dodgers,"1,033,589","13,423",98.0,55.0
+1955,Chicago Cubs,"875,800","11,374",72.0,81.0
+1955,Chicago White Sox,"1,175,684","15,269",91.0,63.0
+1955,Cincinnati Redlegs,"693,662","9,009",75.0,79.0
+1955,Cleveland Indians,"1,221,780","15,867",93.0,61.0
+1955,Detroit Tigers,"1,181,838","15,349",79.0,75.0
+1955,Kansas City Athletics,"1,393,054","18,330",63.0,91.0
+1955,Milwaukee Braves,"2,005,836","26,050",85.0,69.0
+1955,New York Giants,"824,112","10,432",80.0,74.0
+1955,New York Yankees,"1,490,138","19,352",96.0,58.0
+1956,Washington Nationals,"431,647","5,606",59.0,95.0
+1956,New York Yankees,"1,491,784","19,374",97.0,57.0
+1956,Pittsburgh Pirates,"949,878","12,178",66.0,88.0
+1956,Philadelphia Phillies,"934,798","12,140",71.0,83.0
+1956,Detroit Tigers,"1,051,182","13,477",82.0,72.0
+1956,Kansas City Athletics,"1,015,154","13,184",52.0,102.0
+1956,Milwaukee Braves,"2,046,331","26,576",92.0,62.0
+1956,St. Louis Cardinals,"1,029,773","13,202",76.0,78.0
+1956,Cleveland Indians,"865,467","11,240",88.0,66.0
+1956,Cincinnati Redlegs,"1,125,928","14,622",91.0,63.0
+1956,Chicago White Sox,"1,000,090","12,988",85.0,69.0
+1956,Chicago Cubs,"720,118","9,001",60.0,94.0
+1956,Boston Red Sox,"1,137,158","14,579",84.0,70.0
+1956,Baltimore Orioles,"901,201","11,704",69.0,85.0
+1956,Brooklyn Dodgers,"1,213,562","15,761",93.0,61.0
+1956,New York Giants,"629,179","8,171",67.0,87.0
+1958,Washington Senators I,"495,852","7,292",,
+1958,Milwaukee Braves,"1,952,803","27,897",92.0,62.0
+1958,New York Yankees,"1,396,281","22,163",92.0,62.0
+1958,Philadelphia Phillies,"931,510","14,114",69.0,85.0
+1958,Pittsburgh Pirates,"1,289,176","20,143",84.0,70.0
+1958,San Francisco Giants,"1,272,857","16,971",80.0,74.0
+1958,St. Louis Cardinals,"1,101,668","15,966",72.0,82.0
+1958,Kansas City Athletics,"899,937","12,161",73.0,81.0
+1958,Los Angeles Dodgers,"1,804,218","25,775",71.0,83.0
+1958,Detroit Tigers,"1,086,484","15,521",77.0,77.0
+1958,Cincinnati Reds,"778,052","11,970",,
+1958,Cleveland Indians,"663,765","10,536",77.0,76.0
+1958,Chicago Cubs,"993,992","14,836",72.0,82.0
+1958,Chicago White Sox,"797,566","11,559",82.0,72.0
+1958,Boston Red Sox,"1,113,379","15,681",79.0,75.0
+1958,Baltimore Orioles,"825,765","12,325",74.0,79.0
+1959,Detroit Tigers,"1,223,245","16,530",76.0,78.0
+1959,Cincinnati Reds,"801,299","11,447",74.0,80.0
+1959,Chicago White Sox,"1,422,862","20,924",94.0,60.0
+1959,Chicago Cubs,"829,414","11,849",74.0,80.0
+1959,Boston Red Sox,"990,103","13,563",75.0,79.0
+1959,Baltimore Orioles,"892,196","13,941",74.0,80.0
+1959,New York Yankees,"1,661,402","25,173",79.0,75.0
+1959,Philadelphia Phillies,"799,815","13,112",64.0,90.0
+1959,Cleveland Indians,"1,499,139","23,796",89.0,65.0
+1959,Pittsburgh Pirates,"1,378,865","20,580",78.0,76.0
+1959,San Francisco Giants,"1,421,630","18,463",83.0,71.0
+1959,St. Louis Cardinals,"929,953","13,478",71.0,83.0
+1959,Milwaukee Braves,"1,739,724","24,163",86.0,70.0
+1959,Washington Senators I,"615,890","9,057",,
+1959,Kansas City Athletics,"968,724","13,091",66.0,88.0
+1959,Los Angeles Dodgers,"2,083,524","28,938",88.0,68.0
+1960,Kansas City Athletics,"776,734","10,356",58.0,96.0
+1960,St. Louis Cardinals,"1,096,272","15,661",86.0,68.0
+1960,Pittsburgh Pirates,"1,707,089","24,740",95.0,59.0
+1960,San Francisco Giants,"1,796,356","23,636",79.0,75.0
+1960,New York Yankees,"1,669,568","26,087",97.0,57.0
+1960,Los Angeles Dodgers,"2,268,988","30,253",82.0,72.0
+1960,Detroit Tigers,"1,151,336","17,713",71.0,83.0
+1960,Philadelphia Phillies,"861,634","13,463",59.0,95.0
+1960,Cleveland Indians,"973,778","14,981",76.0,78.0
+1960,Cincinnati Reds,"665,345","9,784",67.0,87.0
+1960,Chicago Cubs,"810,675","11,749",60.0,94.0
+1960,Chicago White Sox,"1,644,460","25,299",87.0,67.0
+1960,Boston Red Sox,"1,129,765","17,118",65.0,89.0
+1960,Baltimore Orioles,"1,187,815","16,730",89.0,65.0
+1960,Milwaukee Braves,"1,498,859","21,111",88.0,66.0
+1960,Washington Senators I,"743,481","10,326",,
+1961,Milwaukee Braves,"1,101,351","15,734",83.0,71.0
+1961,Washington Senators II,"597,597","8,661",,
+1961,St. Louis Cardinals,"856,025","12,229",80.0,74.0
+1961,San Francisco Giants,"1,391,251","18,801",85.0,69.0
+1961,Pittsburgh Pirates,"1,199,198","17,131",75.0,79.0
+1961,Philadelphia Phillies,"589,994","8,806",47.0,107.0
+1961,New York Yankees,"1,747,726","26,481",109.0,53.0
+1961,Minnesota Twins,"1,256,722","16,756",70.0,90.0
+1961,Los Angeles Dodgers,"1,804,865","24,065",89.0,65.0
+1961,Detroit Tigers,"1,597,608","23,845",101.0,61.0
+1961,Cleveland Indians,"736,120","11,502",78.0,83.0
+1961,Cincinnati Reds,"1,123,147","16,517",93.0,61.0
+1961,Chicago White Sox,"1,162,030","17,607",86.0,76.0
+1961,Chicago Cubs,"673,006","10,197",64.0,90.0
+1961,Boston Red Sox,"850,846","11,984",76.0,86.0
+1961,Baltimore Orioles,"960,819","13,726",95.0,67.0
+1961,Los Angeles Angels,"604,422","8,059",70.0,91.0
+1961,Kansas City Athletics,"680,382","9,450",61.0,100.0
+1962,San Francisco Giants,"1,590,136","20,651",103.0,62.0
+1962,Pittsburgh Pirates,"1,071,614","14,481",93.0,68.0
+1962,New York Mets,"925,807","14,695",40.0,120.0
+1962,Minnesota Twins,"1,435,640","18,890",91.0,71.0
+1962,Philadelphia Phillies,"762,169","11,548",81.0,80.0
+1962,New York Yankees,"1,606,325","24,338",96.0,66.0
+1962,Detroit Tigers,"1,207,581","16,772",85.0,76.0
+1962,Los Angeles Dodgers,"2,782,526","35,673",102.0,63.0
+1962,Cleveland Indians,"753,256","11,956",80.0,82.0
+1962,Cincinnati Reds,"981,890","13,637",98.0,64.0
+1962,Chicago Cubs,"593,068","7,908",59.0,103.0
+1962,Chicago White Sox,"1,131,562","16,641",85.0,77.0
+1962,Baltimore Orioles,"795,590","11,050",77.0,85.0
+1962,Boston Red Sox,"723,710","10,052",76.0,84.0
+1962,Los Angeles Angels,"1,135,590","15,141",86.0,76.0
+1962,Kansas City Athletics,"635,224","8,584",72.0,90.0
+1962,St. Louis Cardinals,"938,516","13,407",84.0,78.0
+1962,Houston Colt 45s,"922,106","12,295",,
+1962,Washington Senators II,"729,741","10,892",,
+1962,Milwaukee Braves,"760,053","10,271",86.0,76.0
+1963,Kansas City Athletics,"751,929","9,765",73.0,89.0
+1963,Los Angeles Angels,"837,484","11,166",70.0,91.0
+1963,Philadelphia Phillies,"908,149","13,355",87.0,75.0
+1963,New York Yankees,"1,460,537","21,478",104.0,57.0
+1963,Cincinnati Reds,"858,708","12,094",86.0,76.0
+1963,Cleveland Indians,"639,361","9,990",79.0,83.0
+1963,Detroit Tigers,"818,762","11,532",79.0,83.0
+1963,Los Angeles Dodgers,"2,538,659","33,403",99.0,63.0
+1963,Boston Red Sox,"942,729","13,468",76.0,85.0
+1963,Baltimore Orioles,"801,749","10,834",86.0,76.0
+1963,Washington Senators II,"543,631","7,995",,
+1963,Milwaukee Braves,"779,552","9,994",84.0,78.0
+1963,Pittsburgh Pirates,"783,735","11,196",74.0,88.0
+1963,San Francisco Giants,"1,570,924","20,670",88.0,74.0
+1963,St. Louis Cardinals,"1,169,364","16,019",93.0,69.0
+1963,Houston Colt 45s,"719,502","9,224",,
+1963,New York Mets,"1,077,322","15,613",51.0,111.0
+1963,Minnesota Twins,"1,406,627","18,508",91.0,70.0
+1963,Chicago Cubs,"993,515","12,903",82.0,80.0
+1963,Chicago White Sox,"1,179,117","18,140",94.0,68.0
+1964,Boston Red Sox,"883,279","11,777",72.0,90.0
+1964,Baltimore Orioles,"1,126,449","16,325",97.0,65.0
+1964,Cincinnati Reds,"863,670","12,164",92.0,70.0
+1964,Cleveland Indians,"653,293","10,051",79.0,83.0
+1964,Chicago White Sox,"1,249,413","18,648",98.0,64.0
+1964,Chicago Cubs,"751,639","10,738",76.0,86.0
+1964,San Francisco Giants,"1,503,544","19,783",90.0,72.0
+1964,Pittsburgh Pirates,"759,498","10,850",80.0,82.0
+1964,Detroit Tigers,"815,921","12,362",85.0,77.0
+1964,Los Angeles Dodgers,"2,234,498","29,019",80.0,82.0
+1964,New York Yankees,"1,305,638","19,487",99.0,63.0
+1964,Philadelphia Phillies,"1,425,972","19,534",92.0,70.0
+1964,Minnesota Twins,"1,207,508","15,285",79.0,83.0
+1964,New York Mets,"1,734,389","26,279",53.0,109.0
+1964,Los Angeles Angels,"760,611","10,564",82.0,80.0
+1964,Kansas City Athletics,"635,465","9,078",57.0,105.0
+1964,St. Louis Cardinals,"1,142,667","15,035",93.0,69.0
+1964,Houston Colt 45s,"726,155","9,192",,
+1964,Washington Senators II,"595,271","8,504",,
+1964,Milwaukee Braves,"912,022","12,493",88.0,74.0
+1965,Boston Red Sox,"651,761","9,052",62.0,100.0
+1965,Baltimore Orioles,"784,803","11,541",94.0,68.0
+1965,Chicago Cubs,"632,788","9,040",72.0,90.0
+1965,Chicago White Sox,"1,133,319","16,915",95.0,67.0
+1965,Cincinnati Reds,"1,048,540","14,364",89.0,73.0
+1965,Cleveland Indians,"962,727","13,371",87.0,75.0
+1965,Detroit Tigers,"1,029,735","15,369",89.0,73.0
+1965,Houston Astros,"2,151,470","26,893",65.0,97.0
+1965,Los Angeles Dodgers,"2,560,648","32,829",97.0,65.0
+1965,Minnesota Twins,"1,463,288","19,004",102.0,60.0
+1965,New York Mets,"1,755,366","25,814",50.0,112.0
+1965,New York Yankees,"1,304,296","18,903",77.0,85.0
+1965,Philadelphia Phillies,"1,166,099","15,974",85.0,76.0
+1965,Pittsburgh Pirates,"916,743","12,558",90.0,72.0
+1965,San Francisco Giants,"1,546,066","20,343",95.0,67.0
+1965,St. Louis Cardinals,"1,234,891","16,465",80.0,81.0
+1965,California Angels,"570,253","8,265",75.0,87.0
+1965,Kansas City Athletics,"523,276","7,475",59.0,103.0
+1965,Washington Senators II,"562,913","8,402",,
+1965,Milwaukee Braves,"555,668","7,612",86.0,76.0
+1966,Baltimore Orioles,"1,203,424","17,962",97.0,63.0
+1966,Atlanta Braves,"1,539,796","20,260",85.0,77.0
+1966,Chicago White Sox,"973,770","14,320",83.0,79.0
+1966,Cincinnati Reds,"745,156","10,799",76.0,84.0
+1966,Chicago Cubs,"635,890","9,084",59.0,103.0
+1966,Boston Red Sox,"815,197","11,988",72.0,90.0
+1966,Minnesota Twins,"1,259,556","16,358",89.0,73.0
+1966,New York Mets,"1,933,834","28,027",66.0,95.0
+1966,Houston Astros,"1,878,398","23,480",72.0,90.0
+1966,Los Angeles Dodgers,"2,617,056","33,552",95.0,67.0
+1966,New York Yankees,"1,224,803","17,751",70.0,89.0
+1966,Philadelphia Phillies,"1,108,191","14,976",87.0,75.0
+1966,Detroit Tigers,"1,124,294","16,061",88.0,74.0
+1966,Cleveland Indians,"920,251","12,961",81.0,81.0
+1966,Washington Senators II,"589,817","8,937",,
+1966,Kansas City Athletics,"773,599","11,051",74.0,86.0
+1966,California Angels,"1,407,756","18,283",80.0,82.0
+1966,St. Louis Cardinals,"1,712,720","22,536",83.0,79.0
+1966,Pittsburgh Pirates,"1,196,618","15,955",92.0,70.0
+1966,San Francisco Giants,"1,657,192","21,522",93.0,68.0
+1967,Atlanta Braves,"1,379,214","17,240",77.0,85.0
+1967,Baltimore Orioles,"854,902","13,358",76.0,85.0
+1967,Boston Red Sox,"1,694,362","23,533",92.0,70.0
+1967,Chicago Cubs,"977,226","14,163",87.0,74.0
+1967,Chicago White Sox,"986,471","15,911",89.0,73.0
+1967,Cincinnati Reds,"957,700","13,119",87.0,75.0
+1967,Cleveland Indians,"666,463","9,256",75.0,87.0
+1967,Detroit Tigers,"1,458,411","21,767",91.0,71.0
+1967,Los Angeles Dodgers,"1,665,034","21,624",73.0,89.0
+1967,Houston Astros,"1,348,285","16,854",69.0,93.0
+1967,New York Mets,"1,565,500","23,366",61.0,101.0
+1967,Minnesota Twins,"1,481,259","19,490",91.0,71.0
+1967,New York Yankees,"1,142,656","16,560",72.0,90.0
+1967,Philadelphia Phillies,"825,512","11,627",82.0,80.0
+1967,Washington Senators II,"765,788","11,098",,
+1967,Kansas City Athletics,"660,747","9,717",62.0,99.0
+1967,St. Louis Cardinals,"2,089,645","27,862",101.0,60.0
+1967,California Angels,"1,318,067","17,574",84.0,77.0
+1967,Pittsburgh Pirates,"909,012","12,120",81.0,81.0
+1967,San Francisco Giants,"1,242,500","16,791",91.0,71.0
+1968,Los Angeles Dodgers,"1,581,093","20,270",76.0,86.0
+1968,Houston Astros,"1,326,718","16,379",72.0,90.0
+1968,Detroit Tigers,"2,032,257","27,839",103.0,59.0
+1968,Cleveland Indians,"856,815","11,737",86.0,75.0
+1968,Chicago Cubs,"1,043,409","14,696",84.0,78.0
+1968,Boston Red Sox,"1,882,655","24,772",86.0,76.0
+1968,Chicago White Sox,"801,347","11,960",67.0,95.0
+1968,Cincinnati Reds,"733,354","9,778",83.0,79.0
+1968,Baltimore Orioles,"876,084","12,339",91.0,71.0
+1968,Atlanta Braves,"1,146,398","14,330",81.0,81.0
+1968,Minnesota Twins,"1,141,103","15,015",79.0,83.0
+1968,New York Mets,"1,781,657","25,821",73.0,89.0
+1968,Oakland Athletics,"857,017","10,987",82.0,80.0
+1968,New York Yankees,"1,124,049","17,563",83.0,79.0
+1968,Philadelphia Phillies,"668,040","9,682",76.0,86.0
+1968,Pittsburgh Pirates,"693,386","9,906",80.0,82.0
+1968,St. Louis Cardinals,"2,011,567","26,468",97.0,65.0
+1968,San Francisco Giants,"837,224","11,163",88.0,74.0
+1968,Washington Senators II,"541,282","7,624",,
+1968,California Angels,"1,025,956","12,824",67.0,95.0
+1969,San Diego Padres,"626,847","8,358",52.0,110.0
+1969,San Francisco Giants,"873,603","11,805",90.0,72.0
+1969,California Angels,"758,728","9,854",71.0,91.0
+1969,St. Louis Cardinals,"1,682,673","22,140",87.0,75.0
+1969,Washington Senators II,"914,227","12,190",,
+1969,Seattle Pilots,"668,215","9,030",64.0,98.0
+1969,Boston Red Sox,"1,837,449","24,177",87.0,75.0
+1969,Chicago Cubs,"1,674,953","22,039",92.0,70.0
+1969,Los Angeles Dodgers,"1,794,527","23,007",85.0,77.0
+1969,Minnesota Twins,"1,319,387","16,915",97.0,65.0
+1969,Kansas City Royals,"902,380","12,361",69.0,93.0
+1969,Houston Astros,"1,442,995","18,037",81.0,81.0
+1969,Detroit Tigers,"1,584,063","20,572",90.0,72.0
+1969,Cleveland Indians,"628,942","8,735",62.0,99.0
+1969,Atlanta Braves,"1,501,047","20,284",93.0,69.0
+1969,Baltimore Orioles,"1,012,368","13,868",109.0,53.0
+1969,Montreal Expos,"1,213,277","16,851",52.0,110.0
+1969,New York Mets,"2,192,091","31,316",100.0,62.0
+1969,New York Yankees,"1,077,387","16,080",80.0,81.0
+1969,Oakland Athletics,"778,395","10,811",88.0,74.0
+1969,Philadelphia Phillies,"519,401","7,316",63.0,99.0
+1969,Pittsburgh Pirates,"769,349","10,991",88.0,74.0
+1969,Cincinnati Reds,"987,991","13,534",89.0,73.0
+1969,Chicago White Sox,"593,076","8,473",68.0,94.0
+1970,Atlanta Braves,"1,078,800","14,578",76.0,86.0
+1970,Baltimore Orioles,"1,027,904","13,705",108.0,54.0
+1970,California Angels,"1,098,557","13,732",86.0,76.0
+1970,Washington Senators II,"824,750","10,440",,
+1970,Boston Red Sox,"1,594,593","20,709",87.0,75.0
+1970,Chicago Cubs,"1,642,523","22,813",84.0,78.0
+1970,San Francisco Giants,"740,404","10,283",86.0,76.0
+1970,St. Louis Cardinals,"1,627,777","21,704",76.0,86.0
+1970,Pittsburgh Pirates,"1,342,007","17,658",89.0,73.0
+1970,San Diego Padres,"633,369","8,676",63.0,99.0
+1970,Philadelphia Phillies,"708,247","9,702",73.0,88.0
+1970,Oakland Athletics,"778,436","10,110",89.0,73.0
+1970,New York Yankees,"1,136,873","16,476",93.0,69.0
+1970,New York Mets,"2,697,456","36,452",83.0,79.0
+1970,Montreal Expos,"1,424,449","19,249",73.0,89.0
+1970,Minnesota Twins,"1,251,138","16,462",98.0,64.0
+1970,Cincinnati Reds,"1,812,230","23,535",102.0,60.0
+1970,Chicago White Sox,"494,411","7,165",56.0,106.0
+1970,Houston Astros,"1,247,444","15,593",79.0,83.0
+1970,Kansas City Royals,"692,986","9,625",65.0,97.0
+1970,Cleveland Indians,"728,209","10,114",76.0,86.0
+1970,Detroit Tigers,"1,481,364","19,752",79.0,83.0
+1970,Milwaukee Brewers,"935,496","12,815",65.0,97.0
+1970,Los Angeles Dodgers,"1,697,141","21,758",87.0,74.0
+1971,Boston Red Sox,"1,630,612","21,741",85.0,77.0
+1971,Chicago Cubs,"1,653,007","21,468",83.0,79.0
+1971,Kansas City Royals,"910,784","12,650",85.0,76.0
+1971,Houston Astros,"1,260,897","15,961",79.0,83.0
+1971,Detroit Tigers,"1,591,037","20,663",91.0,71.0
+1971,Cleveland Indians,"591,298","8,212",60.0,102.0
+1971,Cincinnati Reds,"1,501,125","19,752",79.0,83.0
+1971,Chicago White Sox,"832,388","12,064",79.0,83.0
+1971,Baltimore Orioles,"1,033,035","16,141",101.0,57.0
+1971,Atlanta Braves,"1,006,320","13,241",82.0,80.0
+1971,Oakland Athletics,"907,835","12,436",101.0,60.0
+1971,Philadelphia Phillies,"1,511,073","20,148",67.0,95.0
+1971,Montreal Expos,"1,293,053","17,959",71.0,90.0
+1971,Minnesota Twins,"940,848","12,545",74.0,86.0
+1971,New York Mets,"2,313,931","30,852",83.0,79.0
+1971,New York Yankees,"1,074,518","15,350",82.0,80.0
+1971,Los Angeles Dodgers,"2,064,549","26,469",89.0,73.0
+1971,Milwaukee Brewers,"731,533","9,754",69.0,92.0
+1971,California Angels,"926,253","11,725",76.0,86.0
+1971,Washington Senators II,"655,156","8,509",,
+1971,San Francisco Giants,"1,119,834","15,553",90.0,72.0
+1971,St. Louis Cardinals,"1,604,431","20,309",90.0,72.0
+1971,San Diego Padres,"549,075","7,958",61.0,100.0
+1971,Pittsburgh Pirates,"1,540,368","20,005",97.0,65.0
+1972,Pittsburgh Pirates,"1,520,969","20,835",96.0,59.0
+1972,San Diego Padres,"643,273","9,190",58.0,95.0
+1972,Philadelphia Phillies,"1,481,637","19,242",59.0,97.0
+1972,Oakland Athletics,"927,544","13,251",93.0,62.0
+1972,New York Yankees,"967,715","15,608",79.0,76.0
+1972,New York Mets,"2,134,194","29,642",83.0,73.0
+1972,Montreal Expos,"1,149,506","15,747",70.0,86.0
+1972,Minnesota Twins,"807,571","11,704",77.0,77.0
+1972,Detroit Tigers,"1,938,791","25,851",86.0,70.0
+1972,Cleveland Indians,"759,774","11,689",72.0,84.0
+1972,Chicago White Sox,"1,198,654","18,161",87.0,67.0
+1972,Cincinnati Reds,"1,628,077","22,931",95.0,59.0
+1972,Kansas City Royals,"717,082","10,244",76.0,78.0
+1972,Houston Astros,"1,464,244","19,266",84.0,69.0
+1972,San Francisco Giants,"645,578","9,356",69.0,86.0
+1972,St. Louis Cardinals,"1,196,894","16,624",75.0,81.0
+1972,Atlanta Braves,"761,542","10,879",70.0,84.0
+1972,Baltimore Orioles,"924,245","13,204",80.0,74.0
+1972,Texas Rangers,"667,287","8,897",54.0,100.0
+1972,California Angels,"736,804","9,446",75.0,80.0
+1972,Boston Red Sox,"1,423,484","19,236",85.0,70.0
+1972,Chicago Cubs,"1,330,571","17,741",85.0,70.0
+1972,Milwaukee Brewers,"600,419","8,830",65.0,91.0
+1972,Los Angeles Dodgers,"1,860,498","25,486",85.0,70.0
+1973,Boston Red Sox,"1,483,301","19,264",89.0,73.0
+1973,Chicago Cubs,"1,351,971","18,520",77.0,84.0
+1973,Kansas City Royals,"1,345,441","18,182",88.0,74.0
+1973,Houston Astros,"1,393,998","17,425",82.0,80.0
+1973,Detroit Tigers,"1,724,146","22,104",85.0,77.0
+1973,Cleveland Indians,"605,066","8,898",71.0,91.0
+1973,Cincinnati Reds,"2,017,821","26,904",99.0,63.0
+1973,Chicago White Sox,"1,315,260","17,537",77.0,85.0
+1973,Baltimore Orioles,"960,307","13,338",97.0,65.0
+1973,Atlanta Braves,"802,848","11,807",76.0,85.0
+1973,Oakland Athletics,"1,000,045","12,659",94.0,68.0
+1973,Philadelphia Phillies,"1,475,932","19,679",71.0,91.0
+1973,Montreal Expos,"1,246,863","17,080",79.0,83.0
+1973,Minnesota Twins,"907,499","11,941",81.0,81.0
+1973,New York Mets,"1,914,695","26,229",82.0,79.0
+1973,New York Yankees,"1,262,039","17,528",80.0,82.0
+1973,Los Angeles Dodgers,"2,139,452","26,743",95.0,66.0
+1973,Milwaukee Brewers,"1,092,244","14,962",74.0,88.0
+1973,Texas Rangers,"686,162","9,272",57.0,105.0
+1973,California Angels,"1,057,631","13,220",79.0,83.0
+1973,San Francisco Giants,"834,415","11,276",88.0,74.0
+1973,St. Louis Cardinals,"1,573,906","19,923",81.0,81.0
+1973,San Diego Padres,"612,005","8,160",60.0,102.0
+1973,Pittsburgh Pirates,"1,318,558","18,313",80.0,82.0
+1974,Detroit Tigers,"1,245,346","16,605",72.0,90.0
+1974,Cleveland Indians,"1,111,450","15,225",77.0,85.0
+1974,Chicago White Sox,"1,166,453","15,348",80.0,80.0
+1974,Cincinnati Reds,"2,134,250","28,841",98.0,64.0
+1974,Kansas City Royals,"1,174,292","15,055",77.0,85.0
+1974,Houston Astros,"1,093,105","13,664",81.0,81.0
+1974,San Francisco Giants,"519,991","7,027",72.0,90.0
+1974,St. Louis Cardinals,"1,838,413","24,190",86.0,75.0
+1974,Los Angeles Dodgers,"2,629,474","32,868",102.0,60.0
+1974,Milwaukee Brewers,"938,822","13,039",76.0,86.0
+1974,Chicago Cubs,"1,015,378","13,721",66.0,96.0
+1974,Boston Red Sox,"1,558,391","19,979",84.0,78.0
+1974,California Angels,"905,399","11,758",68.0,94.0
+1974,Texas Rangers,"1,193,867","15,709",84.0,76.0
+1974,Baltimore Orioles,"962,620","13,008",91.0,71.0
+1974,Atlanta Braves,"981,083","13,081",88.0,74.0
+1974,Minnesota Twins,"667,511","8,669",82.0,80.0
+1974,Montreal Expos,"1,019,132","14,559",79.0,82.0
+1974,New York Mets,"1,727,328","24,329",71.0,91.0
+1974,New York Yankees,"1,290,480","17,923",89.0,73.0
+1974,Oakland Athletics,"836,662","11,009",90.0,72.0
+1974,Philadelphia Phillies,"1,792,067","23,580",80.0,82.0
+1974,San Diego Padres,"1,075,471","14,151",60.0,102.0
+1974,Pittsburgh Pirates,"1,110,737","15,427",88.0,74.0
+1975,New York Yankees,"1,288,046","18,942",83.0,77.0
+1975,New York Mets,"1,730,766","22,773",82.0,80.0
+1975,Minnesota Twins,"737,156","10,098",76.0,83.0
+1975,Montreal Expos,"908,202","12,614",75.0,87.0
+1975,Philadelphia Phillies,"1,908,969","25,797",86.0,76.0
+1975,Oakland Athletics,"1,077,597","13,995",98.0,64.0
+1975,Atlanta Braves,"534,552","7,323",67.0,94.0
+1975,Baltimore Orioles,"1,002,125","14,737",90.0,69.0
+1975,Milwaukee Brewers,"1,213,363","16,621",68.0,94.0
+1975,Los Angeles Dodgers,"2,552,103","31,901",88.0,74.0
+1975,Kansas City Royals,"1,151,805","14,959",91.0,71.0
+1975,Houston Astros,"857,444","10,854",64.0,97.0
+1975,Detroit Tigers,"1,038,439","14,225",57.0,102.0
+1975,Cleveland Indians,"977,056","14,160",79.0,80.0
+1975,Cincinnati Reds,"2,315,603","30,875",108.0,54.0
+1975,Chicago White Sox,"770,802","10,416",75.0,86.0
+1975,Pittsburgh Pirates,"1,270,013","17,397",92.0,69.0
+1975,San Diego Padres,"1,281,747","16,646",71.0,91.0
+1975,San Francisco Giants,"522,902","7,066",80.0,81.0
+1975,St. Louis Cardinals,"1,695,034","21,731",82.0,80.0
+1975,Texas Rangers,"1,127,663","14,838",79.0,83.0
+1975,California Angels,"1,058,103","13,922",72.0,89.0
+1975,Boston Red Sox,"1,748,518","22,708",95.0,65.0
+1975,Chicago Cubs,"1,034,819","13,616",75.0,87.0
+1976,Atlanta Braves,"817,947","11,520",70.0,92.0
+1976,Baltimore Orioles,"1,058,792","14,308",88.0,74.0
+1976,San Francisco Giants,"625,382","8,686",74.0,88.0
+1976,St. Louis Cardinals,"1,200,323","15,194",72.0,90.0
+1976,Texas Rangers,"1,161,682","15,087",76.0,86.0
+1976,California Angels,"1,006,774","12,907",76.0,86.0
+1976,Houston Astros,"886,622","11,822",80.0,82.0
+1976,Kansas City Royals,"1,679,160","21,528",90.0,72.0
+1976,Philadelphia Phillies,"2,480,016","31,795",101.0,61.0
+1976,Oakland Athletics,"780,945","9,885",87.0,74.0
+1976,Boston Red Sox,"1,895,885","23,999",83.0,79.0
+1976,Chicago Cubs,"1,026,785","13,335",75.0,87.0
+1976,Cleveland Indians,"949,821","13,968",81.0,78.0
+1976,Detroit Tigers,"1,471,533","19,886",74.0,87.0
+1976,Chicago White Sox,"914,942","13,455",64.0,97.0
+1976,Cincinnati Reds,"2,629,708","35,063",102.0,60.0
+1976,Pittsburgh Pirates,"1,025,952","14,054",92.0,70.0
+1976,San Diego Padres,"1,458,478","18,941",73.0,89.0
+1976,New York Yankees,"2,017,932","27,269",97.0,62.0
+1976,New York Mets,"1,470,364","19,347",86.0,76.0
+1976,Montreal Expos,"646,698","9,652",55.0,107.0
+1976,Minnesota Twins,"715,394","9,539",85.0,77.0
+1976,Milwaukee Brewers,"1,011,399","13,485",66.0,95.0
+1976,Los Angeles Dodgers,"2,386,301","30,206",92.0,70.0
+1977,Oakland Athletics,"504,765","6,915",63.0,98.0
+1977,Philadelphia Phillies,"2,699,750","34,174",101.0,61.0
+1977,Los Angeles Dodgers,"2,945,087","37,280",98.0,64.0
+1977,Milwaukee Brewers,"1,141,774","15,023",67.0,95.0
+1977,Minnesota Twins,"1,162,727","15,100",84.0,77.0
+1977,Montreal Expos,"1,437,190","18,426",75.0,87.0
+1977,New York Mets,"1,062,782","15,183",64.0,98.0
+1977,New York Yankees,"2,316,023","28,593",100.0,62.0
+1977,Kansas City Royals,"1,889,574","24,540",102.0,60.0
+1977,Houston Astros,"1,099,580","14,280",81.0,81.0
+1977,Detroit Tigers,"1,410,065","18,078",74.0,88.0
+1977,Cleveland Indians,"920,869","12,970",71.0,90.0
+1977,Cincinnati Reds,"2,526,031","33,237",88.0,74.0
+1977,Chicago White Sox,"1,680,296","22,404",90.0,72.0
+1977,Chicago Cubs,"1,440,753","19,210",81.0,81.0
+1977,Boston Red Sox,"2,074,549","28,034",97.0,64.0
+1977,Atlanta Braves,"871,526","10,894",61.0,101.0
+1977,Baltimore Orioles,"1,257,033","15,713",97.0,64.0
+1977,Pittsburgh Pirates,"1,237,359","16,950",96.0,66.0
+1977,San Diego Padres,"1,375,269","17,408",69.0,93.0
+1977,San Francisco Giants,"696,654","9,414",75.0,87.0
+1977,Seattle Mariners,"1,350,601","17,771",64.0,98.0
+1977,St. Louis Cardinals,"1,658,282","20,991",83.0,79.0
+1977,Texas Rangers,"1,274,962","16,776",94.0,68.0
+1977,Toronto Blue Jays,"1,794,651","23,929",54.0,107.0
+1977,California Angels,"1,435,133","18,883",74.0,88.0
+1978,Atlanta Braves,"875,902","11,837",69.0,93.0
+1978,Baltimore Orioles,"1,033,755","14,358",90.0,71.0
+1978,Boston Red Sox,"2,320,210","30,133",99.0,64.0
+1978,Chicago Cubs,"1,495,983","20,216",79.0,83.0
+1978,Chicago White Sox,"1,491,100","19,620",71.0,90.0
+1978,Cincinnati Reds,"2,532,497","33,767",92.0,69.0
+1978,Cleveland Indians,"807,123","11,530",69.0,90.0
+1978,Detroit Tigers,"1,714,843","22,564",86.0,76.0
+1978,Houston Astros,"1,128,233","14,465",74.0,88.0
+1978,Kansas City Royals,"2,255,493","28,194",92.0,70.0
+1978,Los Angeles Dodgers,"3,347,803","41,848",95.0,67.0
+1978,Milwaukee Brewers,"1,581,834","21,376",93.0,69.0
+1978,Minnesota Twins,"787,880","10,793",73.0,89.0
+1978,Montreal Expos,"1,427,181","18,779",76.0,86.0
+1978,Seattle Mariners,"866,906","11,259",56.0,104.0
+1978,San Francisco Giants,"1,738,855","23,498",89.0,73.0
+1978,San Diego Padres,"1,669,349","21,402",84.0,78.0
+1978,Pittsburgh Pirates,"964,106","13,773",88.0,73.0
+1978,California Angels,"1,755,386","22,797",87.0,75.0
+1978,Toronto Blue Jays,"1,562,509","21,404",59.0,102.0
+1978,Texas Rangers,"1,447,963","19,306",87.0,75.0
+1978,St. Louis Cardinals,"1,278,221","16,387",69.0,93.0
+1978,Philadelphia Phillies,"2,582,409","33,538",90.0,72.0
+1978,Oakland Athletics,"527,017","7,320",69.0,93.0
+1978,New York Yankees,"2,424,399","31,486",100.0,63.0
+1978,New York Mets,"1,007,867","13,806",66.0,96.0
+1979,San Diego Padres,"1,457,147","18,924",68.0,93.0
+1979,Pittsburgh Pirates,"1,435,427","19,398",98.0,64.0
+1979,Philadelphia Phillies,"2,774,849","36,037",84.0,78.0
+1979,Oakland Athletics,"306,763","3,984",54.0,108.0
+1979,Chicago Cubs,"1,656,343","21,794",80.0,82.0
+1979,Boston Red Sox,"2,353,125","29,786",91.0,69.0
+1979,Baltimore Orioles,"1,680,427","23,339",102.0,57.0
+1979,Atlanta Braves,"768,737","10,250",66.0,94.0
+1979,New York Yankees,"2,543,848","32,201",89.0,71.0
+1979,New York Mets,"788,764","11,431",63.0,99.0
+1979,Montreal Expos,"2,102,153","29,197",95.0,65.0
+1979,Minnesota Twins,"1,070,621","14,275",82.0,80.0
+1979,Milwaukee Brewers,"1,918,893","25,249",95.0,66.0
+1979,Los Angeles Dodgers,"2,860,954","35,320",79.0,83.0
+1979,Kansas City Royals,"2,261,845","28,631",85.0,77.0
+1979,Houston Astros,"1,915,449","24,876",89.0,73.0
+1979,Detroit Tigers,"1,630,939","21,746",85.0,76.0
+1979,Cleveland Indians,"1,011,744","13,672",81.0,80.0
+1979,Cincinnati Reds,"2,356,933","30,610",90.0,71.0
+1979,Chicago White Sox,"1,280,702","17,544",73.0,87.0
+1979,Texas Rangers,"1,519,672","19,483",83.0,79.0
+1979,St. Louis Cardinals,"1,628,406","21,148",86.0,76.0
+1979,California Angels,"2,523,575","31,155",88.0,74.0
+1979,Toronto Blue Jays,"1,431,659","18,593",53.0,109.0
+1979,Seattle Mariners,"844,450","10,556",67.0,95.0
+1979,San Francisco Giants,"1,483,812","19,023",71.0,91.0
+1980,California Angels,"2,297,327","28,362",65.0,95.0
+1980,Toronto Blue Jays,"1,400,327","18,671",67.0,95.0
+1980,Philadelphia Phillies,"2,658,957","34,089",91.0,71.0
+1980,Oakland Athletics,"842,319","11,231",83.0,79.0
+1980,Texas Rangers,"1,198,165","15,561",76.0,85.0
+1980,St. Louis Cardinals,"1,399,755","17,497",74.0,88.0
+1980,Seattle Mariners,"837,886","10,474",59.0,103.0
+1980,San Francisco Giants,"1,098,130","14,079",75.0,86.0
+1980,San Diego Padres,"1,152,438","14,775",73.0,89.0
+1980,Pittsburgh Pirates,"1,641,757","22,186",83.0,79.0
+1980,Kansas City Royals,"2,290,056","28,626",97.0,65.0
+1980,Houston Astros,"2,308,092","29,216",93.0,70.0
+1980,Detroit Tigers,"1,785,360","23,492",84.0,78.0
+1980,Cleveland Indians,"1,036,352","14,394",79.0,81.0
+1980,Cincinnati Reds,"2,031,596","26,732",89.0,73.0
+1980,Chicago White Sox,"1,212,873","16,172",70.0,90.0
+1980,Chicago Cubs,"1,204,582","15,850",64.0,98.0
+1980,Boston Red Sox,"1,956,110","24,761",83.0,77.0
+1980,Baltimore Orioles,"1,805,020","22,563",100.0,62.0
+1980,Atlanta Braves,"1,048,352","13,615",81.0,80.0
+1980,New York Yankees,"2,627,417","33,258",103.0,59.0
+1980,New York Mets,"1,178,738","15,510",67.0,95.0
+1980,Montreal Expos,"2,185,122","29,135",90.0,72.0
+1980,Minnesota Twins,"769,206","10,537",77.0,84.0
+1980,Milwaukee Brewers,"1,865,583","24,228",86.0,76.0
+1980,Los Angeles Dodgers,"3,248,887","40,110",92.0,71.0
+1981,Philadelphia Phillies,"1,638,914","30,350",59.0,48.0
+1981,Oakland Athletics,"1,298,105","25,453",64.0,45.0
+1981,New York Yankees,"1,614,482","32,290",59.0,48.0
+1981,New York Mets,"701,910","14,325",41.0,62.0
+1981,Montreal Expos,"1,534,663","29,513",60.0,48.0
+1981,Minnesota Twins,"469,090","7,951",41.0,68.0
+1981,Milwaukee Brewers,"878,482","18,302",62.0,47.0
+1981,Los Angeles Dodgers,"2,382,579","42,546",63.0,47.0
+1981,Kansas City Royals,"1,279,440","27,222",50.0,53.0
+1981,Houston Astros,"1,321,222","26,424",61.0,49.0
+1981,Detroit Tigers,"1,149,744","21,292",60.0,49.0
+1981,Cleveland Indians,"662,417","13,519",52.0,51.0
+1981,Cincinnati Reds,"1,111,107","21,786",66.0,42.0
+1981,Chicago White Sox,"944,701","20,100",54.0,52.0
+1981,Chicago Cubs,"565,615","10,284",38.0,65.0
+1981,Boston Red Sox,"1,060,659","20,397",59.0,49.0
+1981,Pittsburgh Pirates,"549,369","11,445",46.0,56.0
+1981,San Diego Padres,"559,711","10,365",41.0,69.0
+1981,San Francisco Giants,"632,274","12,398",56.0,55.0
+1981,Seattle Mariners,"636,276","11,362",44.0,65.0
+1981,St. Louis Cardinals,"1,010,247","19,061",59.0,43.0
+1981,Texas Rangers,"853,032","15,797",57.0,48.0
+1981,Toronto Blue Jays,"755,083","14,806",37.0,69.0
+1981,California Angels,"1,441,545","26,695",51.0,59.0
+1981,Atlanta Braves,"534,107","10,900",50.0,56.0
+1981,Baltimore Orioles,"1,024,831","19,336",59.0,46.0
+1982,Atlanta Braves,"1,800,376","23,082",89.0,73.0
+1982,Baltimore Orioles,"1,613,685","21,807",94.0,68.0
+1982,Chicago White Sox,"1,567,787","20,629",87.0,75.0
+1982,Cincinnati Reds,"1,340,706","16,971",61.0,101.0
+1982,Boston Red Sox,"1,954,038","24,735",89.0,73.0
+1982,Chicago Cubs,"1,250,410","15,828",73.0,89.0
+1982,Texas Rangers,"1,154,432","14,800",64.0,98.0
+1982,St. Louis Cardinals,"2,111,922","26,399",92.0,70.0
+1982,Seattle Mariners,"1,070,387","13,215",76.0,86.0
+1982,San Francisco Giants,"1,228,846","15,959",87.0,75.0
+1982,San Diego Padres,"1,617,391","20,473",81.0,81.0
+1982,Pittsburgh Pirates,"1,026,477","13,506",84.0,78.0
+1982,Philadelphia Phillies,"2,374,711","30,840",89.0,73.0
+1982,Oakland Athletics,"1,738,658","22,290",68.0,94.0
+1982,New York Yankees,"2,041,219","27,216",79.0,83.0
+1982,New York Mets,"1,320,469","17,606",65.0,97.0
+1982,Montreal Expos,"2,319,792","29,741",86.0,76.0
+1982,Minnesota Twins,"921,186","11,373",60.0,102.0
+1982,Milwaukee Brewers,"1,978,815","25,369",95.0,67.0
+1982,Los Angeles Dodgers,"3,608,881","45,111",88.0,74.0
+1982,Kansas City Royals,"2,279,464","28,493",90.0,72.0
+1982,Houston Astros,"1,560,396","19,505",77.0,85.0
+1982,Toronto Blue Jays,"1,275,908","16,570",78.0,84.0
+1982,California Angels,"2,807,360","34,659",93.0,69.0
+1982,Cleveland Indians,"1,044,041","13,559",78.0,84.0
+1982,Detroit Tigers,"1,636,058","21,527",83.0,79.0
+1983,Kansas City Royals,"1,963,886","24,859",79.0,83.0
+1983,Houston Astros,"1,352,942","16,703",85.0,77.0
+1983,Montreal Expos,"2,320,556","30,534",82.0,80.0
+1983,Minnesota Twins,"868,272","10,853",70.0,92.0
+1983,Cleveland Indians,"768,937","10,680",70.0,92.0
+1983,Detroit Tigers,"1,786,900","23,512",92.0,70.0
+1983,Cincinnati Reds,"1,192,882","15,100",74.0,88.0
+1983,Chicago White Sox,"2,132,813","26,998",99.0,63.0
+1983,Boston Red Sox,"1,780,794","23,127",78.0,84.0
+1983,Chicago Cubs,"1,483,702","18,781",71.0,91.0
+1983,Milwaukee Brewers,"2,266,725","29,438",87.0,75.0
+1983,Los Angeles Dodgers,"3,509,313","43,866",91.0,71.0
+1983,St. Louis Cardinals,"2,343,669","29,667",79.0,83.0
+1983,Texas Rangers,"1,362,314","17,466",77.0,85.0
+1983,Toronto Blue Jays,"1,930,277","25,069",89.0,73.0
+1983,California Angels,"2,555,376","32,761",70.0,92.0
+1983,Pittsburgh Pirates,"1,227,449","16,587",84.0,78.0
+1983,San Diego Padres,"1,544,736","19,804",81.0,81.0
+1983,San Francisco Giants,"1,256,098","16,313",79.0,83.0
+1983,Seattle Mariners,"808,037","9,976",60.0,102.0
+1983,Philadelphia Phillies,"2,128,345","28,378",90.0,72.0
+1983,Oakland Athletics,"1,294,941","16,817",74.0,88.0
+1983,New York Yankees,"2,249,688","28,842",91.0,71.0
+1983,New York Mets,"1,099,876","14,863",68.0,94.0
+1983,Atlanta Braves,"2,116,740","27,490",88.0,74.0
+1983,Baltimore Orioles,"2,036,397","26,447",98.0,64.0
+1984,Chicago Cubs,"2,108,055","28,107",96.0,65.0
+1984,Boston Red Sox,"1,660,551","21,566",86.0,76.0
+1984,San Diego Padres,"1,984,953","24,812",92.0,70.0
+1984,Pittsburgh Pirates,"773,195","10,174",75.0,87.0
+1984,Philadelphia Phillies,"2,062,966","26,792",81.0,81.0
+1984,Oakland Athletics,"1,353,281","17,130",77.0,85.0
+1984,New York Yankees,"1,823,496","23,378",87.0,75.0
+1984,New York Mets,"1,829,481","24,393",90.0,72.0
+1984,Montreal Expos,"1,623,419","21,361",78.0,83.0
+1984,Minnesota Twins,"1,598,373","19,733",81.0,81.0
+1984,Milwaukee Brewers,"1,608,509","21,165",67.0,94.0
+1984,Los Angeles Dodgers,"3,134,824","38,702",79.0,83.0
+1984,Kansas City Royals,"1,810,018","23,507",84.0,78.0
+1984,Houston Astros,"1,230,579","15,192",80.0,82.0
+1984,Detroit Tigers,"2,704,794","35,589",104.0,58.0
+1984,Cleveland Indians,"731,378","10,019",75.0,87.0
+1984,Baltimore Orioles,"2,037,206","26,805",85.0,77.0
+1984,Atlanta Braves,"1,724,891","21,834",80.0,82.0
+1984,Texas Rangers,"1,102,430","13,780",69.0,92.0
+1984,St. Louis Cardinals,"2,059,347","26,068",84.0,78.0
+1984,San Francisco Giants,"1,001,551","13,007",66.0,96.0
+1984,Seattle Mariners,"869,874","10,739",74.0,88.0
+1984,California Angels,"2,402,997","29,667",81.0,81.0
+1984,Toronto Blue Jays,"2,110,009","26,709",89.0,73.0
+1984,Cincinnati Reds,"1,270,073","16,283",70.0,92.0
+1984,Chicago White Sox,"2,135,827","26,368",74.0,88.0
+1985,Boston Red Sox,"1,786,463","23,201",81.0,81.0
+1985,Chicago Cubs,"2,161,534","26,686",77.0,84.0
+1985,Chicago White Sox,"1,669,970","21,139",85.0,77.0
+1985,Cincinnati Reds,"1,834,619","23,826",89.0,72.0
+1985,Cleveland Indians,"655,181","8,736",60.0,102.0
+1985,Detroit Tigers,"2,286,610","28,944",84.0,77.0
+1985,Kansas City Royals,"2,162,715","27,034",91.0,71.0
+1985,Houston Astros,"1,184,383","14,805",83.0,79.0
+1985,California Angels,"2,567,787","32,504",90.0,72.0
+1985,Toronto Blue Jays,"2,468,925","31,653",99.0,62.0
+1985,Texas Rangers,"1,112,461","14,082",62.0,99.0
+1985,St. Louis Cardinals,"2,661,465","33,268",101.0,61.0
+1985,Seattle Mariners,"1,127,603","13,921",74.0,88.0
+1985,San Francisco Giants,"818,697","10,363",62.0,100.0
+1985,San Diego Padres,"2,210,352","27,979",83.0,79.0
+1985,Pittsburgh Pirates,"735,900","9,435",57.0,104.0
+1985,Philadelphia Phillies,"1,830,350","23,466",75.0,87.0
+1985,Oakland Athletics,"1,334,627","17,333",77.0,85.0
+1985,New York Yankees,"2,214,587","28,761",97.0,64.0
+1985,New York Mets,"2,751,237","35,272",98.0,64.0
+1985,Montreal Expos,"1,502,494","19,263",84.0,77.0
+1985,Minnesota Twins,"1,652,063","20,396",77.0,85.0
+1985,Baltimore Orioles,"2,137,434","26,718",83.0,78.0
+1985,Atlanta Braves,"1,350,047","17,089",66.0,96.0
+1985,Los Angeles Dodgers,"3,264,683","40,305",95.0,67.0
+1985,Milwaukee Brewers,"1,359,995","17,000",71.0,90.0
+1986,Houston Astros,"1,734,266","21,411",96.0,66.0
+1986,Kansas City Royals,"2,320,764","29,753",76.0,86.0
+1986,Los Angeles Dodgers,"3,033,208","37,915",73.0,89.0
+1986,Milwaukee Brewers,"1,265,041","16,013",77.0,84.0
+1986,Minnesota Twins,"1,256,566","15,513",71.0,91.0
+1986,Montreal Expos,"1,125,164","14,613",78.0,83.0
+1986,New York Mets,"2,762,417","36,832",108.0,54.0
+1986,New York Yankees,"2,268,186","28,352",90.0,72.0
+1986,Oakland Athletics,"1,314,646","16,641",76.0,86.0
+1986,Philadelphia Phillies,"1,918,623","24,598",86.0,75.0
+1986,Pittsburgh Pirates,"1,014,629","12,683",64.0,98.0
+1986,San Diego Padres,"1,805,776","22,294",74.0,88.0
+1986,San Francisco Giants,"1,532,385","19,646",83.0,79.0
+1986,Seattle Mariners,"1,028,223","12,694",67.0,95.0
+1986,St. Louis Cardinals,"2,498,142","30,841",79.0,82.0
+1986,Texas Rangers,"1,692,021","21,418",87.0,75.0
+1986,California Angels,"2,655,459","32,783",92.0,70.0
+1986,Toronto Blue Jays,"2,455,477","31,480",86.0,76.0
+1986,Cincinnati Reds,"1,692,432","21,698",86.0,76.0
+1986,Chicago White Sox,"1,424,017","18,026",72.0,90.0
+1986,Chicago Cubs,"1,859,102","23,835",70.0,90.0
+1986,Boston Red Sox,"2,146,694","27,173",95.0,66.0
+1986,Baltimore Orioles,"1,973,222","24,977",73.0,89.0
+1986,Atlanta Braves,"1,387,152","17,339",72.0,89.0
+1986,Detroit Tigers,"1,899,437","24,668",87.0,75.0
+1986,Cleveland Indians,"1,470,977","18,620",84.0,78.0
+1987,Baltimore Orioles,"1,845,251","23,657",67.0,95.0
+1987,Atlanta Braves,"1,217,403","15,218",69.0,92.0
+1987,Chicago White Sox,"1,208,070","15,292",77.0,85.0
+1987,Cincinnati Reds,"2,185,205","27,315",84.0,78.0
+1987,Chicago Cubs,"2,035,202","25,762",76.0,85.0
+1987,Boston Red Sox,"2,231,649","28,249",78.0,84.0
+1987,St. Louis Cardinals,"3,073,131","39,399",95.0,67.0
+1987,Texas Rangers,"1,763,749","22,047",75.0,87.0
+1987,Toronto Blue Jays,"2,778,459","34,302",96.0,66.0
+1987,California Angels,"2,696,208","33,287",75.0,87.0
+1987,Pittsburgh Pirates,"1,161,193","14,699",80.0,82.0
+1987,San Diego Padres,"1,454,101","18,176",65.0,97.0
+1987,San Francisco Giants,"1,917,863","24,277",90.0,72.0
+1987,Seattle Mariners,"1,133,010","13,988",78.0,84.0
+1987,Philadelphia Phillies,"2,100,110","26,584",80.0,82.0
+1987,Oakland Athletics,"1,678,922","20,987",81.0,81.0
+1987,New York Yankees,"2,427,702","31,124",89.0,73.0
+1987,New York Mets,"3,027,121","38,318",92.0,70.0
+1987,Minnesota Twins,"2,082,203","25,706",85.0,77.0
+1987,Montreal Expos,"1,850,324","22,844",91.0,71.0
+1987,Detroit Tigers,"2,061,830","25,773",98.0,64.0
+1987,Cleveland Indians,"1,076,898","13,632",61.0,101.0
+1987,Los Angeles Dodgers,"2,800,409","35,005",73.0,89.0
+1987,Milwaukee Brewers,"1,908,784","23,860",91.0,71.0
+1987,Houston Astros,"1,920,997","23,716",76.0,86.0
+1987,Kansas City Royals,"2,392,471","29,906",83.0,79.0
+1988,Oakland Athletics,"2,287,446","28,955",104.0,58.0
+1988,Philadelphia Phillies,"1,990,042","25,513",65.0,96.0
+1988,Pittsburgh Pirates,"1,865,713","23,321",85.0,75.0
+1988,San Diego Padres,"1,508,563","18,624",83.0,78.0
+1988,Minnesota Twins,"3,029,999","37,407",91.0,71.0
+1988,Montreal Expos,"1,478,659","18,255",81.0,81.0
+1988,New York Mets,"3,048,530","39,591",100.0,60.0
+1988,New York Yankees,"2,633,633","33,765",85.0,76.0
+1988,Chicago Cubs,"2,088,534","27,124",77.0,85.0
+1988,Boston Red Sox,"2,463,339","31,182",89.0,73.0
+1988,Baltimore Orioles,"1,660,738","22,442",54.0,107.0
+1988,Atlanta Braves,"848,097","11,159",54.0,106.0
+1988,Texas Rangers,"1,582,084","19,776",70.0,91.0
+1988,St. Louis Cardinals,"2,892,089","35,705",76.0,86.0
+1988,San Francisco Giants,"1,786,482","22,614",83.0,79.0
+1988,Seattle Mariners,"1,020,354","12,597",68.0,93.0
+1988,California Angels,"2,340,905","29,261",75.0,87.0
+1988,Toronto Blue Jays,"2,595,275","32,040",87.0,75.0
+1988,Cincinnati Reds,"2,062,528","25,782",87.0,74.0
+1988,Chicago White Sox,"1,115,655","14,122",71.0,90.0
+1988,Milwaukee Brewers,"1,928,238","24,103",87.0,75.0
+1988,Los Angeles Dodgers,"2,980,262","38,208",94.0,67.0
+1988,Kansas City Royals,"2,349,181","29,365",84.0,77.0
+1988,Houston Astros,"1,933,635","23,872",82.0,80.0
+1988,Detroit Tigers,"2,081,102","26,343",88.0,74.0
+1988,Cleveland Indians,"1,421,790","17,997",78.0,84.0
+1989,Toronto Blue Jays,"3,376,693","42,209",89.0,73.0
+1989,California Angels,"2,644,233","32,645",91.0,71.0
+1989,Los Angeles Dodgers,"2,943,833","36,344",77.0,83.0
+1989,Milwaukee Brewers,"1,974,300","24,679",81.0,81.0
+1989,Minnesota Twins,"2,279,508","28,142",80.0,82.0
+1989,Montreal Expos,"1,789,073","22,087",81.0,81.0
+1989,New York Mets,"2,916,960","36,924",87.0,75.0
+1989,New York Yankees,"2,196,200","29,283",74.0,87.0
+1989,Oakland Athletics,"2,671,641","32,983",99.0,63.0
+1989,Philadelphia Phillies,"1,861,985","25,162",67.0,95.0
+1989,Pittsburgh Pirates,"1,374,421","17,621",74.0,88.0
+1989,San Diego Padres,"2,108,158","26,352",89.0,73.0
+1989,San Francisco Giants,"2,080,296","26,333",92.0,70.0
+1989,Seattle Mariners,"1,295,433","15,993",73.0,89.0
+1989,St. Louis Cardinals,"3,099,147","37,794",86.0,76.0
+1989,Texas Rangers,"2,042,604","25,856",83.0,79.0
+1989,Kansas City Royals,"2,475,368","30,942",92.0,70.0
+1989,Houston Astros,"1,863,215","23,003",86.0,76.0
+1989,Atlanta Braves,"1,034,808","13,439",63.0,97.0
+1989,Baltimore Orioles,"2,539,245","32,554",87.0,75.0
+1989,Detroit Tigers,"1,543,620","19,539",59.0,103.0
+1989,Cleveland Indians,"1,285,635","16,697",73.0,89.0
+1989,Cincinnati Reds,"1,979,440","25,056",75.0,87.0
+1989,Chicago White Sox,"1,045,646","13,406",69.0,92.0
+1989,Chicago Cubs,"2,491,932","30,765",93.0,69.0
+1989,Boston Red Sox,"2,512,069","31,798",83.0,79.0
+1990,Atlanta Braves,"1,009,748","13,286",65.0,97.0
+1990,Baltimore Orioles,"2,420,997","30,646",76.0,85.0
+1990,Boston Red Sox,"2,512,898","31,411",88.0,74.0
+1990,Cincinnati Reds,"2,407,563","30,866",91.0,71.0
+1990,Detroit Tigers,"1,470,157","18,610",79.0,83.0
+1990,New York Yankees,"2,006,436","25,080",67.0,95.0
+1990,Pittsburgh Pirates,"2,051,806","26,305",95.0,67.0
+1990,Philadelphia Phillies,"1,992,124","25,872",77.0,85.0
+1990,New York Mets,"2,733,555","35,501",91.0,71.0
+1990,Texas Rangers,"2,057,917","25,406",83.0,79.0
+1990,Seattle Mariners,"1,509,714","18,638",77.0,85.0
+1990,San Francisco Giants,"2,001,105","25,014",85.0,77.0
+1990,San Diego Padres,"1,894,172","23,977",75.0,87.0
+1990,St. Louis Cardinals,"2,573,275","31,769",70.0,92.0
+1990,Milwaukee Brewers,"1,775,008","22,468",74.0,88.0
+1990,Minnesota Twins,"1,754,348","21,929",74.0,88.0
+1990,Chicago White Sox,"2,002,359","25,346",94.0,68.0
+1990,Chicago Cubs,"2,243,394","29,135",77.0,85.0
+1990,Cleveland Indians,"1,228,031","16,374",77.0,85.0
+1990,Houston Astros,"1,313,560","16,217",75.0,87.0
+1990,Kansas City Royals,"2,244,536","28,776",75.0,86.0
+1990,Los Angeles Dodgers,"3,002,950","37,073",86.0,76.0
+1990,California Angels,"2,558,640","31,588",80.0,82.0
+1990,Toronto Blue Jays,"3,884,384","47,955",86.0,76.0
+1990,Oakland Athletics,"2,903,203","36,290",103.0,59.0
+1990,Montreal Expos,"1,421,391","17,548",85.0,77.0
+1991,San Diego Padres,"1,803,929","22,271",84.0,78.0
+1991,Houston Astros,"1,196,152","14,767",65.0,97.0
+1991,Detroit Tigers,"1,659,472","20,743",84.0,78.0
+1991,Cleveland Indians,"1,051,863","13,315",57.0,105.0
+1991,Cincinnati Reds,"2,372,377","29,655",74.0,88.0
+1991,Chicago White Sox,"2,968,154","36,644",87.0,75.0
+1991,San Francisco Giants,"1,737,489","21,450",75.0,87.0
+1991,Seattle Mariners,"2,109,966","26,049",83.0,79.0
+1991,Atlanta Braves,"2,140,217","27,439",94.0,68.0
+1991,Baltimore Orioles,"2,551,102","32,292",67.0,95.0
+1991,Boston Red Sox,"2,595,356","32,041",84.0,78.0
+1991,Toronto Blue Jays,"4,001,526","49,402",91.0,71.0
+1991,Texas Rangers,"2,297,718","29,085",85.0,77.0
+1991,St. Louis Cardinals,"2,449,537","29,872",84.0,78.0
+1991,Chicago Cubs,"2,311,520","28,537",77.0,83.0
+1991,Pittsburgh Pirates,"2,073,028","24,976",98.0,64.0
+1991,Philadelphia Phillies,"2,049,958","24,698",78.0,84.0
+1991,Oakland Athletics,"2,713,193","33,496",84.0,78.0
+1991,New York Yankees,"1,863,729","23,894",71.0,91.0
+1991,New York Mets,"2,263,729","29,022",77.0,84.0
+1991,Montreal Expos,"978,045","14,598",71.0,90.0
+1991,Minnesota Twins,"2,293,842","28,319",95.0,67.0
+1991,Milwaukee Brewers,"1,478,814","18,719",83.0,79.0
+1991,Los Angeles Dodgers,"3,346,630","41,316",93.0,69.0
+1991,Kansas City Royals,"2,161,527","27,019",82.0,80.0
+1991,California Angels,"2,416,146","29,829",81.0,81.0
+1992,Montreal Expos,"1,731,566","21,645",87.0,75.0
+1992,Minnesota Twins,"2,482,188","30,644",90.0,72.0
+1992,Milwaukee Brewers,"1,857,351","23,511",92.0,70.0
+1992,New York Mets,"1,779,534","23,415",72.0,90.0
+1992,Kansas City Royals,"1,867,689","23,642",72.0,90.0
+1992,Houston Astros,"1,211,348","14,955",81.0,81.0
+1992,Detroit Tigers,"1,423,963","18,256",75.0,87.0
+1992,Cleveland Indians,"1,224,274","15,696",76.0,86.0
+1992,Cincinnati Reds,"2,315,946","28,949",90.0,72.0
+1992,Chicago White Sox,"2,681,156","33,101",86.0,76.0
+1992,Chicago Cubs,"2,126,720","26,584",78.0,84.0
+1992,Los Angeles Dodgers,"2,473,366","32,122",63.0,99.0
+1992,Boston Red Sox,"2,469,489","31,660",73.0,89.0
+1992,Baltimore Orioles,"3,569,534","44,619",89.0,73.0
+1992,Atlanta Braves,"3,077,400","38,468",98.0,64.0
+1992,Seattle Mariners,"1,651,367","20,387",64.0,98.0
+1992,St. Louis Cardinals,"2,418,483","30,231",83.0,79.0
+1992,Texas Rangers,"2,198,231","27,478",77.0,85.0
+1992,Toronto Blue Jays,"4,028,318","49,732",96.0,66.0
+1992,California Angels,"2,065,434","25,499",72.0,90.0
+1992,San Diego Padres,"1,721,406","21,252",82.0,80.0
+1992,San Francisco Giants,"1,561,218","19,762",72.0,90.0
+1992,Pittsburgh Pirates,"1,834,523","22,648",96.0,66.0
+1992,Philadelphia Phillies,"1,927,448","24,711",70.0,92.0
+1992,Oakland Athletics,"2,494,160","30,792",96.0,66.0
+1992,New York Yankees,"1,748,737","21,859",76.0,86.0
+1993,Chicago White Sox,"2,581,061","32,672",94.0,68.0
+1993,Atlanta Braves,"3,879,508","47,895",104.0,58.0
+1993,Chicago Cubs,"2,643,428","33,043",84.0,78.0
+1993,Boston Red Sox,"2,422,054","30,276",80.0,82.0
+1993,Baltimore Orioles,"3,643,768","45,547",85.0,77.0
+1993,Pittsburgh Pirates,"1,652,922","20,923",75.0,87.0
+1993,Philadelphia Phillies,"3,137,512","39,219",97.0,65.0
+1993,Oakland Athletics,"2,029,063","25,684",68.0,94.0
+1993,New York Yankees,"2,416,837","30,210",88.0,74.0
+1993,New York Mets,"1,873,115","23,710",59.0,103.0
+1993,Montreal Expos,"1,641,438","20,265",94.0,68.0
+1993,Minnesota Twins,"2,054,523","25,364",71.0,91.0
+1993,Milwaukee Brewers,"1,695,077","21,732",69.0,93.0
+1993,Los Angeles Dodgers,"3,164,720","39,071",81.0,81.0
+1993,Kansas City Royals,"1,941,889","24,274",84.0,78.0
+1993,Houston Astros,"2,081,506","25,698",85.0,77.0
+1993,Florida Marlins,"3,066,756","38,334",64.0,98.0
+1993,Detroit Tigers,"1,971,401","24,338",85.0,77.0
+1993,Colorado Rockies,"4,483,203","56,749",67.0,95.0
+1993,Cleveland Indians,"2,177,908","27,224",76.0,86.0
+1993,Cincinnati Reds,"2,454,428","31,069",73.0,89.0
+1993,St. Louis Cardinals,"2,840,533","35,068",87.0,75.0
+1993,California Angels,"2,063,049","25,470",71.0,91.0
+1993,Toronto Blue Jays,"4,057,747","50,096",95.0,67.0
+1993,Texas Rangers,"2,252,616","28,514",86.0,76.0
+1993,Seattle Mariners,"2,052,425","25,339",82.0,80.0
+1993,San Francisco Giants,"2,604,635","32,156",103.0,59.0
+1993,San Diego Padres,"1,375,432","17,193",61.0,101.0
+1994,Chicago White Sox,"1,697,448","32,027",,
+1994,Colorado Rockies,"3,281,464","58,598",53.0,64.0
+1994,Atlanta Braves,"2,534,240","46,930",68.0,46.0
+1994,Cincinnati Reds,"1,897,591","31,627",,
+1994,Cleveland Indians,"1,995,474","39,127",,
+1994,Detroit Tigers,"1,184,783","20,786",53.0,62.0
+1994,Chicago Cubs,"1,845,278","31,815",,
+1994,Boston Red Sox,"1,775,541","29,107",54.0,61.0
+1994,Baltimore Orioles,"2,535,359","46,951",63.0,49.0
+1994,St. Louis Cardinals,"1,839,098","34,057",,
+1994,Seattle Mariners,"1,102,288","25,052",49.0,63.0
+1994,San Francisco Giants,"1,704,317","28,887",55.0,60.0
+1994,San Diego Padres,"953,886","16,735",47.0,70.0
+1994,Pittsburgh Pirates,"1,222,579","20,376",,
+1994,Philadelphia Phillies,"2,289,963","39,482",54.0,61.0
+1994,Oakland Athletics,"1,240,920","22,159",51.0,63.0
+1994,New York Yankees,"1,681,507","29,500",70.0,43.0
+1994,New York Mets,"1,152,161","22,157",55.0,58.0
+1994,Montreal Expos,"1,276,250","24,543",74.0,40.0
+1994,Minnesota Twins,"1,398,565","23,704",,
+1994,Milwaukee Brewers,"1,268,398","22,650",,
+1994,Los Angeles Dodgers,"2,280,140","41,457",58.0,56.0
+1994,California Angels,"1,512,622","24,010",47.0,68.0
+1994,Florida Marlins,"1,942,377","32,922",51.0,64.0
+1994,Texas Rangers,"2,502,662","40,366",52.0,62.0
+1994,Toronto Blue Jays,"2,907,949","49,287",55.0,60.0
+1994,Houston Astros,"1,560,970","26,457",,
+1994,Kansas City Royals,"1,400,581","24,572",,
+1995,Milwaukee Brewers,"1,088,220","15,327",65.0,79.0
+1995,New York Mets,"1,273,186","17,932",69.0,75.0
+1995,Seattle Mariners,"1,640,379","22,471",79.0,66.0
+1995,St. Louis Cardinals,"1,756,061","24,390",62.0,81.0
+1995,Oakland Athletics,"1,174,441","16,541",67.0,77.0
+1995,New York Yankees,"1,709,199","24,417",79.0,65.0
+1995,Pittsburgh Pirates,"911,536","13,022",58.0,86.0
+1995,San Diego Padres,"1,052,995","14,831",70.0,74.0
+1995,San Francisco Giants,"1,231,591","17,105",67.0,77.0
+1995,Philadelphia Phillies,"2,048,588","28,853",69.0,75.0
+1995,Detroit Tigers,"1,180,979","16,634",60.0,84.0
+1995,Florida Marlins,"1,697,414","24,249",67.0,76.0
+1995,Houston Astros,"1,392,683","19,615",76.0,68.0
+1995,Chicago Cubs,"1,917,546","27,008",73.0,71.0
+1995,Chicago White Sox,"1,609,775","22,673",68.0,76.0
+1995,Cincinnati Reds,"1,830,015","25,775",85.0,59.0
+1995,Cleveland Indians,"2,842,722","40,038",100.0,44.0
+1995,Colorado Rockies,"3,402,209","47,253",77.0,67.0
+1995,Los Angeles Dodgers,"2,766,628","38,425",78.0,66.0
+1995,Kansas City Royals,"1,237,203","17,674",70.0,74.0
+1995,Toronto Blue Jays,"2,826,445","39,256",56.0,88.0
+1995,Texas Rangers,"1,985,910","27,582",74.0,70.0
+1995,California Angels,"1,748,797","24,289",78.0,67.0
+1995,Boston Red Sox,"2,164,401","30,061",86.0,58.0
+1995,Baltimore Orioles,"3,101,759","43,080",71.0,73.0
+1995,Atlanta Braves,"2,564,492","35,618",90.0,54.0
+1995,Montreal Expos,"1,308,618","18,175",66.0,78.0
+1995,Minnesota Twins,"1,057,668","14,690",56.0,88.0
+1996,Atlanta Braves,"2,898,806","35,788",96.0,66.0
+1996,Pittsburgh Pirates,"1,322,079","16,950",73.0,89.0
+1996,St. Louis Cardinals,"2,645,824","32,664",88.0,74.0
+1996,Texas Rangers,"2,889,040","36,113",90.0,72.0
+1996,Philadelphia Phillies,"1,796,354","23,030",67.0,95.0
+1996,Oakland Athletics,"1,187,348","14,842",78.0,84.0
+1996,New York Yankees,"2,255,051","28,911",92.0,70.0
+1996,Houston Astros,"1,977,715","24,416",82.0,80.0
+1996,Kansas City Royals,"1,436,006","17,950",75.0,86.0
+1996,New York Mets,"1,582,648","20,290",71.0,91.0
+1996,Montreal Expos,"1,618,571","19,982",88.0,74.0
+1996,Minnesota Twins,"1,437,446","17,968",78.0,84.0
+1996,Milwaukee Brewers,"1,327,150","17,015",80.0,82.0
+1996,Los Angeles Dodgers,"3,188,454","39,364",90.0,72.0
+1996,Chicago Cubs,"2,219,110","28,450",76.0,86.0
+1996,Boston Red Sox,"2,315,349","28,585",85.0,77.0
+1996,Baltimore Orioles,"3,654,764","45,121",88.0,74.0
+1996,Seattle Mariners,"2,721,073","33,593",85.0,76.0
+1996,Colorado Rockies,"3,906,328","48,226",83.0,79.0
+1996,Cleveland Indians,"3,320,078","42,026",99.0,62.0
+1996,Toronto Blue Jays,"2,559,910","31,604",74.0,88.0
+1996,California Angels,"1,820,183","22,471",70.0,91.0
+1996,San Diego Padres,"2,207,918","27,258",91.0,71.0
+1996,San Francisco Giants,"1,418,722","17,734",68.0,94.0
+1996,Florida Marlins,"1,753,706","21,921",80.0,82.0
+1996,Detroit Tigers,"1,168,610","14,427",53.0,109.0
+1996,Cincinnati Reds,"1,871,459","24,624",81.0,81.0
+1996,Chicago White Sox,"1,666,025","21,089",85.0,77.0
+1997,Anaheim Angels,"1,774,702","21,910",84.0,78.0
+1997,Baltimore Orioles,"3,692,388","46,155",98.0,64.0
+1997,Pittsburgh Pirates,"1,694,633","21,183",79.0,83.0
+1997,San Diego Padres,"2,089,333","26,117",76.0,86.0
+1997,Chicago White Sox,"1,865,052","23,911",80.0,81.0
+1997,Toronto Blue Jays,"2,589,317","31,967",76.0,86.0
+1997,Texas Rangers,"2,923,590","36,545",77.0,85.0
+1997,St. Louis Cardinals,"2,654,568","32,772",73.0,89.0
+1997,Seattle Mariners,"3,197,054","39,470",90.0,72.0
+1997,San Francisco Giants,"1,696,583","21,207",90.0,72.0
+1997,Cincinnati Reds,"1,790,058","22,376",76.0,86.0
+1997,Cleveland Indians,"3,394,750","42,434",86.0,75.0
+1997,Los Angeles Dodgers,"3,319,320","40,979",88.0,74.0
+1997,Kansas City Royals,"1,526,638","19,826",67.0,94.0
+1997,Houston Astros,"2,046,275","25,263",84.0,78.0
+1997,Florida Marlins,"2,352,567","29,407",92.0,70.0
+1997,Detroit Tigers,"1,395,413","17,663",79.0,83.0
+1997,Colorado Rockies,"3,893,433","48,067",83.0,79.0
+1997,Montreal Expos,"1,507,166","18,607",78.0,84.0
+1997,New York Mets,"1,775,201","22,759",88.0,74.0
+1997,New York Yankees,"2,581,043","33,090",96.0,66.0
+1997,Oakland Athletics,"1,260,565","15,957",65.0,97.0
+1997,Philadelphia Phillies,"1,490,542","19,358",68.0,94.0
+1997,Minnesota Twins,"1,413,064","17,445",68.0,94.0
+1997,Milwaukee Brewers,"1,450,029","18,590",78.0,83.0
+1997,Boston Red Sox,"2,223,602","27,795",78.0,84.0
+1997,Chicago Cubs,"2,189,948","27,721",68.0,94.0
+1997,Atlanta Braves,"3,447,608","42,563",101.0,61.0
+1998,Oakland Athletics,"1,232,363","15,600",74.0,88.0
+1998,Philadelphia Phillies,"1,715,702","21,718",75.0,87.0
+1998,Pittsburgh Pirates,"1,560,950","19,512",69.0,93.0
+1998,San Diego Padres,"2,555,964","32,354",98.0,64.0
+1998,San Francisco Giants,"1,925,634","24,070",89.0,74.0
+1998,Anaheim Angels,"2,519,280","31,102",85.0,77.0
+1998,Arizona Diamondbacks,"3,604,237","44,497",65.0,97.0
+1998,Atlanta Braves,"3,361,350","41,498",106.0,56.0
+1998,Baltimore Orioles,"3,684,560","45,488",79.0,83.0
+1998,St. Louis Cardinals,"3,195,651","39,946",83.0,79.0
+1998,Seattle Mariners,"2,651,511","32,735",76.0,85.0
+1998,Tampa Bay Devil Rays,"2,425,759","29,948",63.0,99.0
+1998,Texas Rangers,"2,927,409","36,141",88.0,74.0
+1998,Toronto Blue Jays,"2,454,303","30,300",88.0,74.0
+1998,Cincinnati Reds,"1,793,676","22,144",77.0,85.0
+1998,Boston Red Sox,"2,343,930","29,299",92.0,70.0
+1998,Colorado Rockies,"3,791,276","46,806",77.0,85.0
+1998,Houston Astros,"2,450,451","30,631",102.0,60.0
+1998,Florida Marlins,"1,750,395","22,157",54.0,108.0
+1998,Detroit Tigers,"1,409,391","17,840",65.0,97.0
+1998,Kansas City Royals,"1,494,875","18,922",72.0,89.0
+1998,Minnesota Twins,"1,165,980","14,395",70.0,92.0
+1998,Milwaukee Brewers,"1,811,548","22,931",74.0,88.0
+1998,Los Angeles Dodgers,"3,089,222","38,139",83.0,79.0
+1998,New York Mets,"2,287,942","29,714",88.0,74.0
+1998,New York Yankees,"2,949,734","36,872",114.0,48.0
+1998,Montreal Expos,"914,909","11,295",65.0,97.0
+1998,Cleveland Indians,"3,467,299","42,806",89.0,73.0
+1998,Chicago Cubs,"2,623,000","32,788",90.0,73.0
+1998,Chicago White Sox,"1,391,146","17,609",80.0,82.0
+1999,Cleveland Indians,"3,468,436","42,820",97.0,65.0
+1999,Chicago White Sox,"1,338,851","17,616",75.0,86.0
+1999,Philadelphia Phillies,"1,825,337","22,817",77.0,85.0
+1999,Texas Rangers,"2,774,501","34,681",95.0,67.0
+1999,Tampa Bay Devil Rays,"1,562,967","19,296",69.0,93.0
+1999,Toronto Blue Jays,"2,163,486","26,710",84.0,78.0
+1999,New York Yankees,"3,293,259","40,658",98.0,64.0
+1999,New York Mets,"2,726,008","34,506",97.0,66.0
+1999,Oakland Athletics,"1,434,632","17,712",87.0,75.0
+1999,Boston Red Sox,"2,446,277","30,201",94.0,68.0
+1999,Chicago Cubs,"2,813,854","36,075",67.0,95.0
+1999,Houston Astros,"2,706,017","33,408",97.0,65.0
+1999,Florida Marlins,"1,369,420","17,557",64.0,98.0
+1999,Pittsburgh Pirates,"1,638,023","20,475",78.0,83.0
+1999,Seattle Mariners,"2,915,908","35,999",79.0,83.0
+1999,St. Louis Cardinals,"3,235,833","40,960",75.0,86.0
+1999,San Francisco Giants,"2,078,365","25,659",86.0,76.0
+1999,San Diego Padres,"2,523,538","31,155",74.0,88.0
+1999,Colorado Rockies,"3,481,065","42,976",72.0,90.0
+1999,Detroit Tigers,"2,026,491","25,018",69.0,92.0
+1999,Cincinnati Reds,"2,061,324","25,138",96.0,67.0
+1999,Anaheim Angels,"2,253,040","27,815",70.0,92.0
+1999,Arizona Diamondbacks,"3,015,948","37,234",100.0,62.0
+1999,Atlanta Braves,"3,284,901","40,554",103.0,59.0
+1999,Baltimore Orioles,"3,432,099","42,901",78.0,84.0
+1999,Kansas City Royals,"1,501,292","19,247",64.0,97.0
+1999,Minnesota Twins,"1,202,829","14,850",63.0,97.0
+1999,Milwaukee Brewers,"1,701,790","21,818",74.0,87.0
+1999,Los Angeles Dodgers,"3,098,990","38,259",77.0,85.0
+1999,Montreal Expos,"772,737","9,540",68.0,94.0
+2000,Florida Marlins,"1,218,326","15,229",79.0,82.0
+2000,Houston Astros,"3,056,139","37,730",72.0,90.0
+2000,Colorado Rockies,"3,295,129","40,681",82.0,80.0
+2000,Cleveland Indians,"3,456,278","42,670",90.0,72.0
+2000,San Francisco Giants,"3,315,330","40,930",97.0,65.0
+2000,Texas Rangers,"2,800,075","35,001",71.0,91.0
+2000,Seattle Mariners,"3,148,317","38,868",91.0,71.0
+2000,St. Louis Cardinals,"3,336,493","41,191",95.0,67.0
+2000,Detroit Tigers,"2,533,753","31,281",79.0,83.0
+2000,Kansas City Royals,"1,677,915","20,715",77.0,85.0
+2000,Los Angeles Dodgers,"3,011,539","37,179",86.0,76.0
+2000,Cincinnati Reds,"2,594,132","31,636",85.0,77.0
+2000,Chicago White Sox,"1,971,446","24,339",95.0,67.0
+2000,Chicago Cubs,"2,789,511","34,869",65.0,97.0
+2000,Boston Red Sox,"2,585,895","31,925",85.0,77.0
+2000,Baltimore Orioles,"3,297,031","40,704",74.0,88.0
+2000,Atlanta Braves,"3,234,304","39,930",95.0,67.0
+2000,Arizona Diamondbacks,"2,942,251","36,324",85.0,77.0
+2000,Anaheim Angels,"2,066,982","25,518",82.0,80.0
+2000,Tampa Bay Devil Rays,"1,549,592","19,370",69.0,92.0
+2000,San Diego Padres,"2,423,142","29,915",76.0,86.0
+2000,Toronto Blue Jays,"1,819,919","22,468",83.0,79.0
+2000,Philadelphia Phillies,"1,612,769","20,160",65.0,97.0
+2000,New York Mets,"2,820,530","36,161",94.0,68.0
+2000,New York Yankees,"3,227,657","40,346",87.0,74.0
+2000,Milwaukee Brewers,"1,573,621","19,919",73.0,89.0
+2000,Montreal Expos,"926,272","11,435",67.0,95.0
+2000,Minnesota Twins,"1,059,415","13,079",69.0,93.0
+2000,Pittsburgh Pirates,"1,748,908","22,138",69.0,93.0
+2000,Oakland Athletics,"1,728,885","21,344",91.0,70.0
+2001,Kansas City Royals,"1,536,101","18,964",65.0,97.0
+2001,Houston Astros,"2,906,277","35,880",93.0,69.0
+2001,Detroit Tigers,"1,920,995","24,012",66.0,96.0
+2001,Los Angeles Dodgers,"3,017,143","37,249",86.0,76.0
+2001,Florida Marlins,"1,261,216","15,765",76.0,86.0
+2001,Tampa Bay Devil Rays,"1,227,383","15,153",62.0,100.0
+2001,Chicago White Sox,"1,766,172","22,077",83.0,79.0
+2001,Chicago Cubs,"2,779,465","35,183",88.0,74.0
+2001,Boston Red Sox,"2,625,333","32,412",82.0,79.0
+2001,Baltimore Orioles,"3,094,841","38,686",63.0,98.0
+2001,Atlanta Braves,"2,823,494","34,858",88.0,74.0
+2001,Arizona Diamondbacks,"2,735,821","33,776",92.0,70.0
+2001,Anaheim Angels,"1,998,319","24,671",75.0,87.0
+2001,Seattle Mariners,"3,512,326","43,362",116.0,46.0
+2001,Philadelphia Phillies,"1,792,054","22,975",86.0,76.0
+2001,San Francisco Giants,"3,311,000","40,877",90.0,72.0
+2001,San Diego Padres,"2,378,148","29,727",79.0,83.0
+2001,Pittsburgh Pirates,"2,435,868","30,834",62.0,100.0
+2001,New York Yankees,"3,264,847","40,811",95.0,65.0
+2001,Oakland Athletics,"2,133,477","26,339",102.0,60.0
+2001,New York Mets,"2,658,330","32,819",82.0,80.0
+2001,Montreal Expos,"642,743","7,935",68.0,94.0
+2001,Texas Rangers,"2,831,111","34,952",73.0,89.0
+2001,Minnesota Twins,"1,782,926","22,287",85.0,77.0
+2001,Milwaukee Brewers,"2,811,040","34,704",68.0,94.0
+2001,Toronto Blue Jays,"1,915,127","23,644",80.0,82.0
+2001,St. Louis Cardinals,"3,109,578","38,390",93.0,69.0
+2001,Cincinnati Reds,"1,879,757","23,794",66.0,96.0
+2001,Cleveland Indians,"3,182,523","39,782",91.0,71.0
+2001,Colorado Rockies,"3,168,579","39,118",73.0,89.0
+2002,Milwaukee Brewers,"1,969,153","24,311",56.0,106.0
+2002,Los Angeles Dodgers,"3,131,255","38,657",92.0,70.0
+2002,Kansas City Royals,"1,323,036","17,182",62.0,100.0
+2002,Houston Astros,"2,512,357","31,017",84.0,78.0
+2002,Minnesota Twins,"1,924,354","23,757",94.0,67.0
+2002,Chicago White Sox,"1,675,591","20,686",81.0,81.0
+2002,Texas Rangers,"2,352,397","29,405",72.0,90.0
+2002,Toronto Blue Jays,"1,638,170","20,224",78.0,84.0
+2002,Detroit Tigers,"1,503,353","18,792",55.0,106.0
+2002,Florida Marlins,"813,127","10,039",79.0,83.0
+2002,Cleveland Indians,"2,621,940","32,370",74.0,88.0
+2002,Colorado Rockies,"2,740,614","33,835",73.0,89.0
+2002,Cincinnati Reds,"1,855,775","23,197",78.0,84.0
+2002,Baltimore Orioles,"2,681,439","33,104",67.0,95.0
+2002,Boston Red Sox,"2,650,859","32,727",93.0,69.0
+2002,Chicago Cubs,"2,694,946","34,551",67.0,95.0
+2002,Philadelphia Phillies,"1,618,467","20,487",80.0,81.0
+2002,Oakland Athletics,"2,169,816","26,788",103.0,59.0
+2002,New York Yankees,"3,465,807","43,323",103.0,58.0
+2002,New York Mets,"2,804,838","35,959",75.0,86.0
+2002,Montreal Expos,"812,537","10,031",83.0,79.0
+2002,Seattle Mariners,"3,539,938","43,703",93.0,69.0
+2002,Pittsburgh Pirates,"1,784,970","22,595",72.0,89.0
+2002,San Diego Padres,"2,221,230","27,423",66.0,96.0
+2002,St. Louis Cardinals,"3,011,756","37,182",97.0,65.0
+2002,Tampa Bay Devil Rays,"1,065,742","13,157",55.0,106.0
+2002,San Francisco Giants,"3,253,203","40,163",95.0,66.0
+2002,Arizona Diamondbacks,"3,198,975","39,494",98.0,64.0
+2002,Atlanta Braves,"2,603,484","32,142",101.0,59.0
+2002,Anaheim Angels,"2,305,467","28,463",99.0,63.0
+2003,Montreal Expos,"1,025,639","12,662",83.0,79.0
+2003,New York Mets,"2,168,832","28,167",66.0,95.0
+2003,Colorado Rockies,"2,334,175","28,817",74.0,88.0
+2003,Cleveland Indians,"1,727,001","21,321",68.0,94.0
+2003,Florida Marlins,"1,303,214","16,290",91.0,71.0
+2003,Houston Astros,"2,455,241","30,312",87.0,75.0
+2003,Kansas City Royals,"1,779,895","22,819",83.0,79.0
+2003,Detroit Tigers,"1,368,245","17,103",43.0,119.0
+2003,Arizona Diamondbacks,"2,805,542","34,636",84.0,78.0
+2003,Atlanta Braves,"2,401,084","30,393",101.0,61.0
+2003,Anaheim Angels,"3,061,094","37,791",77.0,85.0
+2003,Milwaukee Brewers,"1,700,354","20,992",68.0,94.0
+2003,Los Angeles Dodgers,"3,138,696","38,749",85.0,77.0
+2003,Baltimore Orioles,"2,454,523","30,303",71.0,91.0
+2003,Boston Red Sox,"2,724,165","33,632",95.0,67.0
+2003,Chicago Cubs,"2,962,630","37,033",88.0,74.0
+2003,Chicago White Sox,"1,939,594","23,946",86.0,76.0
+2003,Cincinnati Reds,"2,355,259","29,077",69.0,93.0
+2003,San Diego Padres,"2,030,084","25,063",64.0,98.0
+2003,Pittsburgh Pirates,"1,636,751","20,984",75.0,87.0
+2003,Philadelphia Phillies,"2,259,948","28,974",86.0,76.0
+2003,Oakland Athletics,"2,216,596","27,365",96.0,66.0
+2003,New York Yankees,"3,460,600","42,723",101.0,61.0
+2003,Tampa Bay Devil Rays,"1,058,695","13,070",63.0,99.0
+2003,San Francisco Giants,"3,264,898","40,307",100.0,61.0
+2003,Seattle Mariners,"3,267,509","40,340",93.0,69.0
+2003,Texas Rangers,"2,094,394","25,857",71.0,91.0
+2003,Toronto Blue Jays,"1,799,818","22,220",86.0,76.0
+2003,St. Louis Cardinals,"2,910,386","35,931",85.0,77.0
+2003,Minnesota Twins,"1,946,011","24,025",90.0,72.0
+2004,Anaheim Angels,"3,375,677","41,675",92.0,70.0
+2004,Arizona Diamondbacks,"2,519,560","31,106",51.0,111.0
+2004,Boston Red Sox,"2,837,304","35,028",98.0,64.0
+2004,Baltimore Orioles,"2,744,013","34,300",78.0,84.0
+2004,Pittsburgh Pirates,"1,583,031","21,107",72.0,89.0
+2004,Seattle Mariners,"2,940,731","36,305",63.0,99.0
+2004,San Francisco Giants,"3,256,854","40,208",91.0,71.0
+2004,Philadelphia Phillies,"3,250,092","40,626",86.0,76.0
+2004,Milwaukee Brewers,"2,062,382","25,462",67.0,94.0
+2004,Houston Astros,"3,087,872","38,122",92.0,70.0
+2004,San Diego Padres,"3,016,752","37,244",87.0,75.0
+2004,Toronto Blue Jays,"1,900,041","23,457",67.0,94.0
+2004,St. Louis Cardinals,"3,048,427","37,635",105.0,57.0
+2004,Tampa Bay Devil Rays,"1,274,911","16,138",70.0,91.0
+2004,Texas Rangers,"2,513,685","31,819",89.0,73.0
+2004,Minnesota Twins,"1,911,490","23,599",92.0,70.0
+2004,Oakland Athletics,"2,201,516","27,179",91.0,71.0
+2004,Montreal Expos,"748,550","9,357",67.0,95.0
+2004,New York Yankees,"3,775,292","47,789",101.0,61.0
+2004,New York Mets,"2,318,321","28,979",71.0,91.0
+2004,Florida Marlins,"1,723,105","22,091",83.0,79.0
+2004,Detroit Tigers,"1,917,004","23,963",72.0,90.0
+2004,Kansas City Royals,"1,661,478","21,031",58.0,104.0
+2004,Los Angeles Dodgers,"3,488,283","43,065",93.0,69.0
+2004,Chicago White Sox,"1,930,537","24,437",83.0,79.0
+2004,Cincinnati Reds,"2,287,250","28,238",76.0,86.0
+2004,Cleveland Indians,"1,814,401","22,400",80.0,82.0
+2004,Colorado Rockies,"2,338,069","29,596",68.0,94.0
+2004,Chicago Cubs,"3,170,154","39,138",89.0,73.0
+2004,Atlanta Braves,"2,322,565","29,400",96.0,66.0
+2005,San Diego Padres,"2,869,787","35,429",82.0,80.0
+2005,Chicago Cubs,"3,100,092","38,751",79.0,83.0
+2005,Oakland Athletics,"2,108,818","26,035",88.0,74.0
+2005,Philadelphia Phillies,"2,665,291","33,316",88.0,74.0
+2005,Boston Red Sox,"2,847,798","35,158",95.0,67.0
+2005,Cincinnati Reds,"1,943,166","23,990",73.0,89.0
+2005,Los Angeles Dodgers,"3,603,680","44,490",71.0,91.0
+2005,Kansas City Royals,"1,371,181","17,357",56.0,106.0
+2005,Minnesota Twins,"2,034,243","25,114",83.0,79.0
+2005,New York Mets,"2,829,930","35,374",83.0,79.0
+2005,New York Yankees,"4,090,440","50,499",95.0,67.0
+2005,Milwaukee Brewers,"2,211,023","27,297",81.0,81.0
+2005,Arizona Diamondbacks,"2,059,331","25,424",77.0,85.0
+2005,Atlanta Braves,"2,521,534","31,519",90.0,72.0
+2005,San Francisco Giants,"3,181,020","39,272",75.0,87.0
+2005,Chicago White Sox,"2,342,834","28,924",99.0,63.0
+2005,Pittsburgh Pirates,"1,817,245","23,003",67.0,95.0
+2005,Cleveland Indians,"2,014,220","24,867",93.0,69.0
+2005,Florida Marlins,"1,852,602","22,872",83.0,79.0
+2005,Detroit Tigers,"2,024,505","25,306",71.0,91.0
+2005,Houston Astros,"2,804,760","34,627",89.0,73.0
+2005,Baltimore Orioles,"2,624,804","32,405",74.0,88.0
+2005,Colorado Rockies,"1,914,389","23,930",67.0,95.0
+2005,Washington Nationals,"2,730,352","33,708",81.0,81.0
+2005,Los Angeles Angels of Anaheim,"3,404,636","42,033",95.0,67.0
+2005,Toronto Blue Jays,"2,014,995","24,876",80.0,82.0
+2005,St. Louis Cardinals,"3,542,271","43,732",100.0,62.0
+2005,Seattle Mariners,"2,724,859","33,640",69.0,93.0
+2005,Tampa Bay Devil Rays,"1,141,915","14,098",67.0,95.0
+2005,Texas Rangers,"2,525,259","31,566",79.0,83.0
+2006,Oakland Athletics,"1,976,625","24,403",93.0,69.0
+2006,New York Yankees,"4,247,980","52,444",97.0,65.0
+2006,Philadelphia Phillies,"2,701,815","34,200",85.0,77.0
+2006,Kansas City Royals,"1,372,684","17,159",62.0,100.0
+2006,Los Angeles Dodgers,"3,758,421","46,400",88.0,74.0
+2006,Milwaukee Brewers,"2,335,643","28,835",75.0,87.0
+2006,Detroit Tigers,"2,595,937","32,049",95.0,67.0
+2006,Houston Astros,"3,022,763","37,318",82.0,80.0
+2006,Pittsburgh Pirates,"1,861,549","23,269",67.0,95.0
+2006,San Diego Padres,"2,659,732","32,836",88.0,74.0
+2006,Seattle Mariners,"2,480,717","30,626",78.0,84.0
+2006,San Francisco Giants,"3,130,304","38,646",76.0,85.0
+2006,St. Louis Cardinals,"3,407,104","42,589",83.0,78.0
+2006,Cleveland Indians,"1,998,070","24,668",78.0,84.0
+2006,Chicago White Sox,"2,957,414","36,511",90.0,72.0
+2006,Chicago Cubs,"3,123,215","39,040",66.0,96.0
+2006,Cincinnati Reds,"2,134,472","26,352",80.0,82.0
+2006,Colorado Rockies,"2,104,560","25,982",76.0,86.0
+2006,Florida Marlins,"1,165,120","14,384",78.0,84.0
+2006,Minnesota Twins,"2,285,018","28,210",96.0,66.0
+2006,New York Mets,"3,372,045","43,231",97.0,65.0
+2006,Washington Nationals,"2,153,080","26,581",71.0,91.0
+2006,Toronto Blue Jays,"2,302,182","28,422",87.0,75.0
+2006,Los Angeles Angels,"3,406,790","42,059",,
+2006,Atlanta Braves,"2,549,524","31,869",79.0,83.0
+2006,Arizona Diamondbacks,"2,091,005","25,815",76.0,86.0
+2006,Boston Red Sox,"2,930,768","36,182",86.0,76.0
+2006,Baltimore Orioles,"2,153,150","26,582",70.0,92.0
+2006,Tampa Bay Devil Rays,"1,369,031","16,902",61.0,101.0
+2006,Texas Rangers,"2,388,757","29,491",80.0,82.0
+2007,Arizona Diamondbacks,"2,316,507","28,599",90.0,72.0
+2007,Atlanta Braves,"2,745,303","33,893",84.0,78.0
+2007,Baltimore Orioles,"2,172,487","27,156",69.0,93.0
+2007,Boston Red Sox,"2,970,755","36,676",96.0,66.0
+2007,Chicago Cubs,"3,252,462","40,154",85.0,77.0
+2007,Chicago White Sox,"2,684,395","33,141",72.0,90.0
+2007,Cincinnati Reds,"2,058,593","25,415",72.0,90.0
+2007,Cleveland Indians,"2,275,911","28,449",96.0,66.0
+2007,St. Louis Cardinals,"3,552,180","43,854",78.0,84.0
+2007,Tampa Bay Devil Rays,"1,389,106","17,149",66.0,96.0
+2007,Texas Rangers,"2,353,862","29,796",75.0,87.0
+2007,Toronto Blue Jays,"2,360,648","29,144",83.0,79.0
+2007,Washington Nationals,"1,961,579","24,217",73.0,89.0
+2007,Los Angeles Angels,"3,365,632","41,551",,
+2007,Detroit Tigers,"3,047,124","37,619",88.0,74.0
+2007,Colorado Rockies,"2,376,250","28,979",90.0,73.0
+2007,Seattle Mariners,"2,672,409","32,993",88.0,74.0
+2007,San Francisco Giants,"3,223,202","39,793",71.0,91.0
+2007,San Diego Padres,"2,790,074","34,445",89.0,74.0
+2007,Pittsburgh Pirates,"1,749,142","22,141",68.0,94.0
+2007,Philadelphia Phillies,"3,108,330","38,374",89.0,73.0
+2007,Oakland Athletics,"1,921,844","23,726",76.0,86.0
+2007,New York Yankees,"4,271,867","52,739",94.0,68.0
+2007,New York Mets,"3,853,955","47,580",88.0,74.0
+2007,Minnesota Twins,"2,296,383","28,350",79.0,83.0
+2007,Milwaukee Brewers,"2,869,144","35,422",83.0,79.0
+2007,Los Angeles Dodgers,"3,856,753","47,614",82.0,80.0
+2007,Kansas City Royals,"1,616,867","19,961",69.0,93.0
+2007,Houston Astros,"3,020,405","37,289",73.0,89.0
+2007,Florida Marlins,"1,370,511","16,920",71.0,91.0
+2008,Arizona Diamondbacks,"2,509,924","30,987",82.0,80.0
+2008,Atlanta Braves,"2,532,834","31,270",72.0,90.0
+2008,Oakland Athletics,"1,665,262","20,559",75.0,86.0
+2008,Philadelphia Phillies,"3,422,583","42,254",92.0,70.0
+2008,Pittsburgh Pirates,"1,609,076","20,113",67.0,95.0
+2008,San Diego Padres,"2,427,535","29,970",63.0,99.0
+2008,San Francisco Giants,"2,863,837","35,356",72.0,90.0
+2008,Seattle Mariners,"2,329,702","28,762",61.0,101.0
+2008,St. Louis Cardinals,"3,430,403","42,351",86.0,76.0
+2008,Tampa Bay Rays,"1,811,986","22,370",97.0,65.0
+2008,Texas Rangers,"1,945,677","24,321",79.0,83.0
+2008,Toronto Blue Jays,"2,399,786","29,627",86.0,76.0
+2008,Washington Nationals,"2,320,400","29,005",59.0,102.0
+2008,Los Angeles Angels,"3,336,747","41,194",,
+2008,Milwaukee Brewers,"3,068,908","37,888",90.0,72.0
+2008,Minnesota Twins,"2,302,431","28,425",88.0,75.0
+2008,New York Mets,"4,042,047","51,165",89.0,73.0
+2008,New York Yankees,"4,298,655","53,070",89.0,73.0
+2008,Baltimore Orioles,"1,950,075","25,001",68.0,93.0
+2008,Boston Red Sox,"3,048,250","37,633",95.0,67.0
+2008,Chicago Cubs,"3,299,840","40,739",97.0,64.0
+2008,Chicago White Sox,"2,501,103","30,878",89.0,74.0
+2008,Cincinnati Reds,"2,058,632","25,415",74.0,88.0
+2008,Cleveland Indians,"2,169,760","27,122",81.0,81.0
+2008,Colorado Rockies,"2,650,218","33,128",74.0,88.0
+2008,Detroit Tigers,"3,202,654","39,539",74.0,88.0
+2008,Florida Marlins,"1,335,076","16,688",84.0,77.0
+2008,Houston Astros,"2,779,487","34,744",86.0,75.0
+2008,Kansas City Royals,"1,578,922","19,986",75.0,87.0
+2008,Los Angeles Dodgers,"3,730,553","46,056",84.0,78.0
+2009,Arizona Diamondbacks,"2,129,183","26,286",70.0,92.0
+2009,Atlanta Braves,"2,373,631","29,304",86.0,76.0
+2009,Baltimore Orioles,"1,907,163","23,545",64.0,98.0
+2009,Boston Red Sox,"3,062,699","37,811",95.0,67.0
+2009,Pittsburgh Pirates,"1,577,853","19,480",62.0,99.0
+2009,San Diego Padres,"1,922,603","23,736",75.0,87.0
+2009,San Francisco Giants,"2,861,111","35,322",88.0,74.0
+2009,Seattle Mariners,"2,195,128","27,100",85.0,77.0
+2009,St. Louis Cardinals,"3,343,252","41,275",91.0,71.0
+2009,Tampa Bay Rays,"1,874,962","23,148",84.0,78.0
+2009,Texas Rangers,"2,156,016","27,641",87.0,75.0
+2009,Toronto Blue Jays,"1,876,129","23,162",75.0,87.0
+2009,Washington Nationals,"1,817,280","22,716",59.0,103.0
+2009,Los Angeles Angels,"3,240,386","40,005",,
+2009,Milwaukee Brewers,"3,037,451","37,499",80.0,82.0
+2009,Minnesota Twins,"2,416,237","29,466",87.0,76.0
+2009,New York Mets,"3,154,270","38,942",70.0,92.0
+2009,New York Yankees,"3,719,358","45,918",103.0,59.0
+2009,Oakland Athletics,"1,408,783","17,392",75.0,87.0
+2009,Philadelphia Phillies,"3,600,693","44,453",93.0,69.0
+2009,Chicago Cubs,"3,168,859","39,611",83.0,78.0
+2009,Chicago White Sox,"2,284,163","28,552",79.0,83.0
+2009,Cincinnati Reds,"1,747,919","21,579",78.0,84.0
+2009,Cleveland Indians,"1,766,242","22,357",65.0,97.0
+2009,Colorado Rockies,"2,665,080","32,902",92.0,70.0
+2009,Detroit Tigers,"2,567,192","31,694",86.0,77.0
+2009,Florida Marlins,"1,464,109","18,771",87.0,75.0
+2009,Houston Astros,"2,521,081","31,124",74.0,88.0
+2009,Kansas City Royals,"1,799,686","22,496",65.0,97.0
+2009,Los Angeles Dodgers,"3,761,669","46,440",95.0,67.0
+2010,Arizona Diamondbacks,"2,057,224","25,398",65.0,97.0
+2010,Atlanta Braves,"2,510,121","30,989",91.0,71.0
+2010,Baltimore Orioles,"1,733,019","21,663",66.0,96.0
+2010,Boston Red Sox,"3,046,445","37,610",89.0,73.0
+2010,Chicago Cubs,"3,062,973","37,814",75.0,87.0
+2010,Chicago White Sox,"2,194,378","27,091",88.0,74.0
+2010,San Francisco Giants,"3,037,267","37,497",92.0,70.0
+2010,Seattle Mariners,"2,085,168","25,743",61.0,101.0
+2010,St. Louis Cardinals,"3,301,218","40,756",86.0,76.0
+2010,Tampa Bay Rays,"1,865,002","23,025",96.0,66.0
+2010,Texas Rangers,"2,505,171","30,928",90.0,72.0
+2010,Toronto Blue Jays,"1,625,555","20,069",85.0,77.0
+2010,Washington Nationals,"1,828,065","22,569",69.0,93.0
+2010,Los Angeles Angels,"3,250,754","40,133",,
+2010,Milwaukee Brewers,"2,776,531","34,278",77.0,85.0
+2010,Minnesota Twins,"3,223,640","39,798",94.0,68.0
+2010,New York Mets,"2,573,077","32,571",79.0,83.0
+2010,New York Yankees,"3,765,807","46,491",95.0,67.0
+2010,Oakland Athletics,"1,418,391","17,511",81.0,81.0
+2010,Philadelphia Phillies,"3,647,249","45,028",97.0,65.0
+2010,Pittsburgh Pirates,"1,613,399","19,919",57.0,105.0
+2010,San Diego Padres,"2,131,774","26,318",90.0,72.0
+2010,Cincinnati Reds,"2,060,550","25,439",91.0,71.0
+2010,Cleveland Indians,"1,391,644","17,396",69.0,93.0
+2010,Colorado Rockies,"2,875,245","35,941",83.0,79.0
+2010,Detroit Tigers,"2,461,237","30,386",81.0,81.0
+2010,Florida Marlins,"1,524,894","18,826",80.0,82.0
+2010,Houston Astros,"2,331,490","28,784",76.0,86.0
+2010,Kansas City Royals,"1,615,326","20,192",67.0,95.0
+2010,Los Angeles Dodgers,"3,562,318","43,979",80.0,82.0
+2011,Arizona Diamondbacks,"2,105,432","25,993",94.0,68.0
+2011,Atlanta Braves,"2,372,940","30,037",89.0,73.0
+2011,Baltimore Orioles,"1,755,461","21,943",69.0,93.0
+2011,Boston Red Sox,"3,054,001","37,704",90.0,72.0
+2011,Chicago Cubs,"3,017,966","37,259",71.0,91.0
+2011,Chicago White Sox,"2,001,117","24,705",79.0,83.0
+2011,Cincinnati Reds,"2,213,588","27,328",79.0,83.0
+2011,Cleveland Indians,"1,840,835","22,726",80.0,82.0
+2011,Seattle Mariners,"1,896,321","23,411",67.0,95.0
+2011,San Francisco Giants,"3,387,303","41,819",86.0,76.0
+2011,San Diego Padres,"2,143,018","26,457",71.0,91.0
+2011,Pittsburgh Pirates,"1,940,429","24,255",72.0,90.0
+2011,Philadelphia Phillies,"3,680,718","45,441",102.0,60.0
+2011,Oakland Athletics,"1,476,791","18,460",74.0,88.0
+2011,New York Yankees,"3,653,680","45,107",97.0,65.0
+2011,New York Mets,"2,352,596","30,161",77.0,85.0
+2011,Minnesota Twins,"3,168,116","39,113",63.0,99.0
+2011,Milwaukee Brewers,"3,071,373","37,918",96.0,66.0
+2011,Los Angeles Dodgers,"2,935,139","36,236",82.0,79.0
+2011,Kansas City Royals,"1,724,450","21,290",71.0,91.0
+2011,Houston Astros,"2,067,016","25,519",56.0,106.0
+2011,Florida Marlins,"1,520,562","19,007",72.0,90.0
+2011,Detroit Tigers,"2,642,045","32,618",95.0,67.0
+2011,Colorado Rockies,"2,909,777","35,923",73.0,89.0
+2011,St. Louis Cardinals,"3,093,954","38,197",90.0,72.0
+2011,Tampa Bay Rays,"1,529,188","18,879",91.0,71.0
+2011,Texas Rangers,"2,946,949","36,382",96.0,66.0
+2011,Toronto Blue Jays,"1,818,103","22,446",81.0,81.0
+2011,Washington Nationals,"1,940,478","24,878",80.0,81.0
+2011,Los Angeles Angels,"3,166,321","39,090",,
+2012,Arizona Diamondbacks,"2,177,617","26,884",81.0,81.0
+2012,Atlanta Braves,"2,420,171","29,879",94.0,68.0
+2012,Baltimore Orioles,"2,102,240","26,611",93.0,69.0
+2012,Boston Red Sox,"3,043,003","37,568",69.0,93.0
+2012,Chicago Cubs,"2,882,756","35,590",61.0,101.0
+2012,Chicago White Sox,"1,965,955","24,271",85.0,77.0
+2012,Cincinnati Reds,"2,347,251","28,978",97.0,65.0
+2012,Cleveland Indians,"1,603,596","19,797",68.0,94.0
+2012,Colorado Rockies,"2,630,458","32,475",64.0,98.0
+2012,Detroit Tigers,"3,028,033","37,383",88.0,74.0
+2012,Toronto Blue Jays,"2,099,663","25,922",73.0,89.0
+2012,Washington Nationals,"2,370,794","30,010",98.0,64.0
+2012,Miami Marlins,"2,219,444","27,401",69.0,93.0
+2012,Los Angeles Angels,"3,061,770","37,800",,
+2012,Minnesota Twins,"2,776,354","34,276",66.0,96.0
+2012,New York Mets,"2,242,803","28,035",74.0,88.0
+2012,New York Yankees,"3,542,406","43,733",95.0,67.0
+2012,Oakland Athletics,"1,679,013","20,729",94.0,68.0
+2012,Philadelphia Phillies,"3,565,718","44,021",81.0,81.0
+2012,Pittsburgh Pirates,"2,091,918","26,149",79.0,83.0
+2012,San Diego Padres,"2,123,721","26,219",76.0,86.0
+2012,San Francisco Giants,"3,377,371","41,696",94.0,68.0
+2012,Seattle Mariners,"1,721,920","21,258",75.0,87.0
+2012,St. Louis Cardinals,"3,262,109","40,273",88.0,74.0
+2012,Tampa Bay Rays,"1,559,681","19,255",90.0,72.0
+2012,Texas Rangers,"3,460,280","42,720",93.0,69.0
+2012,Houston Astros,"1,607,733","19,849",55.0,107.0
+2012,Kansas City Royals,"1,739,859","21,748",72.0,90.0
+2012,Los Angeles Dodgers,"3,324,246","41,040",86.0,76.0
+2012,Milwaukee Brewers,"2,831,385","34,955",83.0,79.0
+2013,Arizona Diamondbacks,"2,134,895","26,357",81.0,81.0
+2013,Atlanta Braves,"2,548,679","31,465",96.0,66.0
+2013,Baltimore Orioles,"2,357,561","29,106",85.0,77.0
+2013,Boston Red Sox,"2,833,333","34,979",97.0,65.0
+2013,Chicago Cubs,"2,642,682","32,626",66.0,96.0
+2013,Chicago White Sox,"1,768,413","22,105",63.0,99.0
+2013,Cincinnati Reds,"2,534,411","31,289",90.0,72.0
+2013,Cleveland Indians,"1,572,926","19,662",92.0,70.0
+2013,Colorado Rockies,"2,793,828","34,492",74.0,88.0
+2013,Detroit Tigers,"3,083,397","38,067",93.0,69.0
+2013,Houston Astros,"1,651,883","20,394",51.0,111.0
+2013,Kansas City Royals,"1,750,754","21,614",86.0,76.0
+2013,Washington Nationals,"2,652,422","32,746",86.0,76.0
+2013,Toronto Blue Jays,"2,536,562","31,316",74.0,88.0
+2013,Texas Rangers,"3,178,273","38,759",91.0,72.0
+2013,Tampa Bay Rays,"1,510,300","18,646",92.0,71.0
+2013,St. Louis Cardinals,"3,369,769","41,602",97.0,65.0
+2013,Seattle Mariners,"1,761,546","21,747",71.0,91.0
+2013,San Francisco Giants,"3,326,796","41,585",76.0,86.0
+2013,San Diego Padres,"2,166,691","26,749",76.0,86.0
+2013,Pittsburgh Pirates,"2,256,862","28,211",94.0,68.0
+2013,Philadelphia Phillies,"3,012,403","37,190",73.0,89.0
+2013,Oakland Athletics,"1,809,302","22,337",96.0,66.0
+2013,New York Yankees,"3,279,589","40,489",85.0,77.0
+2013,New York Mets,"2,135,657","26,696",74.0,88.0
+2013,Minnesota Twins,"2,477,644","30,588",66.0,96.0
+2013,Milwaukee Brewers,"2,531,105","31,248",74.0,88.0
+2013,Los Angeles Dodgers,"3,743,527","46,216",92.0,70.0
+2013,Miami Marlins,"1,586,322","19,584",62.0,100.0
+2013,Los Angeles Angels,"3,019,505","37,278",,
+2014,Arizona Diamondbacks,"2,073,730","25,602",64.0,98.0
+2014,Atlanta Braves,"2,354,305","29,065",79.0,83.0
+2014,Baltimore Orioles,"2,464,473","30,806",96.0,66.0
+2014,Boston Red Sox,"2,956,089","36,495",71.0,91.0
+2014,Chicago Cubs,"2,652,113","32,742",73.0,89.0
+2014,Chicago White Sox,"1,650,821","20,896",73.0,89.0
+2014,Cincinnati Reds,"2,476,664","30,576",76.0,86.0
+2014,Cleveland Indians,"1,437,393","18,428",85.0,77.0
+2014,Colorado Rockies,"2,680,329","33,090",66.0,96.0
+2014,Detroit Tigers,"2,917,209","36,015",90.0,72.0
+2014,Houston Astros,"1,751,829","21,628",70.0,92.0
+2014,Kansas City Royals,"1,956,482","24,154",89.0,73.0
+2014,Los Angeles Dodgers,"3,782,337","46,696",94.0,68.0
+2014,Milwaukee Brewers,"2,797,384","34,536",82.0,80.0
+2014,Los Angeles Angels,"3,095,935","38,221",,
+2014,Miami Marlins,"1,732,283","21,386",77.0,85.0
+2014,Washington Nationals,"2,579,389","31,844",96.0,66.0
+2014,Toronto Blue Jays,"2,375,525","29,327",83.0,79.0
+2014,Texas Rangers,"2,718,733","33,565",67.0,95.0
+2014,Tampa Bay Rays,"1,446,464","17,858",77.0,85.0
+2014,St. Louis Cardinals,"3,540,649","43,712",90.0,72.0
+2014,Seattle Mariners,"2,064,334","25,486",87.0,75.0
+2014,San Francisco Giants,"3,368,697","41,589",88.0,74.0
+2014,San Diego Padres,"2,195,373","27,103",77.0,85.0
+2014,Pittsburgh Pirates,"2,442,564","30,155",88.0,74.0
+2014,Philadelphia Phillies,"2,423,852","29,924",73.0,89.0
+2014,Oakland Athletics,"2,003,628","25,045",88.0,74.0
+2014,New York Yankees,"3,401,624","42,520",84.0,78.0
+2014,New York Mets,"2,148,808","26,860",79.0,83.0
+2014,Minnesota Twins,"2,250,606","27,785",70.0,92.0
+2015,Colorado Rockies,"2,506,789","31,335",68.0,94.0
+2015,Detroit Tigers,"2,726,048","33,655",74.0,87.0
+2015,Houston Astros,"2,153,585","26,587",86.0,76.0
+2015,Kansas City Royals,"2,708,549","33,439",95.0,67.0
+2015,Los Angeles Dodgers,"3,764,815","46,479",92.0,70.0
+2015,Milwaukee Brewers,"2,542,558","31,390",68.0,94.0
+2015,Minnesota Twins,"2,220,054","27,408",83.0,79.0
+2015,New York Mets,"2,569,753","31,725",90.0,72.0
+2015,New York Yankees,"3,193,795","39,922",87.0,75.0
+2015,Oakland Athletics,"1,768,175","21,829",68.0,94.0
+2015,Philadelphia Phillies,"1,831,080","23,475",63.0,99.0
+2015,Pittsburgh Pirates,"2,498,596","30,847",98.0,64.0
+2015,San Diego Padres,"2,459,752","30,367",74.0,88.0
+2015,San Francisco Giants,"3,375,882","41,678",84.0,78.0
+2015,Seattle Mariners,"2,193,581","27,081",76.0,86.0
+2015,St. Louis Cardinals,"3,520,889","43,468",100.0,62.0
+2015,Texas Rangers,"2,491,875","30,764",88.0,74.0
+2015,Tampa Bay Rays,"1,247,668","15,403",80.0,82.0
+2015,Miami Marlins,"1,752,235","21,633",71.0,91.0
+2015,Los Angeles Angels,"3,012,765","37,195",,
+2015,Toronto Blue Jays,"2,794,891","34,505",93.0,69.0
+2015,Washington Nationals,"2,619,843","32,344",83.0,79.0
+2015,Cincinnati Reds,"2,419,506","29,870",64.0,98.0
+2015,Cleveland Indians,"1,388,905","17,806",81.0,80.0
+2015,Arizona Diamondbacks,"2,080,145","25,681",79.0,83.0
+2015,Atlanta Braves,"2,001,392","25,017",67.0,95.0
+2015,Baltimore Orioles,"2,320,588","29,751",81.0,81.0
+2015,Boston Red Sox,"2,880,694","35,564",78.0,84.0
+2015,Chicago Cubs,"2,959,812","36,541",97.0,65.0
+2015,Chicago White Sox,"1,755,810","21,948",76.0,86.0
+2016,Arizona Diamondbacks,"2,036,216","25,138",69.0,93.0
+2016,Atlanta Braves,"2,020,914","24,950",68.0,93.0
+2016,Texas Rangers,"2,710,402","33,462",95.0,67.0
+2016,Tampa Bay Rays,"1,286,163","15,879",68.0,94.0
+2016,St. Louis Cardinals,"3,444,490","42,525",86.0,76.0
+2016,Seattle Mariners,"2,267,928","27,999",86.0,76.0
+2016,San Francisco Giants,"3,365,256","41,546",87.0,75.0
+2016,San Diego Padres,"2,351,422","29,030",68.0,94.0
+2016,Pittsburgh Pirates,"2,249,201","28,115",78.0,83.0
+2016,Philadelphia Phillies,"1,915,144","23,644",71.0,91.0
+2016,Oakland Athletics,"1,521,506","18,784",69.0,93.0
+2016,New York Yankees,"3,063,405","37,820",84.0,78.0
+2016,New York Mets,"2,789,602","34,870",87.0,75.0
+2016,Minnesota Twins,"1,963,912","24,246",59.0,103.0
+2016,Milwaukee Brewers,"2,315,244","28,583",73.0,89.0
+2016,Los Angeles Dodgers,"3,703,312","45,720",91.0,71.0
+2016,Kansas City Royals,"2,557,712","31,577",81.0,81.0
+2016,Houston Astros,"2,306,623","28,477",84.0,78.0
+2016,Colorado Rockies,"2,602,524","32,130",75.0,87.0
+2016,Detroit Tigers,"2,493,859","31,173",86.0,75.0
+2016,Cleveland Indians,"1,591,667","19,650",94.0,67.0
+2016,Cincinnati Reds,"1,894,085","23,384",68.0,94.0
+2016,Toronto Blue Jays,"3,392,099","41,878",89.0,73.0
+2016,Washington Nationals,"2,481,938","30,641",95.0,67.0
+2016,Miami Marlins,"1,712,417","21,405",79.0,82.0
+2016,Los Angeles Angels,"3,016,142","37,236",74.0,88.0
+2016,Chicago White Sox,"1,746,293","21,829",78.0,84.0
+2016,Chicago Cubs,"3,232,420","39,906",103.0,58.0
+2016,Boston Red Sox,"2,955,434","36,487",93.0,69.0
+2016,Baltimore Orioles,"2,172,344","26,819",89.0,73.0
+2017,Colorado Rockies,"2,953,650","36,465",87.0,75.0
+2017,Detroit Tigers,"2,321,599","28,662",64.0,98.0
+2017,Houston Astros,"2,403,671","29,675",101.0,61.0
+2017,Kansas City Royals,"2,220,370","27,755",80.0,82.0
+2017,Los Angeles Dodgers,"3,765,856","46,492",104.0,58.0
+2017,Milwaukee Brewers,"2,558,722","31,589",86.0,76.0
+2017,Minnesota Twins,"2,051,279","25,641",85.0,77.0
+2017,New York Mets,"2,460,622","30,758",70.0,92.0
+2017,New York Yankees,"3,154,938","39,936",91.0,71.0
+2017,Oakland Athletics,"1,475,721","18,447",75.0,87.0
+2017,Philadelphia Phillies,"1,905,354","24,118",66.0,96.0
+2017,Pittsburgh Pirates,"1,919,447","23,697",75.0,87.0
+2017,Miami Marlins,"1,651,997","20,395",77.0,85.0
+2017,Los Angeles Angels,"3,019,585","37,279",80.0,82.0
+2017,Cincinnati Reds,"1,836,917","22,678",68.0,94.0
+2017,Cleveland Indians,"2,048,138","25,286",102.0,60.0
+2017,Arizona Diamondbacks,"2,134,375","26,350",93.0,69.0
+2017,Atlanta Braves,"2,505,252","30,929",72.0,90.0
+2017,Baltimore Orioles,"2,028,424","25,042",75.0,87.0
+2017,Boston Red Sox,"2,917,678","36,021",93.0,69.0
+2017,Washington Nationals,"2,524,980","31,173",97.0,65.0
+2017,Toronto Blue Jays,"3,203,886","39,554",76.0,86.0
+2017,Texas Rangers,"2,507,760","30,960",78.0,84.0
+2017,Tampa Bay Rays,"1,253,619","15,670",80.0,82.0
+2017,St. Louis Cardinals,"3,448,337","42,572",83.0,79.0
+2017,Seattle Mariners,"2,135,445","26,364",78.0,84.0
+2017,San Francisco Giants,"3,303,652","40,786",64.0,98.0
+2017,San Diego Padres,"2,138,491","26,401",71.0,91.0
+2017,Chicago Cubs,"3,199,562","39,501",92.0,70.0
+2017,Chicago White Sox,"1,629,470","20,626",67.0,95.0
+2018,Tampa Bay Rays,"1,154,973","14,259",90.0,72.0
+2018,Texas Rangers,"2,107,107","26,014",67.0,95.0
+2018,Toronto Blue Jays,"2,325,281","29,066",73.0,89.0
+2018,Washington Nationals,"2,529,604","31,620",82.0,80.0
+2018,Miami Marlins,"811,104","10,014",63.0,98.0
+2018,Los Angeles Angels,"3,020,216","37,287",80.0,82.0
+2018,Minnesota Twins,"1,959,197","24,490",78.0,84.0
+2018,New York Mets,"2,224,995","28,164",77.0,85.0
+2018,New York Yankees,"3,482,855","42,998",100.0,62.0
+2018,Oakland Athletics,"1,573,616","19,427",97.0,65.0
+2018,Philadelphia Phillies,"2,158,124","27,318",80.0,82.0
+2018,Pittsburgh Pirates,"1,465,316","18,786",82.0,79.0
+2018,San Diego Padres,"2,168,536","26,772",66.0,96.0
+2018,San Francisco Giants,"3,156,185","38,965",73.0,89.0
+2018,Seattle Mariners,"2,299,489","28,389",89.0,73.0
+2018,St. Louis Cardinals,"3,403,587","42,020",88.0,74.0
+2018,Milwaukee Brewers,"2,850,875","35,196",96.0,67.0
+2018,Los Angeles Dodgers,"3,857,500","47,043",92.0,71.0
+2018,Detroit Tigers,"1,856,970","23,212",64.0,98.0
+2018,Colorado Rockies,"3,015,880","37,233",91.0,72.0
+2018,Kansas City Royals,"1,665,107","20,557",58.0,104.0
+2018,Houston Astros,"2,980,549","36,797",103.0,59.0
+2018,Atlanta Braves,"2,555,781","31,553",90.0,72.0
+2018,Arizona Diamondbacks,"2,242,695","27,688",82.0,80.0
+2018,Boston Red Sox,"2,895,575","35,748",108.0,54.0
+2018,Baltimore Orioles,"1,564,192","20,054",47.0,115.0
+2018,Chicago Cubs,"3,181,089","38,794",95.0,68.0
+2018,Chicago White Sox,"1,608,817","20,110",62.0,100.0
+2018,Cleveland Indians,"1,926,701","24,084",91.0,71.0
+2018,Cincinnati Reds,"1,629,356","20,116",67.0,95.0
+2019,Colorado Rockies,"2,993,244","36,954",71.0,91.0
+2019,Detroit Tigers,"1,501,430","18,768",47.0,114.0
+2019,Houston Astros,"2,857,367","35,276",107.0,55.0
+2019,Kansas City Royals,"1,479,659","18,496",59.0,103.0
+2019,Los Angeles Dodgers,"3,974,309","49,066",106.0,56.0
+2019,Milwaukee Brewers,"2,923,333","36,091",89.0,73.0
+2019,Minnesota Twins,"2,303,299","28,436",101.0,61.0
+2019,New York Mets,"2,442,532","30,532",86.0,76.0
+2019,New York Yankees,"3,304,404","41,828",103.0,59.0
+2019,Oakland Athletics,"1,670,734","20,626",97.0,65.0
+2019,Miami Marlins,"811,302","10,016",57.0,105.0
+2019,Los Angeles Angels,"3,023,012","37,321",72.0,90.0
+2019,Texas Rangers,"2,132,994","26,333",78.0,84.0
+2019,Tampa Bay Rays,"1,178,735","14,734",96.0,66.0
+2019,Toronto Blue Jays,"1,750,144","21,607",67.0,95.0
+2019,Washington Nationals,"2,259,781","27,899",93.0,69.0
+2019,San Diego Padres,"2,396,399","29,585",70.0,92.0
+2019,San Francisco Giants,"2,707,760","33,429",77.0,85.0
+2019,Philadelphia Phillies,"2,727,421","33,672",81.0,81.0
+2019,Pittsburgh Pirates,"1,491,439","18,413",69.0,93.0
+2019,Seattle Mariners,"1,791,109","22,112",68.0,94.0
+2019,St. Louis Cardinals,"3,480,393","42,968",91.0,71.0
+2019,Cincinnati Reds,"1,809,075","22,334",75.0,87.0
+2019,Cleveland Indians,"1,738,642","22,008",93.0,69.0
+2019,Arizona Diamondbacks,"2,135,510","26,364",85.0,77.0
+2019,Atlanta Braves,"2,654,920","32,777",97.0,65.0
+2019,Baltimore Orioles,"1,307,807","16,348",54.0,108.0
+2019,Boston Red Sox,"2,915,502","35,994",84.0,78.0
+2019,Chicago Cubs,"3,094,865","38,208",84.0,78.0
+2019,Chicago White Sox,"1,649,775","21,426",72.0,89.0
+2021,Arizona Diamondbacks,"1,043,010","12,877",52.0,110.0
+2021,Atlanta Braves,"2,299,647","29,483",88.0,73.0
+2021,Houston Astros,"2,068,509","25,537",95.0,67.0
+2021,Kansas City Royals,"1,159,613","14,316",74.0,88.0
+2021,Los Angeles Dodgers,"2,804,693","34,626",106.0,56.0
+2021,Milwaukee Brewers,"1,824,282","22,522",95.0,67.0
+2021,Minnesota Twins,"1,310,199","16,377",73.0,89.0
+2021,New York Mets,"1,511,926","20,711",77.0,85.0
+2021,New York Yankees,"1,959,854","24,498",92.0,70.0
+2021,Oakland Athletics,"701,430","8,768",86.0,76.0
+2021,Philadelphia Phillies,"1,515,890","19,188",82.0,80.0
+2021,Pittsburgh Pirates,"859,498","10,611",61.0,101.0
+2021,San Diego Padres,"2,191,950","27,061",79.0,83.0
+2021,San Francisco Giants,"1,679,484","20,734",107.0,55.0
+2021,Toronto Blue Jays,"809,557","10,119",91.0,71.0
+2021,Washington Nationals,"1,465,543","18,319",65.0,97.0
+2021,Miami Marlins,"642,617","7,934",67.0,95.0
+2021,Los Angeles Angels,"1,512,033","18,667",77.0,85.0
+2021,Seattle Mariners,"1,215,985","15,012",90.0,72.0
+2021,St. Louis Cardinals,"2,102,530","26,282",90.0,72.0
+2021,Tampa Bay Rays,"761,072","9,513",100.0,62.0
+2021,Texas Rangers,"2,110,258","26,053",60.0,102.0
+2021,Chicago White Sox,"1,596,385","20,466",93.0,69.0
+2021,Chicago Cubs,"1,978,934","24,431",71.0,91.0
+2021,Boston Red Sox,"1,725,323","21,300",92.0,70.0
+2021,Baltimore Orioles,"793,229","10,170",52.0,110.0
+2021,Colorado Rockies,"1,938,645","24,854",74.0,87.0
+2021,Detroit Tigers,"1,102,621","13,613",77.0,85.0
+2021,Cleveland Indians,"1,114,368","14,472",80.0,82.0
+2021,Cincinnati Reds,"1,505,024","18,581",83.0,79.0
+2022,Boston Red Sox,"2,625,089","32,409",78.0,84.0
+2022,Baltimore Orioles,"1,368,367","17,543",83.0,79.0
+2022,Atlanta Braves,"3,129,931","38,641",101.0,61.0
+2022,Arizona Diamondbacks,"1,605,199","19,817",74.0,88.0
+2022,Miami Marlins,"907,487","11,204",69.0,93.0
+2022,Washington Nationals,"2,026,401","25,017",55.0,107.0
+2022,Toronto Blue Jays,"2,653,830","32,763",92.0,70.0
+2022,Texas Rangers,"2,011,361","24,832",68.0,94.0
+2022,Tampa Bay Rays,"1,128,127","13,927",86.0,76.0
+2022,St. Louis Cardinals,"3,320,551","40,994",93.0,69.0
+2022,Seattle Mariners,"2,287,267","28,591",90.0,72.0
+2022,San Francisco Giants,"2,482,686","30,650",81.0,81.0
+2022,San Diego Padres,"2,987,470","36,882",89.0,73.0
+2022,Pittsburgh Pirates,"1,257,458","15,524",62.0,100.0
+2022,Philadelphia Phillies,"2,276,736","28,459",87.0,75.0
+2022,Oakland Athletics,"787,902","9,973",60.0,102.0
+2022,New York Yankees,"3,136,207","40,208",99.0,63.0
+2022,New York Mets,"2,564,737","33,308",101.0,61.0
+2022,Minnesota Twins,"1,801,128","22,514",78.0,84.0
+2022,Milwaukee Brewers,"2,422,420","30,280",86.0,76.0
+2022,Cleveland Guardians,"1,295,870","17,051",92.0,70.0
+2022,Los Angeles Angels,"2,457,461","30,339",73.0,89.0
+2022,Kansas City Royals,"1,277,686","15,971",65.0,97.0
+2022,Los Angeles Dodgers,"3,861,408","47,672",111.0,51.0
+2022,Colorado Rockies,"2,597,428","32,468",68.0,94.0
+2022,Cincinnati Reds,"1,395,770","17,447",62.0,100.0
+2022,Chicago White Sox,"2,009,359","24,807",81.0,81.0
+2022,Chicago Cubs,"2,616,780","32,306",74.0,88.0
+2022,Detroit Tigers,"1,575,544","19,694",66.0,96.0
+2022,Houston Astros,"2,688,998","33,198",106.0,56.0
+2023,Miami Marlins,"1,162,819","14,356",84.0,78.0
+2023,Washington Nationals,"1,865,832","23,035",71.0,91.0
+2023,Toronto Blue Jays,"3,021,904","37,307",89.0,73.0
+2023,Texas Rangers,"2,533,044","31,272",90.0,72.0
+2023,Tampa Bay Rays,"1,440,301","17,781",99.0,63.0
+2023,St. Louis Cardinals,"3,241,091","40,013",71.0,91.0
+2023,Los Angeles Angels,"2,640,575","32,600",73.0,89.0
+2023,Cleveland Guardians,"1,834,068","23,514",76.0,86.0
+2023,Minnesota Twins,"1,974,124","24,372",87.0,75.0
+2023,Milwaukee Brewers,"2,551,347","31,498",92.0,70.0
+2023,Houston Astros,"3,052,347","37,683",90.0,72.0
+2023,Detroit Tigers,"1,612,876","20,946",78.0,84.0
+2023,Los Angeles Dodgers,"3,837,079","47,371",100.0,62.0
+2023,Kansas City Royals,"1,307,052","16,136",56.0,106.0
+2023,Cincinnati Reds,"2,038,302","25,164",82.0,80.0
+2023,Colorado Rockies,"2,607,935","32,197",59.0,103.0
+2023,Chicago White Sox,"1,669,628","21,405",61.0,101.0
+2023,Chicago Cubs,"2,775,149","34,261",83.0,79.0
+2023,Baltimore Orioles,"1,936,798","23,911",101.0,61.0
+2023,Boston Red Sox,"2,672,130","32,989",78.0,84.0
+2023,Arizona Diamondbacks,"1,961,182","24,212",84.0,78.0
+2023,Atlanta Braves,"3,191,505","39,401",104.0,58.0
+2023,Seattle Mariners,"2,690,418","33,215",88.0,74.0
+2023,San Francisco Giants,"2,500,153","30,866",79.0,83.0
+2023,San Diego Padres,"3,271,554","40,390",82.0,80.0
+2023,Pittsburgh Pirates,"1,630,624","20,131",76.0,86.0
+2023,Philadelphia Phillies,"3,052,605","38,158",90.0,72.0
+2023,Oakland Athletics,"832,352","10,276",50.0,112.0
+2023,New York Yankees,"3,269,016","40,863",82.0,80.0
+2023,New York Mets,"2,573,555","32,994",75.0,87.0
+2024,Washington Nationals,"1,967,302","24,288",71.0,91.0
+2024,Toronto Blue Jays,"2,681,236","33,102",74.0,88.0
+2024,Texas Rangers,"2,651,553","32,735",78.0,84.0
+2024,Tampa Bay Rays,"1,337,739","16,515",80.0,82.0
+2024,St. Louis Cardinals,"2,910,697","35,496",83.0,79.0
+2024,Seattle Mariners,"2,555,813","31,553",85.0,77.0
+2024,San Francisco Giants,"2,647,736","33,097",80.0,82.0
+2024,San Diego Padres,"3,330,545","41,118",93.0,69.0
+2024,Arizona Diamondbacks,"2,341,876","28,912",89.0,73.0
+2024,Milwaukee Brewers,"2,537,202","31,323",93.0,69.0
+2024,Minnesota Twins,"1,930,723","24,134",82.0,80.0
+2024,New York Mets,"2,329,299","29,485",89.0,73.0
+2024,New York Yankees,"3,274,719","41,984",94.0,68.0
+2024,Oakland Athletics,"922,286","11,529",69.0,93.0
+2024,Philadelphia Phillies,"3,363,712","41,527",95.0,67.0
+2024,Pittsburgh Pirates,"1,720,361","21,239",76.0,86.0
+2024,Atlanta Braves,"3,011,755","37,647",89.0,73.0
+2024,Baltimore Orioles,"2,281,129","28,514",91.0,71.0
+2024,Boston Red Sox,"2,694,705","32,862",81.0,81.0
+2024,Chicago Cubs,"2,909,755","35,923",83.0,79.0
+2024,Chicago White Sox,"1,366,952","17,986",41.0,121.0
+2024,Cincinnati Reds,"2,024,178","24,990",77.0,85.0
+2024,Colorado Rockies,"2,540,195","31,360",61.0,101.0
+2024,Detroit Tigers,"1,858,295","23,824",86.0,76.0
+2024,Houston Astros,"2,835,234","35,003",88.0,73.0
+2024,Kansas City Royals,"1,648,607","20,608",86.0,76.0
+2024,Miami Marlins,"1,087,455","13,425",62.0,100.0
+2024,Cleveland Guardians,"2,056,264","26,029",92.0,69.0
+2024,Los Angeles Angels,"2,577,597","31,822",63.0,99.0
+2024,Los Angeles Dodgers,"3,941,251","48,657",98.0,64.0
