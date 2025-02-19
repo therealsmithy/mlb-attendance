@@ -12,4 +12,4 @@ cpi_df = cpi_df[1:114]
 cpi_df.columns = cpi_df.iloc[0]
 cpi_df = cpi_df[1:]
 # Save to csv
-cpi_df.to_csv('data/cpi.csv', index=False)
+#cpi_df.to_csv('data/cpi.csv', index=False)
