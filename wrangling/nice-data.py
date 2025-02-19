@@ -45,4 +45,7 @@ standings_data.reset_index(drop=True, inplace=True)
 
 # Combine dataframes
 full_data = pd.merge(attendance_data, standings_data, on=['year', 'Tm'], how = 'left')
+# Remove years with no attendance
+full_data = pd.read_csv('data/full_data.csv')
+full_data = full_data.dropna(subset=['Attendance'])
 full_data.to_csv('data/full_data.csv', index=False)
