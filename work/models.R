@@ -186,13 +186,18 @@ autoplot(w_sox_train) +
 naive_w_sox <- naive(w_sox_train, h = nVal)
 naive_w_sox_forecast <- forecast(naive_w_sox, h = nVal)
 
-# Polynomial with trend
+# Linear with trend
 lm_t_w_sox <- tslm(w_sox_train ~ trend)
 lm_t_w_sox_forecast <- forecast(lm_t_w_sox, h = nVal)
+
+# Polynomial with trend
+lm_p_w_sox <- tslm(w_sox_train ~ trend + I(trend^2))
+lm_p_w_sox_forecast <- forecast(lm_p_w_sox, h = nVal)
 
 # Check accuracies
 accuracy(naive_w_sox_forecast, w_sox_val)
 accuracy(lm_t_w_sox_forecast, w_sox_val)
+accuracy(lm_p_w_sox_forecast, w_sox_val)
 
 # Plot
 autoplot(w_sox_ts) +
@@ -200,9 +205,11 @@ autoplot(w_sox_ts) +
   autolayer(w_sox_val, series = 'Validation') +
   autolayer(naive_w_sox_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
   autolayer(lm_t_w_sox_forecast, series = 'Trend', PI = FALSE, linetype = 'dashed') +
+  autolayer(lm_p_w_sox_forecast, series = 'Polynomial', PI = FALSE, linetype = 'dashed') +
   xlab('Year') + ylab('Attendance') + 
-  ggtitle('White Sox Attendance') + 
+  ggtitle('White Sox Attendance Model (2020-2024)') + 
   theme_minimal()
+#ggsave('vizzes/w_sox_naive_trend.jpeg', width = 10, height = 6, dpi = 300)
 
 # MA AND HOLT
 # MA model
@@ -218,6 +225,7 @@ holt_w_sox_forecast <- forecast(holt_w_sox, h = nVal)
 # Check accuracy
 accuracy(ma_w_sox_forecast, w_sox_val)
 accuracy(holt_w_sox_forecast, w_sox_val)
+accuracy(ets_w_sox_forecast, w_sox_val)
 
 # Plot
 autoplot(w_sox_ts) +
@@ -260,22 +268,28 @@ autoplot(w_sox_ts) +
   ggtitle('White Sox Attendance') + 
   theme_minimal()
 
+# Model Deployment
 # Predict
-auto_arima_w_sox_future <- auto.arima(w_sox_ts, xreg = w_sox$wins)
+auto_arima_w_sox_future <- auto.arima(w_sox_ts, xreg = w_sox$wins_lag)
 
 # Fit simple linear model to estimate future wins
 win_years <- seq_along(w_sox$wins)
 w_sox_win_model <- lm(w_sox$wins ~ win_years)
-w_sox_future_years <- (max(win_years) + 1):(max(win_years) + 5)
+w_sox_future_years <- (max(win_years) + 1):(max(win_years) + 6)
 w_sox_future_wins <- predict(w_sox_win_model, newdata = data.frame(win_years = w_sox_future_years))
-auto_arima_w_sox_forecast <- forecast(auto_arima_w_sox_future, xreg = w_sox_future_wins, h = 5)
+# Lag future wins
+w_sox_future_wins_lag <- lag(w_sox_future_wins, 1)
+
+# Forecast
+auto_arima_w_sox_forecast <- forecast(auto_arima_w_sox_future, xreg = na.omit(w_sox_future_wins_lag), h = 5)
 
 # Plot
 autoplot(w_sox_ts) +
   autolayer(auto_arima_w_sox_forecast) +
   xlab('Year') + ylab('Attendance') +
-  ggtitle('White Sox Attendance Forecast') +
+  ggtitle('White Sox Attendance Forecast: SARIMAX with Lagged Wins') +
   theme_minimal()
+#ggsave('vizzes/w_sox_forecast.jpeg', width = 10, height = 6, dpi = 300)
 
 # TIGERS MODEL
 # Create time series object
@@ -304,13 +318,18 @@ autoplot(tigers_ts) +
 naive_tigers <- naive(tigers_train, h = nVal)
 naive_tigers_forecast <- forecast(naive_tigers, h = nVal)
 
-# Polynomial with trend
+# Linear with trend
 lm_t_tigers <- tslm(tigers_train ~ trend)
 lm_t_tigers_forecast <- forecast(lm_t_tigers, h = nVal)
+
+# Polynomial with trend
+lm_p_tigers <- tslm(tigers_train ~ trend + I(trend^2))
+lm_p_tigers_forecast <- forecast(lm_p_tigers, h = nVal)
 
 # Check accuracies
 accuracy(naive_tigers_forecast, tigers_val)
 accuracy(lm_t_tigers_forecast, tigers_val)
+accuracy(lm_p_tigers_forecast, tigers_val)
 
 # Plot
 autoplot(tigers_ts) +
@@ -345,8 +364,9 @@ autoplot(tigers_ts) +
   autolayer(ma_tigers_forecast, series = 'MA', PI = FALSE, linetype = 'dashed') +
   autolayer(holt_tigers_forecast, series = 'Holt', PI = FALSE, linetype = 'dashed') +
   xlab('Year') + ylab('Attendance') + 
-  ggtitle('Tigers Attendance') + 
+  ggtitle('Tigers Attendance Model (2020-2024)') + 
   theme_minimal()
+#ggsave('vizzes/tigers_naive_ma.jpeg', width = 10, height = 6, dpi = 300)
 
 # ARIMA MODELS
 # Auto ARIMA first
@@ -378,23 +398,17 @@ autoplot(tigers_ts) +
   ggtitle('Tigers Attendance') + 
   theme_minimal()
 
-# Predict
-auto_arima_tigers_future <- auto.arima(tigers_ts, xreg = tigers$wins)
-
-# Fit simple linear model to estimate future wins
-win_years <- seq_along(tigers$wins)
-tigers_win_model <- lm(tigers$wins ~ win_years)
-tigers_future_years <- (max(win_years) + 1):(max(win_years) + 5)
-tigers_future_wins <- predict(tigers_win_model, newdata = data.frame(win_years = tigers_future_years))
-auto_arima_tigers_forecast <- forecast(auto_arima_tigers_future, xreg = tigers_future_wins, h = 5)
+# Predict with Holt
+holt_tigers_future <- ets(tigers_ts, model = 'AAN')
+holt_tigers_forecast <- forecast(holt_tigers_future, h = 5)
 
 # Plot
 autoplot(tigers_ts) +
-  autolayer(auto_arima_tigers_forecast) +
+  autolayer(holt_tigers_forecast) +
   xlab('Year') + ylab('Attendance') +
-  ggtitle('Tigers Attendance Forecast') +
+  ggtitle("Tigers Attendance Forecast: Holt's Method") +
   theme_minimal()
-
+ggsave('vizzes/tigers_forecast.jpeg', width = 10, height = 6, dpi = 300)
 
 # PIRATES MODEL
 # Create time series object
@@ -423,13 +437,18 @@ autoplot(pirates_ts) +
 naive_pirates <- naive(pirates_train, h = nVal)
 naive_pirates_forecast <- forecast(naive_pirates, h = nVal)
 
-# Polynomial with trend
+# Linear with trend
 lm_t_pirates <- tslm(pirates_train ~ trend)
 lm_t_pirates_forecast <- forecast(lm_t_pirates, h = nVal)
+
+# Polynomial with trend
+lm_p_pirates <- tslm(pirates_train ~ trend + I(trend^2))
+lm_p_pirates_forecast <- forecast(lm_p_pirates, h = nVal)
 
 # Check accuracies
 accuracy(naive_pirates_forecast, pirates_val)
 accuracy(lm_t_pirates_forecast, pirates_val)
+accuracy(lm_p_pirates_forecast, pirates_val)
 
 # Plot
 autoplot(pirates_ts) +
@@ -494,22 +513,33 @@ autoplot(pirates_ts) +
   autolayer(sarimax_pirates_forecast, series = 'Sarimax', PI = FALSE, linetype = 'dashed') +
   autolayer(sarimax_pirates_lag_forecast, series = 'Sarimax Lagged', PI = FALSE, linetype = 'dashed') +
   xlab('Year') + ylab('Attendance') + 
-  ggtitle('Pirates Attendance') + 
+  ggtitle('Pirates Attendance Model (2020-2024)') + 
   theme_minimal()
+#ggsave('vizzes/pirates_arima.jpeg', width = 10, height = 6, dpi = 300)
 
 # Predict
-auto_arima_pirates_future <- auto.arima(pirates_ts, xreg = pirates$wins)
+sarimax_pirates_future <- auto.arima(pirates_ts, xreg = pirates$wins)
 
 # Fit simple linear model to estimate future wins
 win_years <- seq_along(pirates$wins)
 pirates_win_model <- lm(pirates$wins ~ win_years)
 pirates_future_years <- (max(win_years) + 1):(max(win_years) + 5)
 pirates_future_wins <- predict(pirates_win_model, newdata = data.frame(win_years = pirates_future_years))
-auto_arima_pirates_forecast <- forecast(auto_arima_pirates_future, xreg = pirates_future_wins, h = 5)
+sarimax_pirates_forecast <- forecast(sarimax_pirates_future, xreg = pirates_future_wins, h = 5)
 
 # Plot
 autoplot(pirates_ts) +
-  autolayer(auto_arima_pirates_forecast) +
+  autolayer(sarimax_pirates_forecast) +
   xlab('Year') + ylab('Attendance') +
-  ggtitle('Pirates Attendance Forecast') +
+  ggtitle('Pirates Attendance Forecast: SARIMAX with Wins') +
   theme_minimal()
+#ggsave('vizzes/pirates_forecast.jpeg', width = 10, height = 6, dpi = 300)
+
+# Plot full time series for each team
+autoplot(w_sox_ts, series = 'White Sox') +
+  autolayer(tigers_ts, series = 'Tigers') +
+  autolayer(pirates_ts, series = 'Pirates') +
+  xlab('Year') + ylab('Attendance') +
+  ggtitle('Attendance History: 1903-2024') +
+  theme_minimal()
+#ggsave('vizzes/attendance_ts.jpeg', width = 10, height = 6, dpi = 300)
