@@ -2,6 +2,7 @@ library(dplyr)
 library(forecast)
 library(fpp3)
 library(zoo)
+library(ggplot2)
 
 # Read in data
 full <- read.csv('data/full_data.csv')
@@ -58,6 +59,9 @@ w_sox$attendance[w_sox$year == 2020] <- mean(w_sox$attendance[w_sox$year %in% c(
 w_sox$wins[w_sox$year == 1957] <- mean(w_sox$wins[w_sox$year %in% c(1956, 1958)])
 w_sox$wins[w_sox$year == 2020] <- mean(w_sox$wins[w_sox$year %in% c(2019, 2021)])
 
+# Create lagged wins
+w_sox$wins_lag <- lag(w_sox$wins, 1)
+
 # Only take Tigers
 tigers <- full %>% 
   filter(Tm == 'Detroit Tigers') %>% 
@@ -73,6 +77,9 @@ tigers$attendance[tigers$year == 1957] <- mean(tigers$attendance[tigers$year %in
 tigers$attendance[tigers$year == 2020] <- mean(tigers$attendance[tigers$year %in% c(2019, 2021)])
 tigers$wins[tigers$year == 1957] <- mean(tigers$wins[tigers$year %in% c(1956, 1958)])
 tigers$wins[tigers$year == 2020] <- mean(tigers$wins[tigers$year %in% c(2019, 2021)])
+
+# Create lagged wins
+tigers$wins_lag <- lag(tigers$wins, 1)
 
 # Only take Pirates
 pirates <- full %>% 
@@ -90,6 +97,9 @@ pirates$attendance[pirates$year == 2020] <- mean(pirates$attendance[pirates$year
 pirates$wins[pirates$year == 1957] <- mean(pirates$wins[pirates$year %in% c(1956, 1958)])
 pirates$wins[pirates$year == 2020] <- mean(pirates$wins[pirates$year %in% c(2019, 2021)])
 
+# Create lagged wins
+pirates$wins_lag <- lag(pirates$wins, 1)
+
 # FULL LEAGUE MODEL
 # Create time series object
 full_ts <- ts(full_league$attendance, start = 1913, end = 2024)
@@ -105,11 +115,12 @@ t_stat <- (0.9766 - 1) / 0.0209
 2 * pnorm(t_stat)
 # Random Walk...
 
-# Model with lagged predictors - SARIMAX
 # Plot
-plot(full_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Full League Attendance')
-lines(full_train, col = 'blue')
-lines(full_val, col = 'red')
+autoplot(full_train) +
+  autolayer(full_val, series = 'Validation') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Full League Attendance') + 
+  theme_minimal()
 
 # Naive model
 naive_full <- naive(full_train, h = nVal)
@@ -130,13 +141,15 @@ accuracy(sarimax_full_lag_forecast, full_val)
 # Naive performs best, which makes sense for a random walk
 
 # Plot three forecasts
-plot(full_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Full League Attendance')
-lines(full_train, col = 'blue')
-lines(full_val, col = 'red')
-lines(naive_full_forecast$mean, col = 'green')
-lines(sarimax_full_forecast$mean, col = 'purple')
-lines(sarimax_full_lag_forecast$mean, col = 'orange')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Sarimax', 'Sarimax Lagged'), col = c('blue', 'red', 'green', 'purple', 'orange'), lty = 1)
+autoplot(full_ts) +
+  autolayer(full_train, series = 'Train') +
+  autolayer(full_val, series = 'Validation') +
+  autolayer(naive_full_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_full_forecast, series = 'Sarimax', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_full_lag_forecast, series = 'Sarimax Lagged', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Full League Attendance') + 
+  theme_minimal()
 
 # Check residuals
 checkresiduals(naive_full)
@@ -162,9 +175,11 @@ Acf(w_sox_ts)
 # NOT a random walk
 
 # Plot
-plot(w_sox_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'White Sox Attendance')
-lines(w_sox_train, col = 'blue')
-lines(w_sox_val, col = 'red')
+autoplot(w_sox_train) +
+  autolayer(w_sox_val, series = 'Validation') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('White Sox Attendance') + 
+  theme_minimal()
 
 # TREND AND NAIVE MODELS
 # Naive model
@@ -180,62 +195,87 @@ accuracy(naive_w_sox_forecast, w_sox_val)
 accuracy(lm_t_w_sox_forecast, w_sox_val)
 
 # Plot
-plot(w_sox_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'White Sox Attendance')
-lines(w_sox_train, col = 'blue')
-lines(w_sox_val, col = 'red')
-lines(naive_w_sox_forecast$mean, col = 'green')
-lines(lm_t_w_sox_forecast$mean, col = 'purple')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Trend'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(w_sox_ts) +
+  autolayer(w_sox_train, series = 'Train') +
+  autolayer(w_sox_val, series = 'Validation') +
+  autolayer(naive_w_sox_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(lm_t_w_sox_forecast, series = 'Trend', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('White Sox Attendance') + 
+  theme_minimal()
 
-# MOVING AVERAGE MODELS
+# MA AND HOLT
 # MA model
 ma_w_sox <- rollmean(w_sox_train, k = 5, align = 'right')
 ma_w_sox_last <- tail(ma_w_sox, 1)
 ma_w_sox_forecast <- ts(rep(ma_w_sox_last, nVal), start = c(1903, nTrain + 1), end = c(1903, nTrain + nVal),
                         frequency = 1)
 
-# Check accuracy
-accuracy(ma_w_sox_forecast, w_sox_val)
-
-# Plot
-plot(w_sox_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'White Sox Attendance')
-lines(w_sox_train, col = 'blue')
-lines(w_sox_val, col = 'red')
-lines(naive_w_sox_forecast$mean, col = 'green')
-lines(ma_w_sox_forecast, col = 'purple')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'MA'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
-
-# HOLT-WINTER MODELS
 # Holt's method
 holt_w_sox <- ets(w_sox_train, model = 'AAN')
 holt_w_sox_forecast <- forecast(holt_w_sox, h = nVal)
 
 # Check accuracy
+accuracy(ma_w_sox_forecast, w_sox_val)
 accuracy(holt_w_sox_forecast, w_sox_val)
 
 # Plot
-plot(w_sox_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'White Sox Attendance')
-lines(w_sox_train, col = 'blue')
-lines(w_sox_val, col = 'red')
-lines(holt_w_sox_forecast$mean, col = 'purple')
-lines(naive_w_sox_forecast$mean, col = 'green')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Holt'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(w_sox_ts) +
+  autolayer(w_sox_train, series = 'Train') +
+  autolayer(w_sox_val, series = 'Validation') +
+  autolayer(naive_w_sox_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(ma_w_sox_forecast, series = 'MA', PI = FALSE, linetype = 'dashed') +
+  autolayer(holt_w_sox_forecast, series = 'Holt', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('White Sox Attendance') + 
+  theme_minimal()
 
 # ARIMA MODELS
 # Auto ARIMA first
 auto_arima_w_sox <- auto.arima(w_sox_train)
 auto_arima_w_sox_forecast <- forecast(auto_arima_w_sox, h = nVal)
 
-# Check accuracy
+# Sarimax with wins
+sarimax_w_sox <- auto.arima(w_sox_train, xreg = w_sox$wins[1:length(w_sox_train)])
+sarimax_w_sox_forecast <- forecast(sarimax_w_sox, xreg = w_sox$wins[(length(w_sox_train) + 1):(length(w_sox_train) + nVal)])
+
+# Sarimax with lagged wins
+sarimax_w_sox_lag <- auto.arima(w_sox_train, xreg = w_sox$wins_lag[1:length(w_sox_train)])
+sarimax_w_sox_lag_forecast <- forecast(sarimax_w_sox_lag, xreg = w_sox$wins_lag[(length(w_sox_train) + 1):(length(w_sox_train) + nVal)])
+
+# Check accuracies
 accuracy(auto_arima_w_sox_forecast, w_sox_val)
+accuracy(sarimax_w_sox_forecast, w_sox_val)
+accuracy(sarimax_w_sox_lag_forecast, w_sox_val)
 
 # Plot
-plot(w_sox_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'White Sox Attendance')
-lines(w_sox_train, col = 'blue')
-lines(w_sox_val, col = 'red')
-lines(auto_arima_w_sox_forecast$mean, col = 'purple')
-lines(naive_w_sox_forecast$mean, col = 'green')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Auto ARIMA'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(w_sox_ts) +
+  autolayer(w_sox_train, series = 'Train') +
+  autolayer(w_sox_val, series = 'Validation') +
+  autolayer(naive_w_sox_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(auto_arima_w_sox_forecast, series = 'Auto ARIMA', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_w_sox_forecast, series = 'Sarimax', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_w_sox_lag_forecast, series = 'Sarimax Lagged', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('White Sox Attendance') + 
+  theme_minimal()
+
+# Predict
+auto_arima_w_sox_future <- auto.arima(w_sox_ts, xreg = w_sox$wins)
+
+# Fit simple linear model to estimate future wins
+win_years <- seq_along(w_sox$wins)
+w_sox_win_model <- lm(w_sox$wins ~ win_years)
+w_sox_future_years <- (max(win_years) + 1):(max(win_years) + 5)
+w_sox_future_wins <- predict(w_sox_win_model, newdata = data.frame(win_years = w_sox_future_years))
+auto_arima_w_sox_forecast <- forecast(auto_arima_w_sox_future, xreg = w_sox_future_wins, h = 5)
+
+# Plot
+autoplot(w_sox_ts) +
+  autolayer(auto_arima_w_sox_forecast) +
+  xlab('Year') + ylab('Attendance') +
+  ggtitle('White Sox Attendance Forecast') +
+  theme_minimal()
 
 # TIGERS MODEL
 # Create time series object
@@ -252,9 +292,12 @@ Acf(tigers_train)
 # NOT a random walk
 
 # Plot it out
-plot(tigers_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Tigers Attendance')
-lines(tigers_train, col = 'blue')
-lines(tigers_val, col = 'red')
+autoplot(tigers_ts) +
+  autolayer(tigers_train, series = 'Train') +
+  autolayer(tigers_val, series = 'Validation') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Tigers Attendance') + 
+  theme_minimal()
 
 # TREND AND NAIVE MODELS
 # Naive model
@@ -270,62 +313,88 @@ accuracy(naive_tigers_forecast, tigers_val)
 accuracy(lm_t_tigers_forecast, tigers_val)
 
 # Plot
-plot(tigers_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Tigers Attendance')
-lines(tigers_train, col = 'blue')
-lines(tigers_val, col = 'red')
-lines(naive_tigers_forecast$mean, col = 'green')
-lines(lm_t_tigers_forecast$mean, col = 'purple')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Trend'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(tigers_ts) +
+  autolayer(tigers_train, series = 'Train') +
+  autolayer(tigers_val, series = 'Validation') +
+  autolayer(naive_tigers_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(lm_t_tigers_forecast, series = 'Trend', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Tigers Attendance') + 
+  theme_minimal()
 
-# MOVING AVERAGE MODELS
+# MA and Holt
 # MA model
 ma_tigers <- rollmean(tigers_train, k = 5, align = 'right')
 ma_tigers_last <- tail(ma_tigers, 1)
 ma_tigers_forecast <- ts(rep(ma_tigers_last, nVal), start = c(1903, nTrain + 1), end = c(1903, nTrain + nVal),
                         frequency = 1)
 
-# Check accuracy
-accuracy(ma_tigers_forecast, tigers_val)
-
-# Plot
-plot(tigers_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Tigers Attendance')
-lines(tigers_train, col = 'blue')
-lines(tigers_val, col = 'red')
-lines(naive_tigers_forecast$mean, col = 'green')
-lines(ma_tigers_forecast, col = 'purple')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'MA'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
-
-# HOLT-WINTER MODELS
 # Holt's method
 holt_tigers <- ets(tigers_train, model = 'AAN')
 holt_tigers_forecast <- forecast(holt_tigers, h = nVal)
 
-# Check accuracy
+# Check accuracies
 accuracy(holt_tigers_forecast, tigers_val)
+accuracy(ma_tigers_forecast, tigers_val)
 
 # Plot
-plot(tigers_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Tigers Attendance')
-lines(tigers_train, col = 'blue')
-lines(tigers_val, col = 'red')
-lines(holt_tigers_forecast$mean, col = 'purple')
-lines(naive_tigers_forecast$mean, col = 'green')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Holt'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(tigers_ts) +
+  autolayer(tigers_train, series = 'Train') +
+  autolayer(tigers_val, series = 'Validation') +
+  autolayer(naive_tigers_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(ma_tigers_forecast, series = 'MA', PI = FALSE, linetype = 'dashed') +
+  autolayer(holt_tigers_forecast, series = 'Holt', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Tigers Attendance') + 
+  theme_minimal()
 
 # ARIMA MODELS
 # Auto ARIMA first
 auto_arima_tigers <- auto.arima(tigers_train)
 auto_arima_tigers_forecast <- forecast(auto_arima_tigers, h = nVal)
 
-# Check accuracy
+# Sarimax
+sarimax_tigers <- auto.arima(tigers_train, xreg = tigers$wins[1:length(tigers_train)])
+sarimax_tigers_forecast <- forecast(sarimax_tigers, xreg = tigers$wins[(length(tigers_train) + 1):(length(tigers_train) + nVal)])
+
+# Sarimax with lagged wins
+sarimax_tigers_lag <- auto.arima(tigers_train, xreg = tigers$wins_lag[1:length(tigers_train)])
+sarimax_tigers_lag_forecast <- forecast(sarimax_tigers_lag, xreg = tigers$wins_lag[(length(tigers_train) + 1):(length(tigers_train) + nVal)])
+
+# Check accuracies
 accuracy(auto_arima_tigers_forecast, tigers_val)
+accuracy(sarimax_tigers_forecast, tigers_val)
+accuracy(sarimax_tigers_lag_forecast, tigers_val)
 
 # Plot
-plot(tigers_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Tigers Attendance')
-lines(tigers_train, col = 'blue')
-lines(tigers_val, col = 'red')
-lines(auto_arima_tigers_forecast$mean, col = 'purple')
-lines(naive_tigers_forecast$mean, col = 'green')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Auto ARIMA'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(tigers_ts) +
+  autolayer(tigers_train, series = 'Train') +
+  autolayer(tigers_val, series = 'Validation') +
+  autolayer(naive_tigers_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(auto_arima_tigers_forecast, series = 'Auto ARIMA', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_tigers_forecast, series = 'Sarimax', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_tigers_lag_forecast, series = 'Sarimax Lagged', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Tigers Attendance') + 
+  theme_minimal()
+
+# Predict
+auto_arima_tigers_future <- auto.arima(tigers_ts, xreg = tigers$wins)
+
+# Fit simple linear model to estimate future wins
+win_years <- seq_along(tigers$wins)
+tigers_win_model <- lm(tigers$wins ~ win_years)
+tigers_future_years <- (max(win_years) + 1):(max(win_years) + 5)
+tigers_future_wins <- predict(tigers_win_model, newdata = data.frame(win_years = tigers_future_years))
+auto_arima_tigers_forecast <- forecast(auto_arima_tigers_future, xreg = tigers_future_wins, h = 5)
+
+# Plot
+autoplot(tigers_ts) +
+  autolayer(auto_arima_tigers_forecast) +
+  xlab('Year') + ylab('Attendance') +
+  ggtitle('Tigers Attendance Forecast') +
+  theme_minimal()
+
 
 # PIRATES MODEL
 # Create time series object
@@ -342,9 +411,12 @@ Acf(pirates_train)
 # NOT a random walk
 
 # Plot it out
-plot(pirates_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Pirates Attendance')
-lines(pirates_train, col = 'blue')
-lines(pirates_val, col = 'red')
+autoplot(pirates_ts) +
+  autolayer(pirates_train, series = 'Train') +
+  autolayer(pirates_val, series = 'Validation') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Pirates Attendance') + 
+  theme_minimal()
 
 # TREND AND NAIVE MODELS
 # Naive model
@@ -360,61 +432,84 @@ accuracy(naive_pirates_forecast, pirates_val)
 accuracy(lm_t_pirates_forecast, pirates_val)
 
 # Plot
-plot(pirates_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Pirates Attendance')
-lines(pirates_train, col = 'blue')
-lines(pirates_val, col = 'red')
-lines(naive_pirates_forecast$mean, col = 'green')
-lines(lm_t_pirates_forecast$mean, col = 'purple')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Trend'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(pirates_ts) +
+  autolayer(pirates_train, series = 'Train') +
+  autolayer(pirates_val, series = 'Validation') +
+  autolayer(naive_pirates_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(lm_t_pirates_forecast, series = 'Trend', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Pirates Attendance') + 
+  theme_minimal()
 
-# MOVING AVERAGE MODELS
+# MA and Holt
 # MA model
 ma_pirates <- rollmean(pirates_train, k = 5, align = 'right')
 ma_pirates_last <- tail(ma_pirates, 1)
 ma_pirates_forecast <- ts(rep(ma_pirates_last, nVal), start = c(1903, nTrain + 1), end = c(1903, nTrain + nVal),
                         frequency = 1)
 
-# Check accuracy
-accuracy(ma_pirates_forecast, pirates_val)
-
-# Plot
-plot(pirates_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Pirates Attendance')
-lines(pirates_train, col = 'blue')
-lines(pirates_val, col = 'red')
-lines(naive_pirates_forecast$mean, col = 'green')
-lines(ma_pirates_forecast, col = 'purple')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'MA'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
-
-# HOLT-WINTER MODELS
 # Holt's method
 holt_pirates <- ets(pirates_train, model = 'AAN')
 holt_pirates_forecast <- forecast(holt_pirates, h = nVal)
 
 # Check accuracy
+accuracy(ma_pirates_forecast, pirates_val)
 accuracy(holt_pirates_forecast, pirates_val)
 
 # Plot
-plot(pirates_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Pirates Attendance')
-lines(pirates_train, col = 'blue')
-lines(pirates_val, col = 'red')
-lines(holt_pirates_forecast$mean, col = 'purple')
-lines(naive_pirates_forecast$mean, col = 'green')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Holt'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(pirates_ts) +
+  autolayer(pirates_train, series = 'Train') +
+  autolayer(pirates_val, series = 'Validation') +
+  autolayer(naive_pirates_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(ma_pirates_forecast, series = 'MA', PI = FALSE, linetype = 'dashed') +
+  autolayer(holt_pirates_forecast, series = 'Holt', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Pirates Attendance') + 
+  theme_minimal()
 
 # ARIMA MODELS
 # Auto ARIMA first
 auto_arima_pirates <- auto.arima(pirates_train)
 auto_arima_pirates_forecast <- forecast(auto_arima_pirates, h = nVal)
 
-# Check accuracy
+# Sarimax
+sarimax_pirates <- auto.arima(pirates_train, xreg = pirates$wins[1:length(pirates_train)])
+sarimax_pirates_forecast <- forecast(sarimax_pirates, xreg = pirates$wins[(length(pirates_train) + 1):(length(pirates_train) + nVal)])
+
+# Sarimax with lagged wins
+sarimax_pirates_lag <- auto.arima(pirates_train, xreg = pirates$wins_lag[1:length(pirates_train)])
+sarimax_pirates_lag_forecast <- forecast(sarimax_pirates_lag, xreg = pirates$wins_lag[(length(pirates_train) + 1):(length(pirates_train) + nVal)])
+
+# Check accuracies
 accuracy(auto_arima_pirates_forecast, pirates_val)
+accuracy(sarimax_pirates_forecast, pirates_val)
+accuracy(sarimax_pirates_lag_forecast, pirates_val)
 
 # Plot
-plot(pirates_ts, type = 'n', xlab = 'Year', ylab = 'Attendance', main = 'Pirates Attendance')
-lines(pirates_train, col = 'blue')
-lines(pirates_val, col = 'red')
-lines(auto_arima_pirates_forecast$mean, col = 'purple')
-lines(naive_pirates_forecast$mean, col = 'green')
-legend('bottomright', c('Train', 'Validation', 'Naive', 'Auto ARIMA'), col = c('blue', 'red', 'green', 'purple'), lty = 1)
+autoplot(pirates_ts) +
+  autolayer(pirates_train, series = 'Train') +
+  autolayer(pirates_val, series = 'Validation') +
+  autolayer(naive_pirates_forecast, series = 'Naive', PI = FALSE, linetype = 'dashed') +
+  autolayer(auto_arima_pirates_forecast, series = 'Auto ARIMA', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_pirates_forecast, series = 'Sarimax', PI = FALSE, linetype = 'dashed') +
+  autolayer(sarimax_pirates_lag_forecast, series = 'Sarimax Lagged', PI = FALSE, linetype = 'dashed') +
+  xlab('Year') + ylab('Attendance') + 
+  ggtitle('Pirates Attendance') + 
+  theme_minimal()
 
-# TOMRROW - RUN LINEAR MODELS WITH LAGGED WINS FACTORED IN
+# Predict
+auto_arima_pirates_future <- auto.arima(pirates_ts, xreg = pirates$wins)
+
+# Fit simple linear model to estimate future wins
+win_years <- seq_along(pirates$wins)
+pirates_win_model <- lm(pirates$wins ~ win_years)
+pirates_future_years <- (max(win_years) + 1):(max(win_years) + 5)
+pirates_future_wins <- predict(pirates_win_model, newdata = data.frame(win_years = pirates_future_years))
+auto_arima_pirates_forecast <- forecast(auto_arima_pirates_future, xreg = pirates_future_wins, h = 5)
+
+# Plot
+autoplot(pirates_ts) +
+  autolayer(auto_arima_pirates_forecast) +
+  xlab('Year') + ylab('Attendance') +
+  ggtitle('Pirates Attendance Forecast') +
+  theme_minimal()
