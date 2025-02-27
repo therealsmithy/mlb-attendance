@@ -165,15 +165,19 @@ cpi_model <- lm(full_league$cpi ~ cpi_years)
 cpi_future_years <- (max(cpi_years) + 1):(max(cpi_years) + 3)
 cpi_future <- predict(cpi_model, newdata = data.frame(cpi_years = cpi_future_years))
 
+# Build new model on full time series
+arimax_full_lag <- auto.arima(full_ts, xreg = full_league$cpi_lag)
+
 # Forecast
 arimax_full_forecast <- forecast(arimax_full_lag, xreg = cpi_future, h = 3)
 
 # Plot
 autoplot(full_ts) +
-  autolayer(arimax_full_forecast) +
+  autolayer(arimax_full_forecast, series = 'Prediction') +
   xlab('Year') + ylab('Attendance') +
-  ggtitle('Full League Attendance Forecast: ARIMAX with Lagged CPI') +
+  ggtitle('Full League Attendance Forecast: ARIMAX with Lagged CPI (2025-2027)') +
   theme_minimal()
+#ggsave('vizzes/full_forecast.jpeg', width = 10, height = 6, dpi = 300)
 
 # WHITE SOX MODEL
 # Create time series object
@@ -306,7 +310,7 @@ arimax_w_sox_forecast <- forecast(arimax_w_sox_lag, xreg = na.omit(w_sox_future_
 
 # Plot
 autoplot(w_sox_ts) +
-  autolayer(arimax_w_sox_forecast) +
+  autolayer(arimax_w_sox_forecast, series = 'Forecast') +
   xlab('Year') + ylab('Attendance') +
   ggtitle('White Sox Attendance Forecast: SARIMAX with Lagged Wins (2025-2027)') +
   theme_minimal()
@@ -435,7 +439,7 @@ ma_tigers_forecast_ts <- ts(ma_tigers_forecast, start = 2025, end = 2027)
 autoplot(tigers_ts) +
   autolayer(ma_tigers_forecast_ts, series = 'Forecast') +
   xlab('Year') + ylab('Attendance') +
-  ggtitle("Tigers Attendance Forecast: Moving Average Method") +
+  ggtitle("Tigers Attendance Forecast: Moving Average Method (2025-2027)") +
   theme_minimal()
 #ggsave('vizzes/tigers_forecast.jpeg', width = 10, height = 6, dpi = 300)
 
@@ -562,7 +566,7 @@ ma_pirates_forecast_ts <- ts(ma_pirates_forecast, start = 2025, end = 2027)
 autoplot(pirates_ts) +
   autolayer(ma_pirates_forecast_ts, series = 'Forecast') +
   xlab('Year') + ylab('Attendance') +
-  ggtitle("Pirates Attendance Forecast: Moving Average Method") +
+  ggtitle("Pirates Attendance Forecast: Moving Average Method (2025-2027)") +
   theme_minimal()
 #ggsave('vizzes/pirates_forecast.jpeg', width = 10, height = 6, dpi = 300)
 
